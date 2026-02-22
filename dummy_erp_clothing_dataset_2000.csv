@@ -1,0 +1,2001 @@
+product_id,category,subcategory,price,discount_percent,color,size,fabric,season,sales_count,rating
+P1125,Jeans,Skinny,â¹612.55,5,RED,Small,Georgette,Summer,302,1.1
+P1287,Kurti,Straight,2774.1,5,Maroon,40,Linen,Winter,229,4.2
+P1142,Dress,Evening,â¹3641.63,5,Navy,Large,Cotton,Summer,194,
+P1373,Saree,Designer,1690.34,15,Black,Small,Linen,Summer,282,3.5
+P1023,Saree,Designer,1365.3,,Navy,L,Cotton,Winter,443,2.1
+P1107,Jeans,Regular,â¹1231.94,,Navy Blue,Small,Georgette,Winter,273,1.7
+P1352,Shirt,Casual,"4,952",20,Navy,Large,Cotton,Winter,420,
+P1467,Saree,Cotton,1704.83,20,Maroon,Large,Silk,Festive,202,3.6
+P1287,Kurti,Anarkali,"1,128",20,Navy Blue,,Linen,Festive,185,5
+P1440,T-Shirt,V-Neck,909.09,0,RED,M,Linen,Summer,197,5
+P1348,T-Shirt,V-Neck,4869.85,,red,40,Polyester,Spring,57,1.6
+P1497,Dress,Party,â¹4441.34,20,Crimson,M,Georgette,Summer,445,4.4
+P1276,T-Shirt,Round Neck,1187.78,20,Red,,Polyester,Festive,9,2.5
+P1484,Saree,Silk,760,0,red,38,Cotton,Winter,65,4.8
+P1216,Kurti,Anarkali,"2,874",5,Black,Medium,Polyester,Festive,343,2.8
+P1032,T-Shirt,V-Neck,1044.52,10,Red,,Georgette,Winter,301,1.3
+P1440,Jeans,Skinny,1530.24,10,red,40,Silk,Spring,342,3.2
+P1401,Jeans,Slim,3092.95,15,Crimson,XL,Silk,Summer,49,2.4
+P1344,Shirt,Casual,4387.27,,White,Small,Cotton,Festive,372,4.4
+P1071,Kurti,Straight,â¹1355.94,15,RED,L,Linen,Winter,447,2.8
+P1428,T-Shirt,Round Neck,727,0,red,Medium,Silk,Festive,248,4.5
+P1135,Dress,Evening,â¹2205.38,15,Navy Blue,XL,Georgette,Festive,79,1.9
+P1382,Dress,Party,3810.82,10,Red,S,Georgette,Festive,257,3.1
+P1035,Dress,Party,860.5,20,red,Medium,Linen,Summer,482,2
+P1336,T-Shirt,Round Neck,â¹3287.22,20,WHITE,40,Polyester,Spring,104,2.3
+P1153,Saree,Cotton,"1,088",15,Dark Blue,Small,Cotton,Festive,318,5
+P1067,Dress,Party,â¹1459.19,10,red,Medium,Polyester,Spring,80,3.2
+P1270,Saree,Designer,"4,927",0,White,40,Polyester,Summer,480,2.1
+P1144,Dress,Party,â¹2989.51,20,Navy,Large,Silk,Spring,258,4.6
+P1022,Dress,Evening,â¹3354.28,0,Dark Blue,M,Polyester,Winter,379,3.8
+P1462,T-Shirt,Round Neck,"1,003",5,Black,S,Polyester,Winter,220,2.2
+P1341,Dress,Casual,1445.34,0,Dark Blue,40,Linen,Winter,473,4.5
+P1473,Kurti,Anarkali,611,10,Crimson,XL,Silk,Spring,81,1.4
+P1179,Dress,Casual,â¹1500.95,10,Crimson,Medium,Silk,Summer,337,2.3
+P1204,Dress,Casual,"2,080",,Black,Large,Cotton,Summer,449,1.7
+P1176,Saree,Silk,â¹987.81,,Crimson,Large,Linen,Summer,197,1.8
+P1473,Dress,Party,"2,462",20,White,Medium,Polyester,Festive,35,4.7
+P1368,T-Shirt,V-Neck,3485.24,10,Black,L,Linen,Spring,206,3.2
+P1346,Kurti,Anarkali,â¹3492.18,,RED,,Georgette,Spring,207,1
+P1310,Saree,Silk,"2,434",,Dark Blue,38,Linen,Festive,345,2.9
+P1263,Jeans,Skinny,â¹3464.83,,White,,Polyester,Summer,419,1.9
+P1012,Saree,Silk,4129.53,0,Navy,38,Georgette,Summer,233,3.5
+P1204,Kurti,A-Line,â¹3633.59,5,RED,S,Cotton,Festive,112,4.8
+P1469,T-Shirt,V-Neck,725.98,0,black,M,Linen,Spring,486,2.8
+P1228,Jeans,Slim,"2,420",5,Maroon,38,Linen,Spring,384,3.6
+P1225,T-Shirt,V-Neck,â¹3320.37,0,Maroon,L,Silk,Spring,171,3.2
+P1078,Kurti,Straight,"1,540",,Navy,Small,Linen,Festive,169,2.7
+P1484,Kurti,Anarkali,"2,252",,Red,,Linen,Festive,3,2.2
+P1279,Shirt,Casual,"2,921",20,Navy,38,Silk,Spring,223,2.6
+P1084,Jeans,Slim,"4,091",15,RED,,Georgette,Summer,464,3.3
+P1443,Dress,Evening,3392.37,15,RED,S,Polyester,Festive,167,2.3
+P1129,Shirt,Casual,â¹3884.04,0,black,S,Georgette,Summer,487,3.6
+P1102,Jeans,Skinny,3894.05,0,WHITE,M,Silk,Winter,242,3.3
+P1085,Kurti,Anarkali,â¹3647.59,20,WHITE,Small,Silk,Spring,55,4.7
+P1101,T-Shirt,V-Neck,"2,284",0,WHITE,Medium,Cotton,Spring,435,4.2
+P1338,T-Shirt,Round Neck,â¹2062.42,10,red,40,Polyester,Summer,434,3
+P1362,Shirt,Casual,â¹3360.13,5,Blue,M,Georgette,Spring,315,3.2
+P1303,Shirt,Casual,"2,460",10,Dark Blue,Medium,Cotton,Spring,451,4
+P1435,T-Shirt,V-Neck,â¹2013.78,10,RED,38,Silk,Spring,408,2.1
+P1485,T-Shirt,V-Neck,"3,001",5,red,Medium,Linen,Festive,284,3.8
+P1047,Jeans,Slim,2708.7,10,Navy,XL,Silk,Spring,339,2.9
+P1281,T-Shirt,V-Neck,"2,414",10,Dark Blue,38,Polyester,Spring,128,3.9
+P1094,Saree,Silk,"3,842",5,Navy,38,Polyester,Spring,51,2.2
+P1273,Saree,Silk,"1,860",5,Navy Blue,S,Cotton,Spring,357,3.6
+P1145,Shirt,Formal,"4,427",15,black,38,Polyester,Winter,494,
+P1251,Shirt,Formal,â¹4199.52,0,WHITE,S,Silk,Winter,415,2.2
+P1310,Kurti,Straight,â¹3011.33,20,Crimson,,Silk,Festive,230,2.2
+P1030,T-Shirt,V-Neck,"1,874",20,Maroon,Small,Silk,Winter,135,1.6
+P1209,Kurti,A-Line,837.79,15,Maroon,,Linen,Spring,16,3.8
+P1473,Jeans,Regular,820.31,10,Crimson,,Silk,Festive,58,3.6
+P1405,Saree,Silk,821.34,10,WHITE,,Polyester,Festive,63,2.2
+P1224,Shirt,Casual,â¹2752.12,0,WHITE,S,Linen,Spring,309,1.4
+P1391,Jeans,Slim,3142.05,,Navy Blue,,Cotton,Winter,240,2.8
+P1325,Saree,Silk,â¹4986.25,15,red,38,Polyester,Festive,170,1.4
+P1147,Kurti,Anarkali,â¹2352.4,,Blue,40,Cotton,Festive,45,2.3
+P1236,Shirt,Formal,"3,459",15,Red,Medium,Georgette,Spring,318,3.5
+P1474,Dress,Evening,1701.75,10,black,38,Cotton,Summer,498,4.2
+P1282,Jeans,Skinny,1898.38,15,red,Medium,Cotton,Festive,484,4.3
+P1212,Shirt,Casual,â¹2789.92,15,black,Medium,Linen,Winter,196,3.4
+P1395,Jeans,Skinny,â¹4388.12,15,Dark Blue,40,Polyester,Summer,144,4.3
+P1275,T-Shirt,V-Neck,â¹4393.67,15,Dark Blue,Large,Georgette,Festive,233,4.5
+P1438,Jeans,Skinny,3073.09,15,Red,Large,Linen,Festive,197,4.2
+P1064,Jeans,Skinny,2728.98,20,WHITE,Large,Cotton,Festive,51,2.8
+P1496,Jeans,Skinny,"2,344",5,red,38,Polyester,Spring,319,3.6
+P1488,Saree,Designer,â¹4367.04,10,White,38,Georgette,Summer,316,
+P1382,Jeans,Slim,4644.18,0,Blue,Small,Cotton,Festive,85,4.6
+P1183,Dress,Casual,â¹4082.65,10,Blue,M,Silk,Festive,289,1.7
+P1317,Kurti,Straight,â¹3242.71,,Navy,38,Georgette,Winter,118,2
+P1461,Saree,Designer,â¹542.29,10,White,40,Silk,Summer,226,5
+P1128,Saree,Designer,"4,829",15,Navy Blue,Medium,Linen,Festive,54,3.3
+P1011,T-Shirt,V-Neck,â¹4967.11,,Blue,L,Cotton,Summer,466,3
+P1112,Saree,Silk,â¹3231.79,,Navy,,Polyester,Winter,321,
+P1017,Jeans,Slim,â¹677.4,20,Dark Blue,M,Cotton,Spring,167,1.7
+P1271,Kurti,A-Line,â¹4444.07,20,Navy Blue,M,Polyester,Festive,495,4
+P1072,Saree,Silk,2607.49,5,White,XL,Georgette,Spring,46,1.1
+P1383,T-Shirt,Round Neck,"2,546",,Navy Blue,,Linen,Spring,55,2.9
+P1331,T-Shirt,V-Neck,4618.65,0,White,38,Polyester,Festive,59,4.8
+P1454,Saree,Cotton,1022.54,20,RED,XL,Linen,Spring,343,3.8
+P1079,T-Shirt,V-Neck,"3,143",15,White,Small,Linen,Festive,480,1.1
+P1437,Saree,Silk,2495.22,10,red,Large,Georgette,Spring,31,1.8
+P1328,Dress,Casual,912.53,,WHITE,S,Cotton,Spring,124,4.1
+P1106,Kurti,Straight,"4,234",20,Navy,Medium,Polyester,Winter,403,1
+P1056,Kurti,Straight,2930.97,,Red,M,Cotton,Spring,404,3.4
+P1379,Dress,Evening,1694.15,15,Black,Small,Cotton,Festive,229,3.1
+P1022,Dress,Casual,"2,767",,Crimson,40,Polyester,Festive,329,1.2
+P1251,Shirt,Casual,2418.23,,black,Small,Cotton,Spring,311,1.5
+P1271,T-Shirt,V-Neck,"2,214",10,black,40,Georgette,Festive,50,1.5
+P1369,Jeans,Slim,"4,449",5,Blue,38,Silk,Festive,173,2.6
+P1340,Jeans,Skinny,â¹1906.47,10,Dark Blue,M,Linen,Summer,46,1.4
+P1284,Dress,Party,3824.58,0,WHITE,40,Georgette,Spring,343,2.4
+P1026,Jeans,Regular,"4,406",10,WHITE,L,Polyester,Summer,295,1.6
+P1432,Shirt,Formal,â¹4312.74,20,Dark Blue,Small,Polyester,Winter,413,3.2
+P1424,T-Shirt,Round Neck,"3,240",,Navy Blue,S,Silk,Spring,359,4.7
+P1289,Saree,Silk,1316.33,,Blue,Small,Silk,Summer,46,1.9
+P1159,Shirt,Casual,â¹2034.03,,Dark Blue,,Georgette,Summer,452,
+P1139,Kurti,A-Line,723.93,15,White,XL,Linen,Festive,212,4
+P1347,Dress,Casual,â¹2434.61,,WHITE,38,Georgette,Spring,23,4.9
+P1392,Dress,Evening,1419.9,5,Crimson,L,Polyester,Spring,61,
+P1272,Jeans,Regular,â¹1290.63,,Navy,40,Georgette,Spring,36,4
+P1441,Shirt,Formal,2568.89,10,WHITE,XL,Georgette,Festive,363,2.2
+P1410,Shirt,Formal,4847.9,20,black,Large,Cotton,Festive,432,2.7
+P1381,Shirt,Formal,â¹2280.95,10,Navy,Large,Silk,Summer,261,3.1
+P1417,Kurti,Anarkali,"2,079",5,Navy,Small,Silk,Spring,101,1.6
+P1252,Jeans,Skinny,"1,297",15,Crimson,,Georgette,Festive,348,3.3
+P1161,Jeans,Slim,"1,954",5,black,Small,Linen,Festive,323,2.1
+P1236,Dress,Casual,â¹2783.02,15,Red,S,Polyester,Spring,39,4.9
+P1236,Dress,Party,â¹3173.36,20,Black,S,Linen,Winter,164,3
+P1365,Dress,Casual,â¹965.76,0,Black,M,Cotton,Winter,362,2.8
+P1198,T-Shirt,Round Neck,â¹2137.54,15,Crimson,Large,Georgette,Summer,404,2.3
+P1145,Saree,Silk,â¹3010.83,10,Maroon,,Silk,Spring,41,1.6
+P1339,Saree,Cotton,"4,854",15,RED,,Cotton,Spring,286,4.2
+P1350,Kurti,A-Line,"3,662",20,red,XL,Georgette,Spring,9,1.7
+P1098,Kurti,Anarkali,â¹4764.51,5,RED,M,Cotton,Spring,432,3
+P1067,T-Shirt,Round Neck,"3,478",20,Blue,M,Silk,Winter,425,3.5
+P1186,Kurti,A-Line,â¹2469.53,,Maroon,Medium,Linen,Spring,385,2.8
+P1462,T-Shirt,Round Neck,â¹1892.61,5,Dark Blue,,Linen,Festive,393,2.5
+P1410,T-Shirt,V-Neck,4848.21,20,RED,L,Cotton,Festive,447,4.7
+P1042,Jeans,Slim,â¹4330.25,5,Navy Blue,38,Georgette,Winter,425,4.8
+P1212,Kurti,Anarkali,4480.83,0,Blue,40,Polyester,Winter,197,2.5
+P1332,Dress,Casual,"4,688",10,Crimson,M,Silk,Summer,146,2.9
+P1002,Kurti,A-Line,"2,611",0,Red,L,Silk,Winter,280,3.4
+P1154,Shirt,Formal,3992.78,0,Red,Medium,Linen,Festive,32,4.6
+P1123,T-Shirt,Round Neck,"3,343",,RED,L,Linen,Summer,314,3.3
+P1499,Kurti,A-Line,"3,506",10,red,40,Georgette,Summer,199,1.2
+P1182,Shirt,Casual,1641.43,0,Dark Blue,Medium,Cotton,Spring,68,
+P1425,T-Shirt,V-Neck,4160.79,,black,38,Silk,Winter,32,4.8
+P1453,Dress,Casual,1407.16,0,Dark Blue,L,Georgette,Festive,417,2
+P1443,Jeans,Skinny,1787.5,,Dark Blue,L,Cotton,Spring,223,4
+P1354,Shirt,Casual,â¹4881.76,15,Dark Blue,40,Polyester,Summer,372,2.7
+P1040,Kurti,A-Line,1821.95,10,White,L,Polyester,Festive,308,1.7
+P1445,Shirt,Casual,"2,512",10,WHITE,XL,Polyester,Summer,38,2.6
+P1434,T-Shirt,Round Neck,4787.55,20,White,38,Cotton,Winter,34,3.6
+P1309,Saree,Cotton,4772.6,5,White,38,Polyester,Spring,227,3.3
+P1142,T-Shirt,V-Neck,"2,291",5,red,S,Silk,Festive,265,3.2
+P1313,Saree,Cotton,3668.17,10,Maroon,38,Silk,Summer,69,2.8
+P1495,Jeans,Regular,"4,987",10,White,Large,Cotton,Spring,456,1.6
+P1260,Jeans,Slim,â¹3369.65,5,red,Medium,Silk,Winter,404,2.4
+P1066,T-Shirt,V-Neck,"2,603",20,red,Small,Polyester,Festive,367,3.1
+P1328,Shirt,Formal,â¹1063.97,0,black,38,Georgette,Spring,65,4.1
+P1221,Jeans,Slim,1318.83,20,Red,Small,Georgette,Winter,155,2.3
+P1458,Jeans,Skinny,"2,057",10,red,L,Silk,Spring,64,3.5
+P1482,Dress,Party,"3,384",20,RED,M,Georgette,Spring,431,1.2
+P1394,Dress,Evening,704,20,Navy Blue,Medium,Georgette,Festive,316,3
+P1247,Jeans,Slim,â¹1803.52,5,Crimson,XL,Polyester,Festive,37,1.6
+P1310,Shirt,Casual,â¹2589.99,5,Dark Blue,Large,Polyester,Festive,66,3.1
+P1136,Dress,Casual,1587.82,15,Navy,M,Cotton,Summer,148,4.5
+P1416,Shirt,Formal,4832.09,10,WHITE,Large,Silk,Winter,255,2.9
+P1258,Saree,Cotton,â¹604.29,15,Navy,Medium,Georgette,Spring,24,
+P1433,Shirt,Casual,1785.87,0,Blue,M,Polyester,Spring,391,1.2
+P1283,Dress,Party,â¹3028.18,10,red,XL,Georgette,Festive,391,4.3
+P1201,T-Shirt,Round Neck,1078.99,10,Crimson,Large,Georgette,Spring,386,3.4
+P1365,Shirt,Formal,703.87,10,Crimson,38,Georgette,Festive,76,3.1
+P1315,Saree,Designer,â¹1933.39,,Navy Blue,,Polyester,Festive,362,2.9
+P1213,Dress,Casual,1990.58,20,Navy Blue,S,Georgette,Festive,135,4.1
+P1245,T-Shirt,Round Neck,"3,746",5,Black,,Linen,Winter,420,1.1
+P1160,Jeans,Skinny,â¹1358.53,15,RED,XL,Silk,Festive,256,4.7
+P1265,Jeans,Slim,780.27,5,Black,Large,Linen,Festive,160,2.8
+P1395,T-Shirt,V-Neck,"2,958",,White,L,Georgette,Festive,98,2.1
+P1394,Saree,Silk,â¹4736.68,10,Maroon,Medium,Linen,Spring,245,4.7
+P1346,Jeans,Regular,"1,795",20,Blue,XL,Polyester,Winter,148,
+P1335,Jeans,Skinny,â¹2058.64,10,Maroon,38,Silk,Winter,423,4.7
+P1379,Jeans,Regular,"1,117",20,Navy,Medium,Cotton,Winter,326,1.4
+P1394,Saree,Designer,"2,625",5,Red,40,Silk,Festive,334,4.5
+P1164,Shirt,Formal,â¹3901.6,10,White,S,Cotton,Winter,273,4.4
+P1478,Dress,Evening,2380.48,0,Blue,38,Silk,Spring,448,
+P1145,Saree,Designer,â¹3212.52,15,White,40,Georgette,Festive,455,4.4
+P1169,Shirt,Casual,1367.65,5,Maroon,38,Polyester,Winter,7,4.2
+P1459,T-Shirt,Round Neck,"1,289",15,Blue,40,Polyester,Summer,205,1.7
+P1003,Kurti,Anarkali,1956.21,10,Blue,Medium,Linen,Spring,488,3.3
+P1354,T-Shirt,Round Neck,â¹1676.99,5,Red,Small,Linen,Spring,81,3
+P1469,Jeans,Regular,"3,606",10,Dark Blue,,Silk,Winter,490,1.6
+P1281,Jeans,Slim,"2,181",15,Crimson,40,Silk,Winter,348,4.5
+P1185,Dress,Party,"2,510",0,WHITE,Small,Cotton,Winter,293,1.7
+P1367,T-Shirt,V-Neck,1023.08,20,black,Small,Georgette,Festive,414,
+P1029,Kurti,A-Line,"2,369",20,black,L,Cotton,Festive,130,4
+P1358,T-Shirt,Round Neck,â¹703.8,0,Black,S,Cotton,Festive,16,1.7
+P1493,Kurti,A-Line,"4,902",15,Dark Blue,XL,Linen,Festive,192,
+P1060,Jeans,Slim,â¹1098.45,5,Black,XL,Georgette,Winter,372,4.3
+P1278,Dress,Casual,"2,583",15,Black,XL,Silk,Winter,235,2.1
+P1214,Jeans,Skinny,644,20,Crimson,S,Silk,Winter,34,1.1
+P1205,T-Shirt,Round Neck,1601.3,15,Navy,40,Silk,Summer,71,2.2
+P1395,Jeans,Slim,"1,935",,Dark Blue,Medium,Polyester,Winter,338,2.7
+P1450,Saree,Silk,"3,005",,RED,XL,Georgette,Festive,24,4.8
+P1356,Jeans,Regular,â¹4036.12,15,Blue,M,Polyester,Festive,94,2.9
+P1412,Kurti,Anarkali,4358.94,15,Red,40,Linen,Festive,285,2.6
+P1472,Saree,Silk,1986.18,15,Dark Blue,Small,Georgette,Winter,26,3.7
+P1411,T-Shirt,Round Neck,4431.29,20,Maroon,40,Silk,Festive,106,2.3
+P1060,Dress,Evening,"4,717",,Crimson,38,Silk,Winter,203,3.2
+P1183,Saree,Cotton,"2,598",10,Navy Blue,Large,Georgette,Festive,238,
+P1468,Jeans,Regular,â¹3927.33,5,Dark Blue,Large,Linen,Summer,288,4
+P1296,Dress,Casual,"2,989",,Blue,L,Silk,Winter,168,3.3
+P1172,Kurti,Anarkali,"2,977",10,Crimson,38,Linen,Festive,86,2.4
+P1469,Kurti,A-Line,2959.46,20,White,S,Georgette,Summer,429,4.8
+P1070,Jeans,Skinny,â¹3939.52,,Navy,Small,Silk,Summer,111,2.5
+P1003,T-Shirt,V-Neck,3466.78,20,Black,XL,Cotton,Summer,271,3.1
+P1345,Saree,Silk,"2,759",15,Crimson,M,Cotton,Summer,268,1.8
+P1407,T-Shirt,V-Neck,â¹4168.46,15,red,Large,Linen,Festive,289,3.8
+P1334,Saree,Designer,4226.28,,Crimson,S,Cotton,Festive,194,2.9
+P1255,Jeans,Skinny,3662.8,15,White,Large,Georgette,Summer,458,1.2
+P1138,Kurti,A-Line,â¹4493.99,0,red,L,Georgette,Summer,91,2.3
+P1420,Kurti,A-Line,"1,148",15,red,L,Silk,Winter,290,2.6
+P1071,T-Shirt,V-Neck,"2,227",,Maroon,Small,Georgette,Spring,27,
+P1488,Kurti,Straight,"2,032",20,Blue,Large,Cotton,Spring,401,3
+P1095,Saree,Designer,â¹4735.14,,WHITE,XL,Cotton,Spring,408,1.3
+P1078,Saree,Silk,"2,210",,Blue,Large,Polyester,Summer,46,
+P1052,Saree,Cotton,â¹2119.63,5,red,M,Linen,Festive,285,2.6
+P1305,Dress,Evening,2092.61,20,Crimson,Large,Linen,Summer,149,4.1
+P1292,Jeans,Slim,4573.43,20,RED,XL,Silk,Winter,137,3
+P1153,Dress,Evening,â¹2456.04,15,Crimson,Small,Polyester,Spring,483,3.5
+P1155,T-Shirt,Round Neck,2560.38,0,Blue,Large,Georgette,Festive,411,2.8
+P1485,Shirt,Formal,"1,851",,Navy,38,Polyester,Winter,493,2.3
+P1400,Jeans,Slim,"3,348",5,Dark Blue,XL,Polyester,Festive,186,3.3
+P1013,T-Shirt,Round Neck,"3,567",,black,Medium,Linen,Spring,425,4.3
+P1123,Shirt,Casual,â¹1126.31,10,White,M,Linen,Festive,37,3.4
+P1214,T-Shirt,V-Neck,"2,904",20,Red,Large,Georgette,Summer,55,3.6
+P1288,Saree,Silk,3411.5,,White,XL,Polyester,Festive,54,
+P1285,Saree,Silk,"2,798",20,Maroon,,Silk,Festive,191,4.1
+P1247,T-Shirt,Round Neck,2052.35,0,Navy Blue,XL,Cotton,Summer,425,1.6
+P1266,Saree,Cotton,2549,15,Dark Blue,38,Cotton,Festive,369,2.3
+P1011,Saree,Silk,4145.84,10,White,Small,Silk,Winter,264,1.6
+P1408,T-Shirt,V-Neck,4813.08,15,White,M,Silk,Festive,202,
+P1199,T-Shirt,Round Neck,â¹2523.09,0,Maroon,Medium,Silk,Spring,385,4.2
+P1095,T-Shirt,Round Neck,"4,097",10,Dark Blue,Medium,Linen,Summer,134,3
+P1200,Jeans,Regular,"3,186",20,red,Large,Polyester,Festive,316,3.7
+P1068,Saree,Designer,"3,155",10,red,Medium,Polyester,Summer,93,1.6
+P1196,Shirt,Casual,"3,183",15,RED,38,Georgette,Winter,284,2.2
+P1027,Kurti,Anarkali,"4,288",10,Red,38,Silk,Winter,417,3.2
+P1212,Jeans,Regular,â¹2341.1,,black,38,Silk,Summer,289,
+P1275,Kurti,Anarkali,647.13,10,RED,38,Georgette,Festive,281,3.3
+P1277,Saree,Designer,â¹4204.77,0,Crimson,38,Georgette,Winter,217,4.3
+P1230,Kurti,Anarkali,4436.64,10,Dark Blue,Small,Linen,Summer,397,1.8
+P1312,Jeans,Slim,"3,601",,Blue,M,Georgette,Winter,401,1.8
+P1305,Dress,Party,â¹2078.67,20,RED,Large,Polyester,Spring,293,4.4
+P1470,Jeans,Skinny,â¹1110.15,0,Navy Blue,M,Silk,Winter,74,4.3
+P1323,Jeans,Regular,"2,702",10,White,XL,Linen,Festive,38,4.5
+P1355,Dress,Casual,â¹2820.26,10,black,38,Polyester,Summer,444,3.9
+P1183,Jeans,Regular,"3,356",0,Crimson,40,Linen,Winter,495,1.8
+P1280,Saree,Cotton,â¹4227.55,20,RED,,Linen,Spring,457,1.2
+P1008,Dress,Party,â¹4027.5,0,RED,38,Linen,Summer,490,5
+P1047,Kurti,A-Line,â¹1858.39,,Dark Blue,L,Cotton,Spring,340,1.7
+P1219,Shirt,Casual,3766.95,,red,Small,Cotton,Winter,244,
+P1004,T-Shirt,Round Neck,â¹2837.5,0,Maroon,Large,Cotton,Festive,355,1.3
+P1052,Shirt,Formal,3788.44,10,Dark Blue,L,Silk,Festive,396,4.5
+P1288,Jeans,Slim,"1,142",0,WHITE,M,Linen,Spring,369,4
+P1459,Shirt,Casual,4369.83,0,RED,Small,Georgette,Festive,179,2.3
+P1127,Kurti,Straight,1746.35,20,WHITE,,Georgette,Spring,398,1.1
+P1260,Jeans,Regular,"1,424",5,Maroon,XL,Polyester,Summer,401,4.8
+P1326,Shirt,Casual,â¹1007.35,20,red,40,Cotton,Spring,478,2.5
+P1088,T-Shirt,V-Neck,"2,144",15,Crimson,Small,Cotton,Summer,7,1.2
+P1364,Dress,Casual,"2,779",20,Crimson,XL,Linen,Festive,42,3.2
+P1261,Kurti,Anarkali,876.19,5,Crimson,M,Georgette,Spring,200,4.1
+P1357,Jeans,Slim,â¹3394.2,15,Maroon,Medium,Cotton,Winter,44,1.5
+P1336,T-Shirt,Round Neck,"1,891",,RED,Small,Cotton,Winter,359,
+P1132,Shirt,Casual,"2,853",5,Dark Blue,M,Polyester,Summer,394,2.3
+P1364,Shirt,Casual,â¹2857.34,20,White,Small,Linen,Festive,261,3
+P1395,T-Shirt,Round Neck,â¹2154.6,0,WHITE,Small,Silk,Summer,22,1
+P1091,Dress,Casual,2137.89,0,Black,XL,Silk,Spring,127,3.9
+P1257,Saree,Silk,3071.91,,Red,M,Silk,Summer,488,4.5
+P1233,Saree,Cotton,"1,972",0,Dark Blue,Medium,Polyester,Spring,378,2.9
+P1375,T-Shirt,V-Neck,4990.04,20,Crimson,Medium,Silk,Summer,477,1.9
+P1486,Saree,Designer,4278.08,10,Red,XL,Polyester,Summer,105,2
+P1364,Shirt,Formal,4876.52,10,red,S,Silk,Festive,358,2.8
+P1068,Jeans,Skinny,"3,113",,Blue,Small,Georgette,Summer,222,1.5
+P1358,Saree,Cotton,â¹4329.11,,Dark Blue,Large,Linen,Spring,119,
+P1055,Kurti,Straight,"4,009",5,red,M,Linen,Festive,160,3.1
+P1436,Kurti,Anarkali,â¹1887.38,0,red,M,Polyester,Summer,110,2.3
+P1202,Dress,Party,â¹1616.98,20,Red,L,Polyester,Winter,15,4.4
+P1411,T-Shirt,Round Neck,926.26,5,red,S,Cotton,Winter,66,2.6
+P1298,Jeans,Slim,4719.09,20,Navy Blue,Small,Cotton,Summer,101,2.8
+P1062,Kurti,Straight,â¹4572.85,0,black,S,Silk,Festive,420,3
+P1465,Shirt,Casual,1277.63,5,Navy Blue,L,Linen,Winter,17,3.5
+P1245,Jeans,Regular,"2,745",0,red,L,Linen,Winter,214,4.5
+P1406,T-Shirt,Round Neck,"3,338",0,Blue,Large,Linen,Festive,176,3
+P1305,Shirt,Casual,â¹1309.17,5,Red,L,Cotton,Festive,271,3.3
+P1123,Kurti,Straight,950,10,Black,S,Silk,Festive,181,5
+P1412,Kurti,Straight,â¹1564.48,,Maroon,Large,Georgette,Summer,360,4.8
+P1428,T-Shirt,Round Neck,3033.99,15,Black,L,Silk,Festive,19,
+P1244,Kurti,A-Line,"1,484",0,Dark Blue,,Silk,Winter,174,4.7
+P1360,Saree,Silk,598,5,Crimson,Small,Georgette,Spring,491,
+P1172,Jeans,Slim,2280.18,10,Dark Blue,M,Silk,Festive,405,2.9
+P1355,Saree,Silk,"3,682",20,Crimson,Large,Silk,Winter,193,3.8
+P1485,Kurti,Straight,"3,779",20,Blue,,Cotton,Winter,308,4.2
+P1479,T-Shirt,Round Neck,3378.41,15,RED,Large,Cotton,Winter,177,1.7
+P1453,Dress,Party,"3,515",10,black,S,Polyester,Winter,127,2.4
+P1224,Dress,Party,â¹505.77,,Blue,M,Linen,Festive,451,3.2
+P1333,Dress,Casual,"4,049",,Navy,M,Linen,Summer,409,2.2
+P1175,Saree,Cotton,4782.48,5,Blue,M,Cotton,Summer,173,3.5
+P1084,Shirt,Formal,"2,440",20,Blue,M,Cotton,Summer,169,1.8
+P1276,Jeans,Slim,"3,749",10,White,L,Polyester,Winter,49,
+P1001,T-Shirt,V-Neck,â¹1191.15,15,red,L,Georgette,Festive,102,
+P1242,Kurti,Straight,3371.86,0,Navy Blue,XL,Linen,Festive,458,1.4
+P1189,T-Shirt,V-Neck,â¹1331.97,5,black,S,Polyester,Festive,238,4.3
+P1341,T-Shirt,Round Neck,"1,180",0,red,Large,Georgette,Festive,497,1.9
+P1494,Dress,Casual,â¹4182.82,20,White,38,Georgette,Winter,243,2.6
+P1409,Jeans,Skinny,"2,759",20,White,,Silk,Summer,486,1.7
+P1021,Kurti,Straight,4138.07,15,red,XL,Silk,Winter,427,2.3
+P1203,Jeans,Skinny,891,20,Dark Blue,L,Georgette,Festive,469,4.1
+P1075,T-Shirt,V-Neck,1006.33,20,WHITE,,Cotton,Summer,288,4.1
+P1196,T-Shirt,V-Neck,â¹4450.52,,black,,Georgette,Festive,19,2.6
+P1353,T-Shirt,V-Neck,â¹674.52,5,Red,38,Polyester,Spring,10,4.2
+P1350,Saree,Cotton,"4,292",0,Navy,M,Polyester,Festive,396,2.1
+P1467,Shirt,Formal,1345.71,15,Maroon,38,Georgette,Spring,420,
+P1206,Kurti,Straight,"1,900",5,Crimson,40,Georgette,Summer,88,4.3
+P1470,Dress,Evening,648.82,10,Maroon,Medium,Polyester,Spring,421,2.6
+P1250,Dress,Party,â¹637.53,20,black,M,Linen,Spring,176,4.6
+P1197,Jeans,Slim,906.76,0,RED,,Silk,Winter,331,1.8
+P1004,Jeans,Regular,"2,809",15,RED,M,Georgette,Summer,114,4.2
+P1140,Saree,Designer,"4,851",15,Blue,Large,Linen,Spring,111,3.7
+P1261,T-Shirt,V-Neck,3130.19,,Dark Blue,40,Georgette,Spring,152,2.9
+P1133,Saree,Cotton,â¹3382.68,,Maroon,L,Silk,Winter,264,4.6
+P1071,T-Shirt,V-Neck,"3,472",,Red,38,Polyester,Spring,464,2.6
+P1417,Dress,Party,"3,686",5,Dark Blue,Medium,Georgette,Festive,464,2.4
+P1092,Saree,Silk,"4,282",10,red,38,Silk,Spring,371,4.1
+P1045,Kurti,A-Line,"4,548",5,Dark Blue,Medium,Polyester,Festive,403,2.5
+P1240,T-Shirt,V-Neck,2586.92,0,White,,Georgette,Summer,241,3
+P1027,Jeans,Regular,â¹2884.27,5,RED,Medium,Polyester,Festive,291,4.9
+P1398,Kurti,Anarkali,4380.77,0,black,Large,Silk,Spring,324,
+P1295,Shirt,Casual,1442.22,5,black,Small,Silk,Festive,324,2.7
+P1102,Shirt,Casual,521,,Dark Blue,S,Polyester,Winter,9,3.5
+P1159,Kurti,Straight,â¹3620.86,5,red,XL,Georgette,Spring,85,
+P1372,Dress,Casual,â¹4768.09,20,WHITE,40,Polyester,Festive,454,1.5
+P1485,Shirt,Casual,3875.52,15,Red,Medium,Silk,Winter,108,3.4
+P1405,Kurti,Straight,"2,149",0,Blue,L,Georgette,Summer,304,3.6
+P1213,Jeans,Skinny,717.06,15,Blue,Small,Georgette,Spring,242,1.8
+P1338,Jeans,Slim,â¹541.87,0,White,40,Polyester,Winter,214,1.4
+P1401,Jeans,Slim,1029.81,0,black,Medium,Georgette,Winter,398,3.1
+P1082,Kurti,Anarkali,â¹3665.47,0,Black,38,Silk,Festive,169,1.1
+P1252,Dress,Evening,"4,258",5,red,40,Cotton,Summer,463,1.9
+P1416,Saree,Cotton,2589.25,5,Red,L,Polyester,Spring,218,1.4
+P1331,Dress,Evening,"4,333",5,Dark Blue,Large,Linen,Spring,449,2.5
+P1492,Saree,Silk,â¹1012.24,15,Navy Blue,XL,Linen,Festive,332,1.7
+P1053,Kurti,A-Line,3768.85,15,WHITE,38,Georgette,Festive,92,4.1
+P1498,T-Shirt,Round Neck,"4,381",5,black,38,Cotton,Festive,225,
+P1444,Saree,Designer,"1,914",,Black,,Georgette,Winter,500,4.5
+P1127,T-Shirt,Round Neck,"2,447",15,Dark Blue,XL,Silk,Summer,5,1.6
+P1384,Shirt,Casual,4412.37,15,Dark Blue,Medium,Polyester,Spring,25,3.2
+P1235,Shirt,Casual,4176.96,15,Crimson,,Linen,Summer,438,2.3
+P1018,Shirt,Formal,â¹961.89,20,Black,S,Cotton,Spring,455,1.8
+P1422,Jeans,Regular,â¹4776.6,0,Navy,38,Polyester,Festive,366,3.9
+P1001,Dress,Evening,3916.94,10,Dark Blue,L,Georgette,Spring,359,4.6
+P1369,Shirt,Formal,"4,198",15,red,L,Georgette,Winter,96,4.4
+P1366,Kurti,Anarkali,4210.49,10,red,XL,Cotton,Summer,395,2.8
+P1271,T-Shirt,Round Neck,4837.35,,Red,40,Linen,Festive,473,4.7
+P1417,Kurti,A-Line,"3,103",5,red,XL,Georgette,Spring,258,2.7
+P1496,T-Shirt,Round Neck,â¹1731.18,10,black,M,Silk,Festive,308,4
+P1364,Saree,Designer,â¹2965.13,,Black,Medium,Silk,Winter,319,3.7
+P1499,Jeans,Skinny,"4,916",5,Black,40,Polyester,Summer,389,2.9
+P1146,T-Shirt,V-Neck,"3,534",15,Crimson,S,Georgette,Summer,12,1.2
+P1146,Dress,Evening,1701.4,,Navy Blue,M,Cotton,Spring,104,1.1
+P1378,Shirt,Formal,"3,272",20,Navy,40,Linen,Winter,261,4.2
+P1198,Saree,Designer,â¹3490.22,15,Crimson,Large,Georgette,Summer,6,1.8
+P1363,Shirt,Formal,"4,601",,Dark Blue,,Georgette,Winter,397,1.8
+P1095,Shirt,Formal,4925.54,5,Maroon,40,Cotton,Festive,20,3.2
+P1002,Kurti,Straight,â¹3127.94,10,black,M,Cotton,Winter,475,1.2
+P1251,Jeans,Slim,â¹4294.13,20,Black,Large,Cotton,Spring,269,1.7
+P1274,Dress,Party,"1,217",15,red,Large,Silk,Winter,339,2.4
+P1421,Kurti,A-Line,"2,887",,Red,Small,Polyester,Festive,123,3.5
+P1453,T-Shirt,Round Neck,"4,815",10,Blue,Small,Linen,Spring,276,1.1
+P1228,T-Shirt,V-Neck,"2,814",15,Red,L,Silk,Spring,263,
+P1273,Dress,Evening,"4,872",0,White,Small,Silk,Winter,442,4.3
+P1396,Kurti,A-Line,"4,229",15,White,Small,Silk,Summer,235,1.2
+P1285,Dress,Evening,â¹1300.96,0,WHITE,Medium,Polyester,Festive,198,2.6
+P1273,Saree,Silk,2252.76,0,White,,Cotton,Summer,358,2.4
+P1154,T-Shirt,Round Neck,"1,804",20,red,L,Linen,Festive,202,1.1
+P1200,Kurti,A-Line,"1,489",20,Navy Blue,M,Polyester,Spring,490,3.2
+P1293,T-Shirt,Round Neck,1054.56,20,Blue,40,Georgette,Summer,156,4
+P1435,Jeans,Regular,"1,452",20,RED,M,Silk,Winter,315,1.8
+P1435,Kurti,A-Line,4098.47,20,black,40,Cotton,Spring,343,
+P1487,Dress,Evening,â¹3765.15,10,Dark Blue,M,Silk,Summer,145,4.6
+P1337,Saree,Cotton,"2,527",10,Maroon,,Silk,Spring,413,2.7
+P1364,Dress,Casual,1607.79,,White,XL,Polyester,Spring,68,2.3
+P1249,Shirt,Casual,â¹2504.11,20,red,M,Georgette,Summer,430,4.3
+P1039,T-Shirt,Round Neck,"1,684",,red,S,Georgette,Summer,416,2.6
+P1133,T-Shirt,Round Neck,"4,578",20,Black,38,Silk,Spring,200,4.1
+P1261,Jeans,Regular,"1,102",0,Blue,Large,Georgette,Summer,339,4.9
+P1228,T-Shirt,Round Neck,3907.43,5,RED,,Georgette,Winter,376,4.8
+P1032,Dress,Evening,3926.63,10,Dark Blue,Medium,Cotton,Winter,265,2.4
+P1332,Shirt,Casual,4466.98,10,red,40,Polyester,Spring,296,1.7
+P1459,Jeans,Regular,"2,143",0,Black,L,Linen,Winter,264,4.3
+P1003,Saree,Cotton,"4,066",20,RED,38,Silk,Winter,39,2.1
+P1367,Kurti,Straight,"1,208",0,White,Medium,Linen,Spring,368,3.7
+P1426,Shirt,Formal,"3,158",15,Red,Medium,Cotton,Winter,293,1.5
+P1028,T-Shirt,Round Neck,4508.59,5,Navy Blue,M,Georgette,Festive,306,3.6
+P1484,Jeans,Slim,â¹3477.85,0,Navy,38,Georgette,Festive,444,1.9
+P1319,Shirt,Formal,4075.77,,Black,L,Silk,Spring,472,3.4
+P1008,Kurti,Anarkali,2234.58,5,Black,40,Linen,Winter,310,
+P1257,Shirt,Formal,"4,449",0,red,38,Silk,Summer,459,3.7
+P1357,Shirt,Casual,2166.7,20,Blue,Medium,Linen,Festive,179,4
+P1130,Jeans,Slim,939.73,15,Crimson,Medium,Cotton,Spring,306,2.6
+P1295,Kurti,Straight,3691.17,20,red,40,Cotton,Festive,335,4.2
+P1333,Shirt,Casual,â¹979.62,20,Navy Blue,L,Georgette,Festive,289,2.1
+P1282,Jeans,Regular,â¹3897.37,20,black,M,Polyester,Festive,129,3.3
+P1060,Jeans,Regular,"3,811",,Navy,38,Silk,Summer,109,4.1
+P1002,T-Shirt,Round Neck,"1,223",0,RED,38,Georgette,Festive,45,
+P1370,Kurti,Anarkali,860.18,15,Blue,,Georgette,Spring,364,1.2
+P1103,Kurti,A-Line,2724.66,,Crimson,40,Polyester,Winter,17,3
+P1018,Jeans,Skinny,"3,268",10,Navy,S,Silk,Summer,141,2.4
+P1007,Shirt,Casual,"3,137",,Maroon,Small,Cotton,Spring,371,4.7
+P1115,Saree,Cotton,â¹4834.79,20,Navy,38,Linen,Summer,133,3
+P1484,T-Shirt,Round Neck,â¹2764.26,0,Crimson,40,Polyester,Spring,355,2.5
+P1348,Shirt,Formal,â¹3908.63,15,WHITE,S,Linen,Summer,132,
+P1409,Jeans,Skinny,3546.11,10,Blue,Large,Georgette,Summer,358,2
+P1038,Dress,Casual,â¹3531.64,20,RED,38,Polyester,Spring,111,2.1
+P1255,Jeans,Slim,4686.15,,Navy,Medium,Silk,Spring,105,4.3
+P1061,T-Shirt,V-Neck,1201.98,0,White,38,Georgette,Summer,391,4.8
+P1459,Shirt,Casual,â¹3293.0,20,Navy Blue,38,Silk,Spring,203,3.3
+P1481,Dress,Party,â¹4096.71,20,Red,40,Polyester,Festive,440,1.7
+P1352,Dress,Party,â¹2831.92,0,Red,Medium,Linen,Summer,166,4.4
+P1241,Kurti,A-Line,â¹1682.82,20,Dark Blue,Large,Silk,Festive,217,3.8
+P1230,Saree,Cotton,â¹4344.47,5,WHITE,M,Georgette,Winter,416,
+P1100,Saree,Silk,â¹2999.03,5,Crimson,M,Linen,Summer,90,1.5
+P1402,Jeans,Slim,â¹2902.92,15,Navy Blue,L,Georgette,Summer,203,
+P1243,Kurti,Straight,â¹1469.6,,red,38,Polyester,Spring,184,3.2
+P1179,Saree,Cotton,589.26,,WHITE,Medium,Georgette,Winter,399,2.3
+P1455,T-Shirt,V-Neck,â¹3986.35,0,Blue,,Polyester,Festive,323,4.5
+P1292,Jeans,Regular,"2,398",15,red,Small,Silk,Spring,116,3.6
+P1138,Jeans,Regular,â¹3224.23,15,Crimson,Large,Georgette,Festive,211,4.4
+P1481,Kurti,A-Line,â¹1555.82,,Maroon,Small,Silk,Winter,203,1.3
+P1268,Shirt,Formal,â¹618.64,0,red,L,Georgette,Winter,43,4.5
+P1226,Saree,Silk,â¹1613.28,,RED,M,Georgette,Winter,14,
+P1499,Saree,Cotton,â¹4389.09,20,Navy Blue,40,Linen,Winter,496,3.2
+P1449,T-Shirt,V-Neck,"3,339",20,Blue,40,Georgette,Spring,465,3.2
+P1133,Dress,Casual,â¹1885.41,5,Navy Blue,S,Cotton,Winter,176,3.1
+P1153,Jeans,Regular,â¹4761.31,0,Crimson,XL,Polyester,Winter,407,
+P1223,Saree,Silk,"2,352",15,Navy,M,Linen,Festive,112,2.7
+P1413,Kurti,A-Line,"3,940",,White,L,Polyester,Spring,211,1.3
+P1316,Kurti,Anarkali,â¹996.6,15,Navy Blue,,Linen,Winter,164,
+P1144,Dress,Party,599.59,10,RED,38,Cotton,Winter,46,3
+P1190,Saree,Cotton,â¹1902.1,15,Maroon,S,Polyester,Summer,431,1.6
+P1092,Saree,Cotton,â¹821.23,5,Navy Blue,XL,Cotton,Summer,498,2
+P1101,Shirt,Formal,3819.29,15,Maroon,Small,Georgette,Winter,242,4.8
+P1381,Saree,Silk,3331.24,20,Black,Small,Polyester,Festive,326,2.4
+P1120,Dress,Party,1480.05,,Blue,Large,Cotton,Winter,406,1.5
+P1401,Kurti,Straight,"4,859",,black,,Silk,Spring,394,
+P1173,Kurti,Anarkali,911,,Red,S,Polyester,Winter,359,1.4
+P1403,Shirt,Formal,"1,925",,Crimson,Large,Linen,Winter,10,2.4
+P1361,Kurti,Anarkali,â¹4543.98,15,Black,L,Georgette,Festive,97,3.2
+P1468,Saree,Designer,"2,607",20,RED,Small,Georgette,Winter,230,2.1
+P1259,Saree,Cotton,503,15,Maroon,M,Cotton,Spring,397,2.3
+P1097,Dress,Party,â¹4852.23,20,White,38,Georgette,Winter,313,2.6
+P1034,Saree,Silk,933,0,RED,M,Cotton,Winter,54,1.4
+P1319,T-Shirt,V-Neck,"3,460",,WHITE,L,Cotton,Spring,113,1.3
+P1239,Kurti,A-Line,2711.32,,Red,Large,Georgette,Festive,420,3.8
+P1036,T-Shirt,V-Neck,"2,880",10,red,Medium,Georgette,Summer,51,3.1
+P1291,Kurti,Straight,2867.86,,RED,40,Georgette,Festive,382,3.6
+P1218,Saree,Designer,"2,564",0,RED,M,Georgette,Festive,258,1.6
+P1281,T-Shirt,V-Neck,â¹4700.84,10,Dark Blue,XL,Linen,Spring,311,3.2
+P1229,Shirt,Casual,â¹2120.04,15,Red,S,Polyester,Summer,265,4.6
+P1438,Dress,Casual,4929.77,10,Red,L,Georgette,Winter,48,
+P1455,Saree,Silk,â¹1122.84,20,Navy,Medium,Polyester,Spring,47,3.3
+P1405,Kurti,A-Line,â¹847.41,15,RED,38,Georgette,Summer,304,1.1
+P1471,T-Shirt,V-Neck,853.15,10,Dark Blue,XL,Linen,Summer,445,4
+P1195,T-Shirt,Round Neck,"3,352",0,Navy Blue,40,Cotton,Spring,276,2.3
+P1374,Jeans,Skinny,"1,189",15,black,,Georgette,Summer,113,4.1
+P1292,Kurti,Straight,â¹2012.76,,Red,40,Linen,Spring,43,2.7
+P1286,Jeans,Skinny,â¹3929.15,5,black,XL,Georgette,Winter,287,3.9
+P1165,Kurti,Straight,â¹822.4,,WHITE,Small,Cotton,Festive,216,1.8
+P1086,Saree,Designer,â¹3449.34,10,WHITE,38,Georgette,Winter,225,
+P1387,Kurti,Straight,3584.12,,red,Small,Cotton,Winter,485,1.6
+P1156,Saree,Silk,2044.72,15,black,S,Polyester,Winter,378,1.8
+P1373,T-Shirt,V-Neck,"2,969",5,Maroon,S,Linen,Summer,130,2.1
+P1335,Jeans,Slim,â¹1720.77,0,red,XL,Polyester,Spring,442,2.2
+P1260,Jeans,Regular,â¹1540.26,,red,Large,Linen,Summer,95,4.9
+P1156,T-Shirt,Round Neck,678,10,black,XL,Silk,Summer,177,2.4
+P1141,Saree,Silk,"4,981",0,White,L,Linen,Summer,483,2.1
+P1070,Kurti,Anarkali,"4,537",0,Maroon,XL,Georgette,Winter,213,1.6
+P1067,Saree,Designer,"1,981",5,White,M,Georgette,Winter,441,3.8
+P1335,T-Shirt,Round Neck,2435.29,20,RED,Large,Cotton,Summer,94,4.5
+P1492,Jeans,Skinny,â¹3944.46,15,Navy Blue,38,Polyester,Winter,398,1.5
+P1290,Dress,Party,"3,276",20,Navy,,Silk,Winter,351,
+P1257,Dress,Party,4009.22,20,black,Large,Silk,Festive,251,1.7
+P1473,Kurti,Straight,2338.65,10,Blue,Medium,Silk,Winter,33,4.8
+P1454,Shirt,Casual,â¹3595.38,5,Blue,XL,Cotton,Festive,368,3.4
+P1328,Jeans,Slim,"3,172",,Crimson,S,Georgette,Summer,231,4.5
+P1020,Kurti,A-Line,"2,920",20,Blue,40,Cotton,Winter,149,4.5
+P1313,Saree,Cotton,â¹1249.19,0,Maroon,40,Silk,Festive,424,1.4
+P1480,T-Shirt,Round Neck,"1,308",,Black,M,Linen,Festive,165,1.7
+P1128,T-Shirt,Round Neck,4471.47,10,Maroon,M,Cotton,Summer,58,3.5
+P1405,Dress,Party,"3,682",20,WHITE,M,Linen,Festive,22,4.6
+P1091,T-Shirt,Round Neck,1229.56,,Red,XL,Polyester,Spring,373,2.8
+P1491,Jeans,Skinny,1028.99,5,Red,,Polyester,Summer,234,3
+P1111,Dress,Party,4472.16,20,White,38,Linen,Festive,226,
+P1142,T-Shirt,Round Neck,"1,601",20,White,40,Silk,Summer,94,3.6
+P1295,Dress,Evening,"4,342",20,Navy Blue,Large,Cotton,Summer,55,1.7
+P1358,Jeans,Regular,"3,249",20,WHITE,40,Silk,Festive,383,4.7
+P1419,Dress,Casual,â¹1952.7,0,Crimson,XL,Georgette,Summer,149,1.5
+P1107,Saree,Cotton,"2,871",,Navy,,Cotton,Summer,292,3.5
+P1478,Dress,Casual,"3,758",,Navy Blue,XL,Georgette,Spring,132,5
+P1266,Saree,Silk,â¹3264.3,,White,38,Linen,Winter,452,3.8
+P1320,Kurti,Straight,â¹1031.93,0,Maroon,Medium,Georgette,Festive,211,
+P1005,Saree,Designer,4127.2,,Navy,L,Polyester,Summer,157,3.2
+P1202,Dress,Evening,â¹3586.26,,WHITE,,Cotton,Winter,99,2.4
+P1330,Jeans,Regular,4622.73,5,black,M,Linen,Spring,236,2.7
+P1289,Jeans,Skinny,â¹4257.98,,White,Large,Georgette,Summer,106,2.3
+P1430,Saree,Silk,â¹4863.26,0,Dark Blue,XL,Georgette,Winter,292,1.7
+P1363,Dress,Casual,â¹3673.7,0,Navy Blue,XL,Cotton,Festive,449,2.8
+P1057,Saree,Silk,2862.95,10,Crimson,S,Silk,Summer,227,4.2
+P1375,T-Shirt,Round Neck,â¹1355.95,20,Navy Blue,Large,Silk,Summer,420,3.1
+P1198,Kurti,Straight,â¹3760.57,,Black,Small,Cotton,Spring,477,
+P1052,T-Shirt,Round Neck,1999.8,20,Crimson,L,Cotton,Spring,327,2.3
+P1395,Kurti,Anarkali,â¹1744.92,15,White,Small,Polyester,Winter,80,1.1
+P1281,T-Shirt,Round Neck,â¹1429.6,10,Navy Blue,M,Polyester,Winter,87,
+P1066,T-Shirt,V-Neck,2932.6,0,black,S,Cotton,Festive,27,
+P1322,Shirt,Formal,"3,671",,Maroon,38,Georgette,Spring,159,1.8
+P1290,Jeans,Slim,â¹853.46,5,red,38,Cotton,Festive,158,3.8
+P1073,Shirt,Casual,1542.62,20,Navy Blue,Large,Linen,Winter,358,2.3
+P1243,Saree,Cotton,2693.78,0,Dark Blue,38,Linen,Winter,144,3.4
+P1407,Kurti,A-Line,963,0,Dark Blue,40,Cotton,Spring,272,3.4
+P1498,Kurti,A-Line,1596.61,15,Blue,Small,Polyester,Winter,416,2.7
+P1088,Shirt,Casual,2950.37,,White,Small,Georgette,Festive,58,2.9
+P1157,T-Shirt,Round Neck,4199.1,15,red,,Cotton,Festive,167,3.6
+P1462,Dress,Evening,"4,176",,Crimson,S,Silk,Winter,231,2.6
+P1449,T-Shirt,V-Neck,"1,380",10,Navy Blue,,Polyester,Festive,367,2.4
+P1206,Dress,Party,536,5,Navy Blue,S,Polyester,Summer,0,4.3
+P1120,Saree,Silk,4375.62,15,Maroon,,Linen,Spring,364,2.5
+P1071,T-Shirt,Round Neck,â¹3481.19,5,Black,XL,Polyester,Festive,78,4.5
+P1008,Kurti,Straight,552,5,Maroon,38,Linen,Winter,43,4.2
+P1260,Shirt,Casual,â¹3304.62,15,Black,38,Linen,Spring,115,3.4
+P1364,T-Shirt,V-Neck,4310.62,20,Navy Blue,XL,Georgette,Spring,17,3.3
+P1492,Jeans,Regular,â¹1009.24,,red,M,Georgette,Spring,238,3.1
+P1379,T-Shirt,Round Neck,"1,603",,White,Small,Georgette,Spring,313,
+P1232,Saree,Designer,â¹4003.37,20,black,,Polyester,Festive,180,4.2
+P1383,Saree,Silk,658,10,Maroon,,Polyester,Summer,322,1.7
+P1319,Dress,Party,"4,956",0,Navy Blue,38,Cotton,Winter,258,
+P1140,Saree,Cotton,â¹1096.42,10,Red,Small,Georgette,Winter,465,1.6
+P1400,Shirt,Casual,â¹4135.28,,Navy,38,Silk,Summer,175,4.9
+P1394,T-Shirt,Round Neck,â¹4269.26,15,Navy,38,Silk,Winter,295,2.4
+P1026,Jeans,Regular,3899.68,5,black,XL,Linen,Spring,243,4
+P1199,T-Shirt,Round Neck,"2,209",15,Navy Blue,M,Georgette,Festive,6,4.2
+P1489,Shirt,Casual,"4,827",0,red,40,Polyester,Festive,312,4.4
+P1130,Saree,Cotton,1701.9,,WHITE,XL,Linen,Winter,375,4.1
+P1160,T-Shirt,V-Neck,3549.73,20,Red,S,Cotton,Summer,210,
+P1371,Dress,Party,2506.74,10,Navy Blue,Medium,Cotton,Summer,317,
+P1062,T-Shirt,Round Neck,"4,777",,red,Small,Georgette,Winter,192,4.6
+P1094,T-Shirt,Round Neck,"4,532",10,Navy Blue,38,Cotton,Festive,472,4.1
+P1131,Jeans,Slim,â¹3964.46,5,Crimson,Small,Polyester,Summer,195,5
+P1251,Saree,Cotton,1300.68,5,WHITE,XL,Silk,Festive,55,4.1
+P1366,Kurti,A-Line,â¹3395.02,10,red,S,Cotton,Summer,292,4.1
+P1000,Dress,Casual,"1,169",0,White,XL,Polyester,Winter,358,2.6
+P1244,Dress,Party,â¹3684.23,15,Blue,Small,Georgette,Winter,1,3.8
+P1170,Shirt,Formal,â¹3052.6,,Navy Blue,XL,Cotton,Summer,187,4.8
+P1331,Dress,Casual,â¹3922.04,5,RED,40,Cotton,Festive,338,3.8
+P1043,Dress,Party,â¹3599.79,,black,Medium,Silk,Summer,98,
+P1405,T-Shirt,Round Neck,2701.55,20,White,L,Linen,Festive,494,1.1
+P1207,Dress,Casual,4045,0,Navy,40,Linen,Winter,379,4.7
+P1009,Dress,Party,"1,137",15,WHITE,S,Silk,Winter,7,1.2
+P1427,Saree,Silk,2552.83,20,red,Small,Cotton,Festive,304,1.9
+P1347,Kurti,Anarkali,"2,018",15,Dark Blue,Small,Georgette,Winter,164,4.2
+P1061,Dress,Party,1280.51,10,RED,XL,Silk,Spring,283,2
+P1313,T-Shirt,Round Neck,"1,100",15,Crimson,M,Cotton,Festive,41,
+P1454,Kurti,Straight,"3,680",10,Blue,38,Silk,Winter,73,3.1
+P1354,Shirt,Formal,"4,721",0,WHITE,M,Linen,Summer,321,2.2
+P1060,Shirt,Formal,3009.7,20,red,,Polyester,Winter,237,3.6
+P1350,Saree,Silk,1371.74,15,black,M,Silk,Summer,27,2.1
+P1022,Shirt,Casual,â¹2004.33,0,Maroon,S,Georgette,Winter,80,2.9
+P1227,Dress,Evening,"4,527",20,WHITE,Large,Linen,Winter,382,2.3
+P1377,Dress,Casual,1525.02,15,Navy,XL,Silk,Summer,241,1.2
+P1232,Shirt,Formal,"1,472",5,Blue,Large,Silk,Festive,368,2.4
+P1354,Saree,Silk,2011.51,20,Red,L,Silk,Summer,436,2.7
+P1080,Saree,Silk,"4,488",,WHITE,M,Georgette,Winter,44,3.1
+P1142,Kurti,A-Line,â¹2630.7,0,Maroon,XL,Silk,Winter,167,1.9
+P1213,T-Shirt,Round Neck,4611.9,0,Red,38,Georgette,Summer,217,2.9
+P1042,Jeans,Skinny,2535.99,20,Crimson,S,Linen,Winter,67,2
+P1082,Dress,Evening,â¹2659.02,,black,,Georgette,Summer,499,4.1
+P1320,Jeans,Regular,â¹1332.26,15,Maroon,S,Cotton,Festive,457,3.1
+P1484,Saree,Cotton,"3,888",20,Black,,Silk,Summer,317,3.9
+P1186,Dress,Party,"4,753",0,red,XL,Polyester,Festive,316,
+P1034,Saree,Silk,"3,416",20,Maroon,Medium,Silk,Spring,122,3.6
+P1107,Jeans,Slim,"4,420",,Crimson,Medium,Polyester,Spring,459,3.7
+P1231,Saree,Silk,â¹785.16,15,Black,40,Cotton,Festive,363,4.3
+P1484,Saree,Cotton,"3,294",,Crimson,Small,Silk,Festive,44,
+P1055,Kurti,Anarkali,4812.15,5,Navy Blue,Small,Silk,Festive,77,3.1
+P1277,Jeans,Skinny,"1,819",5,black,Large,Linen,Festive,377,2.2
+P1427,Dress,Evening,4423.07,20,White,Large,Linen,Spring,335,2.3
+P1067,T-Shirt,V-Neck,"2,561",10,RED,L,Silk,Festive,190,4.1
+P1489,Dress,Evening,â¹2089.04,5,WHITE,M,Georgette,Spring,93,4.4
+P1121,Jeans,Slim,4075.06,0,Red,Large,Georgette,Winter,225,1.7
+P1075,T-Shirt,Round Neck,â¹3494.99,10,black,40,Silk,Spring,62,2.6
+P1079,Shirt,Formal,â¹4765.05,0,Maroon,40,Georgette,Spring,331,2.9
+P1373,Saree,Designer,"3,500",15,Dark Blue,Small,Linen,Summer,71,1.5
+P1228,Dress,Casual,3278.85,10,red,Large,Cotton,Winter,298,4.1
+P1434,Saree,Silk,601,15,White,Small,Georgette,Festive,99,3.4
+P1203,T-Shirt,Round Neck,â¹4588.01,5,Maroon,XL,Polyester,Festive,190,
+P1447,Saree,Cotton,â¹1886.38,20,red,Medium,Linen,Festive,411,1.7
+P1071,Jeans,Regular,â¹3778.72,20,WHITE,Small,Silk,Winter,155,4.5
+P1387,Saree,Silk,"4,699",15,red,S,Linen,Spring,212,2.8
+P1148,T-Shirt,Round Neck,â¹1396.66,20,black,S,Polyester,Spring,252,2.9
+P1489,Dress,Evening,â¹1193.11,,White,38,Cotton,Spring,213,4.6
+P1252,Jeans,Skinny,â¹627.99,0,WHITE,Large,Georgette,Festive,289,2
+P1191,Jeans,Regular,4884.16,20,Maroon,,Cotton,Spring,83,1.6
+P1139,Shirt,Formal,2108.23,10,Blue,Large,Cotton,Spring,149,4.7
+P1391,T-Shirt,Round Neck,3948.99,0,WHITE,M,Georgette,Spring,446,4.4
+P1185,Saree,Cotton,"3,584",0,Black,,Polyester,Winter,6,2.1
+P1052,Shirt,Casual,2031.41,5,RED,40,Silk,Winter,407,3.5
+P1059,T-Shirt,Round Neck,2378.06,5,Red,38,Polyester,Spring,353,4.3
+P1014,T-Shirt,V-Neck,â¹1274.93,,red,Medium,Silk,Winter,352,1.5
+P1039,Kurti,Straight,2411.62,0,Crimson,38,Linen,Summer,100,4.2
+P1022,T-Shirt,Round Neck,â¹2610.87,0,Navy Blue,S,Cotton,Summer,471,3.4
+P1046,Kurti,Straight,3517.7,5,Maroon,L,Georgette,Spring,180,3
+P1034,Jeans,Slim,"1,588",0,WHITE,S,Georgette,Winter,366,2.1
+P1473,T-Shirt,Round Neck,4881.11,5,Black,38,Polyester,Winter,225,1.4
+P1116,Saree,Cotton,"2,408",15,red,Large,Cotton,Festive,56,3
+P1020,Saree,Designer,"1,797",0,Dark Blue,38,Cotton,Festive,145,3.9
+P1148,Jeans,Regular,â¹1516.43,15,Navy,Small,Linen,Spring,91,
+P1224,Jeans,Regular,â¹3524.43,20,White,Small,Cotton,Winter,202,3.4
+P1033,Dress,Party,4663.81,10,Navy,Large,Silk,Festive,62,2.7
+P1303,Shirt,Casual,"3,941",10,Crimson,XL,Polyester,Festive,341,2.6
+P1055,Shirt,Casual,â¹1163.18,0,Navy Blue,38,Linen,Winter,321,1.1
+P1347,Jeans,Skinny,â¹4236.41,0,RED,XL,Georgette,Spring,78,3.5
+P1405,Dress,Party,â¹3882.24,15,Navy,L,Linen,Festive,258,2.4
+P1220,T-Shirt,Round Neck,4786.61,0,Blue,38,Polyester,Festive,226,1.1
+P1251,T-Shirt,V-Neck,4481.15,15,RED,L,Linen,Festive,391,3.7
+P1240,Jeans,Slim,"3,584",15,Black,M,Georgette,Summer,200,3.4
+P1164,Shirt,Casual,â¹3949.12,0,Red,,Cotton,Winter,428,4.2
+P1174,T-Shirt,Round Neck,"3,943",15,red,XL,Polyester,Spring,210,3.6
+P1043,Kurti,Straight,"3,416",,red,L,Cotton,Spring,86,
+P1290,Saree,Silk,â¹2574.09,20,Blue,L,Cotton,Festive,301,
+P1293,Saree,Cotton,â¹3066.59,0,Crimson,38,Cotton,Winter,172,4.2
+P1186,Jeans,Regular,â¹1249.82,15,Navy,38,Cotton,Winter,147,2.2
+P1380,T-Shirt,V-Neck,"4,120",0,Maroon,,Cotton,Spring,139,
+P1407,T-Shirt,V-Neck,â¹2421.98,0,White,L,Georgette,Spring,221,2.3
+P1232,Shirt,Casual,"1,630",,Crimson,40,Silk,Summer,321,4.5
+P1480,T-Shirt,V-Neck,"1,458",15,Navy Blue,40,Georgette,Festive,478,3.5
+P1123,T-Shirt,Round Neck,2139.24,5,Maroon,L,Linen,Festive,163,4.6
+P1421,Jeans,Skinny,â¹4306.85,10,White,M,Polyester,Winter,207,1.6
+P1237,Dress,Evening,â¹4086.7,15,Black,XL,Linen,Summer,103,1.5
+P1329,Saree,Cotton,3464.02,0,Maroon,38,Cotton,Summer,440,2.3
+P1459,Saree,Silk,â¹4552.59,10,White,Small,Linen,Winter,120,3.9
+P1486,Dress,Party,"3,488",20,Navy Blue,38,Cotton,Winter,307,4.2
+P1380,Saree,Designer,"3,817",5,Blue,Medium,Silk,Summer,89,2.1
+P1251,Shirt,Casual,4383.05,20,Dark Blue,Small,Polyester,Festive,243,4.9
+P1420,Kurti,Anarkali,â¹2638.5,10,Red,,Cotton,Summer,353,3.7
+P1490,Saree,Designer,"2,231",,Dark Blue,Small,Georgette,Winter,439,1
+P1152,Shirt,Casual,1854,5,RED,38,Polyester,Festive,404,
+P1474,Dress,Casual,â¹2619.91,10,Maroon,XL,Cotton,Winter,357,1.3
+P1390,Shirt,Casual,2539.68,0,White,M,Linen,Winter,1,3.5
+P1127,Saree,Designer,870.04,20,Maroon,M,Georgette,Festive,405,2.8
+P1303,Jeans,Skinny,"1,673",10,Crimson,L,Silk,Summer,212,2.6
+P1472,Shirt,Formal,593.31,20,White,,Silk,Summer,498,2
+P1307,Kurti,Straight,â¹2304.66,10,RED,Small,Polyester,Winter,484,1.1
+P1423,T-Shirt,V-Neck,â¹3980.12,,black,Small,Silk,Winter,97,4.3
+P1066,Saree,Cotton,â¹3858.99,15,Navy,,Silk,Spring,372,2.7
+P1120,Shirt,Formal,â¹629.48,20,black,Medium,Polyester,Festive,43,
+P1351,Kurti,Anarkali,â¹4884.8,5,Maroon,XL,Linen,Spring,37,
+P1241,Dress,Evening,1997.88,10,WHITE,,Cotton,Summer,129,2.5
+P1021,Shirt,Casual,"1,095",20,RED,L,Silk,Festive,476,2.9
+P1072,Dress,Casual,â¹3696.15,10,red,Large,Cotton,Winter,255,4.3
+P1462,Jeans,Regular,â¹4668.07,10,WHITE,L,Georgette,Spring,223,2.3
+P1325,Shirt,Formal,"3,000",15,Red,Medium,Silk,Summer,117,2.9
+P1458,Kurti,A-Line,2602.1,15,Red,38,Polyester,Festive,234,4.4
+P1444,Kurti,Straight,2073.22,10,RED,M,Georgette,Spring,288,3.3
+P1092,T-Shirt,Round Neck,"2,867",15,red,Medium,Linen,Summer,454,2.1
+P1475,Jeans,Skinny,"2,273",0,Dark Blue,M,Cotton,Summer,235,3.6
+P1168,Shirt,Casual,3173.92,0,White,,Linen,Spring,485,3.9
+P1410,T-Shirt,Round Neck,1451.15,,Navy Blue,Large,Cotton,Summer,280,2.5
+P1045,Shirt,Casual,â¹1301.05,0,Navy,M,Linen,Festive,145,4.8
+P1376,Kurti,Straight,â¹1843.46,10,White,,Silk,Spring,340,
+P1453,Saree,Designer,â¹1399.42,15,black,L,Georgette,Festive,46,4.2
+P1047,T-Shirt,Round Neck,â¹2453.48,0,Black,Large,Linen,Winter,331,1.6
+P1040,Shirt,Formal,â¹1808.16,15,Navy Blue,M,Silk,Spring,430,2.7
+P1262,T-Shirt,Round Neck,2979.47,0,Black,XL,Linen,Summer,237,3.3
+P1393,Saree,Cotton,1646.87,20,Red,Small,Linen,Winter,402,2.6
+P1160,Dress,Casual,â¹4445.4,20,Maroon,38,Linen,Spring,174,4.5
+P1309,Kurti,Straight,"1,332",10,White,Small,Linen,Summer,2,1.1
+P1444,Jeans,Regular,â¹2570.73,,Maroon,,Linen,Spring,316,3.5
+P1202,Jeans,Slim,"4,834",10,red,M,Silk,Summer,97,1.1
+P1074,Kurti,Straight,"1,441",,Navy,XL,Georgette,Winter,44,2.9
+P1462,Shirt,Casual,598.18,5,Maroon,38,Linen,Festive,10,3.3
+P1026,Kurti,Anarkali,â¹3062.44,10,Red,Small,Linen,Festive,434,3.3
+P1249,Jeans,Slim,4995.62,15,black,40,Georgette,Festive,118,3.1
+P1457,Shirt,Casual,â¹2989.65,,Blue,38,Cotton,Festive,318,2.4
+P1371,Jeans,Regular,â¹593.63,5,black,Large,Linen,Winter,259,4.6
+P1336,Saree,Designer,"4,340",15,RED,L,Linen,Festive,426,3.6
+P1318,Saree,Cotton,4098.9,5,Navy Blue,Small,Linen,Winter,88,3.4
+P1155,Dress,Casual,â¹4743.75,5,Navy,40,Cotton,Summer,183,2.4
+P1016,Kurti,Straight,"4,225",0,Dark Blue,XL,Cotton,Winter,61,2.9
+P1136,Saree,Cotton,"3,962",5,Maroon,40,Georgette,Summer,361,
+P1499,Shirt,Casual,4831.91,0,Crimson,,Georgette,Summer,421,3
+P1466,Kurti,A-Line,1031.27,10,RED,L,Linen,Festive,375,1.6
+P1434,Saree,Cotton,4186.22,5,black,XL,Cotton,Winter,427,2.4
+P1366,T-Shirt,Round Neck,â¹883.55,15,Dark Blue,Medium,Silk,Festive,403,4.2
+P1406,Shirt,Casual,"4,541",,Dark Blue,S,Linen,Winter,394,
+P1205,T-Shirt,Round Neck,â¹881.5,5,Blue,S,Linen,Summer,338,1.6
+P1409,T-Shirt,Round Neck,"4,899",,Black,L,Linen,Festive,453,3.2
+P1004,Saree,Designer,â¹3842.14,10,Black,,Silk,Festive,228,4.6
+P1207,T-Shirt,V-Neck,"3,638",5,Navy Blue,Small,Cotton,Spring,199,4
+P1109,Kurti,A-Line,â¹4963.66,0,Black,40,Polyester,Spring,387,1.1
+P1371,T-Shirt,V-Neck,â¹1586.03,15,Black,Small,Cotton,Spring,132,2.4
+P1152,Dress,Party,â¹4736.04,20,Maroon,S,Linen,Spring,120,5
+P1341,T-Shirt,Round Neck,â¹2076.52,,WHITE,M,Linen,Winter,53,3.3
+P1217,Saree,Cotton,940,15,red,Small,Cotton,Festive,454,1.9
+P1301,Dress,Casual,â¹3545.7,20,Black,XL,Polyester,Festive,325,2.8
+P1258,Shirt,Casual,4207.15,5,black,38,Silk,Summer,355,2.9
+P1471,Jeans,Skinny,â¹4748.31,0,WHITE,XL,Cotton,Summer,189,1.2
+P1155,Kurti,Straight,â¹2171.6,10,black,S,Silk,Winter,401,1.2
+P1250,Saree,Cotton,"1,470",0,red,40,Polyester,Summer,445,
+P1400,Shirt,Casual,â¹3045.94,15,black,,Silk,Winter,258,4
+P1166,Jeans,Regular,"1,170",0,Crimson,,Georgette,Festive,198,2.6
+P1376,T-Shirt,Round Neck,â¹4811.36,10,White,Small,Silk,Summer,292,4.1
+P1286,Saree,Designer,"3,403",0,Navy,,Georgette,Summer,490,1.8
+P1092,Shirt,Formal,"1,041",0,Navy Blue,Medium,Silk,Festive,43,3.4
+P1174,Shirt,Formal,2711.63,15,RED,XL,Cotton,Spring,195,1.5
+P1093,Dress,Party,1256.7,10,Crimson,Small,Silk,Spring,487,1.7
+P1029,T-Shirt,V-Neck,"1,316",10,Blue,Small,Polyester,Winter,211,2
+P1300,Dress,Evening,"1,411",5,black,40,Georgette,Festive,486,1.2
+P1208,Shirt,Casual,794.56,,Navy,S,Polyester,Summer,126,3.6
+P1042,Kurti,Anarkali,â¹3057.11,,Black,Medium,Silk,Spring,276,4.1
+P1231,T-Shirt,V-Neck,"4,826",0,Red,38,Georgette,Spring,334,1
+P1194,Shirt,Casual,"3,190",10,White,Medium,Georgette,Spring,23,3.1
+P1062,Dress,Casual,903,5,Maroon,40,Polyester,Festive,107,4.8
+P1133,Saree,Designer,"4,754",,black,L,Silk,Spring,174,4.8
+P1330,Saree,Silk,4613.08,0,WHITE,38,Cotton,Summer,344,3.2
+P1275,Jeans,Slim,â¹2700.4,0,Crimson,Small,Georgette,Summer,456,3.7
+P1423,Jeans,Skinny,â¹2088.48,20,Dark Blue,XL,Silk,Summer,63,4.7
+P1388,Shirt,Formal,1496.84,10,White,Large,Silk,Summer,417,2.2
+P1495,Jeans,Skinny,â¹1554.16,10,Red,L,Linen,Winter,3,4.3
+P1256,Shirt,Formal,"4,414",15,RED,40,Silk,Winter,33,4
+P1451,Kurti,Anarkali,4701.04,20,Maroon,L,Silk,Summer,496,3.1
+P1001,Saree,Designer,â¹3020.52,15,White,S,Polyester,Festive,432,2.1
+P1264,Jeans,Slim,â¹2599.64,0,Maroon,Medium,Cotton,Spring,470,2.8
+P1450,Dress,Casual,1375.74,20,Crimson,S,Silk,Festive,490,
+P1032,Kurti,Straight,â¹1240.17,,White,Small,Cotton,Festive,221,3.4
+P1055,Jeans,Regular,4282.28,15,Navy,Large,Cotton,Spring,266,4.8
+P1228,T-Shirt,V-Neck,"3,938",20,red,Small,Cotton,Summer,193,4.4
+P1028,Dress,Evening,â¹779.01,10,WHITE,XL,Cotton,Summer,346,
+P1049,Dress,Casual,â¹4324.68,20,Crimson,XL,Silk,Summer,232,4.2
+P1400,T-Shirt,Round Neck,"2,028",0,black,40,Polyester,Winter,55,3.4
+P1463,Dress,Party,4052.37,20,RED,40,Polyester,Spring,215,3.5
+P1030,Kurti,Straight,1119.53,5,Navy Blue,,Linen,Spring,159,3.2
+P1175,Kurti,Straight,"2,612",10,Dark Blue,S,Georgette,Winter,29,4.3
+P1499,T-Shirt,Round Neck,2399.28,5,White,Medium,Cotton,Spring,96,3.8
+P1493,Shirt,Casual,"4,334",10,WHITE,L,Linen,Spring,83,4.5
+P1327,Dress,Casual,1487.33,5,Maroon,Medium,Linen,Winter,122,4.1
+P1094,Saree,Designer,â¹2191.6,0,Dark Blue,S,Cotton,Spring,15,1.6
+P1022,Shirt,Formal,â¹3341.01,0,Navy,Medium,Polyester,Winter,112,3.9
+P1011,Saree,Designer,1606.84,5,Navy Blue,Small,Cotton,Winter,194,4.5
+P1189,Saree,Silk,1872.83,10,White,M,Georgette,Festive,449,1.5
+P1355,Kurti,Straight,â¹1362.57,10,Dark Blue,,Linen,Winter,471,
+P1404,T-Shirt,Round Neck,â¹4344.96,5,Dark Blue,Medium,Cotton,Spring,446,3
+P1401,T-Shirt,V-Neck,1441.57,15,Crimson,,Cotton,Winter,260,4.5
+P1091,T-Shirt,V-Neck,â¹2743.64,10,Maroon,Large,Georgette,Festive,366,2.9
+P1332,T-Shirt,V-Neck,"3,371",0,Navy,Medium,Silk,Festive,441,1.9
+P1130,Shirt,Casual,â¹3071.17,20,red,M,Cotton,Spring,227,1.9
+P1218,Dress,Casual,â¹2805.18,15,black,XL,Linen,Spring,411,2.1
+P1330,Dress,Evening,â¹2487.6,0,Dark Blue,Small,Polyester,Summer,402,1.9
+P1102,Dress,Evening,"2,121",10,Navy,Large,Polyester,Spring,381,3.7
+P1437,Saree,Silk,3675.39,,Maroon,40,Polyester,Summer,394,4.3
+P1006,Shirt,Casual,"4,198",15,White,40,Silk,Festive,116,4
+P1387,Shirt,Formal,"2,821",15,Maroon,38,Polyester,Summer,160,2.7
+P1436,Jeans,Regular,â¹1443.13,20,Red,Large,Silk,Winter,156,1
+P1217,Jeans,Regular,â¹2029.2,,Crimson,XL,Georgette,Spring,166,3.3
+P1290,Dress,Evening,â¹1191.61,,Crimson,,Georgette,Festive,195,2.6
+P1168,T-Shirt,V-Neck,1347.52,20,black,L,Cotton,Winter,53,1.7
+P1101,Jeans,Slim,2698.76,0,Blue,L,Silk,Winter,149,1.3
+P1167,Dress,Casual,2833.39,15,Blue,M,Cotton,Winter,274,4
+P1158,Shirt,Formal,1084.7,15,Maroon,38,Silk,Spring,300,3.9
+P1228,Shirt,Casual,1407.66,0,Blue,,Silk,Spring,466,3
+P1330,Shirt,Formal,â¹3817.81,15,Dark Blue,L,Linen,Winter,212,4.6
+P1093,Jeans,Regular,"2,560",,WHITE,Small,Linen,Summer,122,1.6
+P1357,Jeans,Slim,1813.5,,Maroon,Medium,Linen,Festive,390,5
+P1209,Dress,Evening,â¹2769.78,15,RED,L,Silk,Summer,236,
+P1195,Jeans,Slim,â¹3540.3,10,Maroon,XL,Silk,Festive,19,
+P1343,Dress,Party,â¹4627.12,,black,38,Linen,Summer,42,2
+P1430,Shirt,Formal,â¹2618.54,5,RED,S,Georgette,Summer,90,3.1
+P1346,Shirt,Formal,849.13,10,RED,38,Polyester,Winter,110,4.6
+P1428,T-Shirt,Round Neck,2489.26,,Crimson,40,Cotton,Festive,353,1.2
+P1475,Dress,Evening,3975.84,5,Dark Blue,Medium,Silk,Summer,8,5
+P1112,Saree,Silk,3559.82,0,Crimson,M,Silk,Summer,212,4.3
+P1106,Saree,Designer,"3,320",20,Blue,XL,Cotton,Winter,109,2.3
+P1199,Dress,Casual,3442.97,5,black,Medium,Cotton,Spring,332,1.2
+P1255,Kurti,Anarkali,"1,856",0,Maroon,40,Georgette,Winter,128,3.4
+P1068,Jeans,Slim,"2,248",10,RED,Large,Linen,Summer,171,
+P1379,T-Shirt,V-Neck,"2,220",5,Black,,Cotton,Winter,10,4.6
+P1317,Saree,Silk,3820.61,0,Red,M,Polyester,Festive,151,2.5
+P1306,Jeans,Skinny,"1,571",15,Maroon,Large,Silk,Spring,162,4
+P1384,T-Shirt,V-Neck,â¹3416.21,0,Navy,Large,Polyester,Winter,105,4.6
+P1368,Jeans,Skinny,"4,106",5,WHITE,XL,Georgette,Spring,93,1
+P1324,Shirt,Formal,4791.48,5,Navy,M,Cotton,Winter,303,4.2
+P1371,Kurti,Straight,â¹2783.41,15,Navy Blue,M,Silk,Winter,217,2
+P1103,Saree,Designer,"2,517",10,Crimson,38,Cotton,Spring,203,2.9
+P1010,Shirt,Casual,â¹3921.46,15,Blue,Small,Polyester,Winter,283,2
+P1287,Shirt,Casual,â¹2541.21,20,black,Small,Polyester,Winter,366,1.6
+P1373,Kurti,Straight,557,,Dark Blue,38,Linen,Festive,481,4
+P1036,Shirt,Casual,"1,885",15,Red,Small,Linen,Winter,99,4.8
+P1325,Jeans,Regular,â¹2793.24,,Dark Blue,S,Linen,Festive,376,2.9
+P1357,Saree,Designer,3679.52,,White,M,Polyester,Festive,483,2
+P1329,T-Shirt,Round Neck,555.52,,Blue,XL,Georgette,Summer,265,4.5
+P1256,Kurti,Anarkali,â¹1637.92,20,White,XL,Georgette,Spring,375,4.5
+P1397,Jeans,Skinny,991,10,RED,L,Silk,Festive,357,4.9
+P1213,Shirt,Formal,935,20,Blue,L,Linen,Winter,90,3.8
+P1230,Kurti,Anarkali,1318.93,20,Navy,M,Silk,Summer,383,4
+P1055,Saree,Cotton,"2,483",,RED,Small,Polyester,Summer,193,1.3
+P1344,Dress,Party,â¹1556.51,0,Red,S,Polyester,Summer,340,5
+P1192,Dress,Evening,2850.51,20,Black,L,Linen,Festive,387,2.7
+P1418,Saree,Designer,â¹4505.68,5,Dark Blue,XL,Linen,Summer,499,2.3
+P1205,Dress,Evening,"2,556",,RED,S,Georgette,Summer,444,4.8
+P1337,Kurti,Anarkali,"2,533",15,Black,XL,Silk,Summer,326,4.3
+P1496,Dress,Party,2120.93,,Dark Blue,38,Silk,Festive,204,4.2
+P1337,Saree,Cotton,â¹4725.88,,red,XL,Polyester,Winter,364,3.1
+P1154,T-Shirt,Round Neck,1075.38,,Black,38,Silk,Festive,488,3.7
+P1358,Kurti,Straight,"1,452",0,red,XL,Cotton,Winter,475,4.6
+P1243,Saree,Silk,"3,736",,red,M,Georgette,Festive,46,2.3
+P1033,Kurti,A-Line,"3,948",,Dark Blue,XL,Linen,Festive,413,2
+P1379,Saree,Silk,â¹1001.22,20,Navy,Small,Georgette,Spring,65,4.8
+P1274,T-Shirt,Round Neck,"1,898",5,Blue,XL,Polyester,Spring,408,4.2
+P1275,T-Shirt,Round Neck,979.64,15,Dark Blue,M,Polyester,Winter,255,1.6
+P1017,Saree,Silk,"3,861",20,Dark Blue,L,Georgette,Summer,140,3.8
+P1494,Shirt,Formal,"2,727",15,Red,Large,Silk,Winter,434,4.2
+P1438,Jeans,Slim,736.55,15,Maroon,XL,Polyester,Winter,11,2.3
+P1200,Jeans,Regular,â¹4956.41,0,Black,L,Polyester,Winter,358,2.6
+P1443,Kurti,Anarkali,"3,885",0,Maroon,L,Linen,Winter,295,3.8
+P1100,Saree,Silk,"1,443",,White,S,Polyester,Summer,347,4.4
+P1474,Shirt,Casual,3557.5,0,red,Large,Linen,Winter,483,
+P1321,T-Shirt,V-Neck,3170.27,,Blue,Medium,Cotton,Summer,123,2.2
+P1397,T-Shirt,Round Neck,â¹3437.59,,Crimson,Small,Linen,Festive,140,2.8
+P1250,Dress,Evening,1024.82,,White,40,Silk,Summer,300,3.3
+P1092,Saree,Designer,"3,854",15,black,XL,Polyester,Winter,50,3.9
+P1010,T-Shirt,Round Neck,"2,323",15,Black,40,Georgette,Festive,32,3.3
+P1494,Jeans,Slim,1058.4,,red,M,Georgette,Winter,2,4.2
+P1334,Dress,Evening,1079.67,5,red,40,Polyester,Summer,43,3
+P1000,Saree,Designer,"1,272",5,Navy Blue,S,Georgette,Spring,337,1.6
+P1310,Shirt,Casual,â¹2852.0,20,Black,Medium,Cotton,Summer,121,
+P1490,Kurti,Anarkali,4352.38,5,WHITE,40,Silk,Spring,142,3.5
+P1332,Dress,Party,â¹1647.35,5,Blue,38,Cotton,Spring,346,3.8
+P1137,T-Shirt,Round Neck,817,,Maroon,Medium,Polyester,Winter,214,2.3
+P1126,Shirt,Casual,616,0,Navy Blue,Small,Georgette,Summer,350,1.3
+P1398,Jeans,Skinny,â¹2132.69,10,RED,Medium,Polyester,Summer,50,4.9
+P1089,Shirt,Formal,4022.3,20,Maroon,L,Georgette,Festive,48,3.8
+P1459,Saree,Designer,1719.74,0,RED,Large,Linen,Winter,176,3.7
+P1132,T-Shirt,V-Neck,2645.88,0,White,40,Silk,Winter,73,3.9
+P1362,Dress,Party,â¹3376.37,5,White,,Linen,Festive,93,2.4
+P1266,Shirt,Casual,â¹1741.2,,Navy,L,Cotton,Spring,208,4.4
+P1483,Jeans,Skinny,845.12,0,RED,,Cotton,Summer,380,4.7
+P1069,Dress,Casual,"3,546",15,black,40,Georgette,Summer,207,
+P1359,Kurti,A-Line,â¹532.81,20,Maroon,Large,Silk,Summer,310,1.7
+P1429,T-Shirt,Round Neck,â¹1286.66,5,Black,Large,Cotton,Festive,253,2.5
+P1425,Dress,Casual,4613.2,20,Crimson,Small,Polyester,Spring,247,1.9
+P1472,Jeans,Slim,3059.79,10,White,40,Cotton,Festive,456,3
+P1152,Saree,Silk,â¹3269.89,10,red,S,Polyester,Winter,205,1.4
+P1460,Shirt,Formal,881,5,Blue,Small,Linen,Summer,79,2
+P1219,Shirt,Casual,â¹2184.39,5,Black,L,Cotton,Festive,336,1.6
+P1452,Saree,Designer,â¹2452.82,,Navy,Small,Silk,Spring,20,2.7
+P1485,Saree,Silk,1221.41,15,White,L,Cotton,Festive,250,4.2
+P1256,Jeans,Skinny,â¹1961.99,,Maroon,XL,Silk,Summer,490,1.1
+P1121,Kurti,Anarkali,"2,750",0,White,Large,Linen,Summer,222,2.1
+P1373,Dress,Casual,1614.86,20,RED,Medium,Polyester,Summer,442,3.8
+P1400,Jeans,Regular,"1,392",0,Maroon,40,Georgette,Winter,96,3.4
+P1205,Jeans,Skinny,1532.23,0,Navy Blue,Medium,Silk,Festive,9,1.4
+P1358,Dress,Casual,â¹2332.84,,Navy,Medium,Polyester,Festive,245,
+P1186,Shirt,Formal,â¹1869.3,10,Dark Blue,XL,Silk,Spring,458,
+P1164,Dress,Evening,734,5,Navy Blue,38,Polyester,Summer,220,4.8
+P1342,Saree,Cotton,1869.61,0,White,40,Silk,Spring,184,2.4
+P1107,T-Shirt,V-Neck,â¹1572.13,20,Blue,Small,Cotton,Winter,322,1.5
+P1473,T-Shirt,Round Neck,â¹1368.17,0,red,40,Georgette,Spring,154,5
+P1065,Kurti,A-Line,3743.46,5,Blue,40,Polyester,Spring,458,3.5
+P1268,Dress,Casual,â¹804.69,20,Crimson,S,Silk,Spring,356,2.2
+P1097,T-Shirt,Round Neck,"4,074",,Blue,38,Georgette,Summer,84,3
+P1105,T-Shirt,V-Neck,â¹2303.82,5,Red,M,Georgette,Winter,303,4.5
+P1268,T-Shirt,V-Neck,"2,767",10,Navy Blue,Medium,Polyester,Spring,282,1.9
+P1075,T-Shirt,Round Neck,"1,813",10,RED,L,Cotton,Winter,421,1.5
+P1166,Jeans,Regular,â¹3347.07,0,Maroon,40,Polyester,Winter,209,2.2
+P1112,Dress,Party,â¹4171.65,,Navy Blue,M,Polyester,Summer,275,4.5
+P1195,T-Shirt,Round Neck,"3,751",,Navy Blue,,Georgette,Winter,418,2.3
+P1079,Kurti,A-Line,â¹3334.1,15,Navy,XL,Polyester,Winter,461,3
+P1096,Shirt,Formal,4170.19,20,black,M,Polyester,Summer,158,1.7
+P1218,Shirt,Formal,812.54,5,black,XL,Cotton,Winter,372,1
+P1423,Dress,Casual,2227.96,0,Crimson,S,Silk,Winter,394,
+P1490,Kurti,A-Line,3198.37,0,Black,Large,Cotton,Winter,71,3.3
+P1079,Shirt,Formal,â¹1883.23,5,Red,40,Polyester,Summer,10,1.4
+P1072,Saree,Silk,â¹2801.94,0,Navy,S,Silk,Festive,197,3.6
+P1421,Kurti,A-Line,"2,231",0,black,M,Cotton,Winter,52,2.1
+P1472,Dress,Party,â¹2001.76,0,Red,,Silk,Winter,219,3.4
+P1351,Jeans,Regular,"1,175",10,WHITE,L,Polyester,Summer,138,3.6
+P1441,Saree,Designer,4094.08,5,Crimson,M,Polyester,Winter,199,4.2
+P1491,Shirt,Formal,â¹1009.24,,Navy Blue,M,Cotton,Spring,65,2.5
+P1498,Saree,Cotton,"2,407",15,WHITE,Large,Silk,Winter,196,3
+P1196,T-Shirt,V-Neck,2896.13,0,WHITE,XL,Georgette,Winter,359,
+P1185,Saree,Silk,1414.76,20,black,M,Cotton,Summer,466,4.4
+P1497,Kurti,Anarkali,"2,571",15,Navy,Medium,Silk,Summer,382,4.8
+P1356,Jeans,Skinny,2198.57,15,Dark Blue,S,Cotton,Summer,244,4.5
+P1125,Dress,Evening,2143.6,0,Red,,Linen,Winter,391,4
+P1240,Jeans,Slim,â¹3643.54,15,Maroon,Large,Linen,Summer,146,1.2
+P1257,Jeans,Skinny,3218.78,5,Red,XL,Linen,Festive,283,2
+P1476,T-Shirt,V-Neck,â¹3692.09,5,Navy Blue,Small,Georgette,Festive,500,4
+P1421,Shirt,Formal,1485.08,,Black,,Cotton,Festive,244,3.6
+P1331,Shirt,Formal,â¹746.02,15,Navy,L,Cotton,Summer,39,4.1
+P1277,Saree,Silk,1577.88,0,red,Medium,Georgette,Summer,387,1.8
+P1137,Kurti,A-Line,4681.41,0,WHITE,,Cotton,Festive,23,
+P1384,Dress,Casual,â¹538.15,10,Blue,40,Silk,Spring,384,2.4
+P1208,Kurti,A-Line,â¹3536.09,,Black,Small,Georgette,Winter,12,2.5
+P1349,T-Shirt,Round Neck,1805.54,15,red,Small,Silk,Winter,413,1.6
+P1264,Jeans,Skinny,"4,970",,WHITE,40,Polyester,Festive,402,2.2
+P1396,T-Shirt,V-Neck,680,,Blue,Medium,Silk,Summer,490,3.5
+P1392,Shirt,Formal,4121.27,10,Black,Small,Linen,Summer,232,4.7
+P1180,Kurti,Straight,â¹1760.53,0,red,M,Linen,Spring,242,4.1
+P1249,Shirt,Formal,"4,729",0,Dark Blue,L,Linen,Festive,438,3.7
+P1487,Shirt,Casual,"2,806",10,Dark Blue,Small,Linen,Festive,134,5
+P1379,Dress,Party,4898.44,5,Maroon,40,Cotton,Winter,436,2.5
+P1198,T-Shirt,V-Neck,4342.23,15,White,Small,Polyester,Festive,239,4.6
+P1055,Shirt,Formal,886,15,Crimson,XL,Silk,Festive,168,
+P1379,Saree,Designer,"2,688",15,red,L,Linen,Summer,279,2.9
+P1307,Jeans,Skinny,1940.84,15,Red,Large,Linen,Festive,109,
+P1325,Dress,Party,â¹2403.14,5,red,M,Cotton,Spring,207,
+P1109,Jeans,Regular,"4,420",,Navy Blue,M,Cotton,Summer,458,2.4
+P1246,Saree,Silk,â¹1393.72,15,Black,M,Linen,Spring,467,2.6
+P1101,Dress,Party,"4,023",0,Maroon,,Georgette,Winter,165,4.3
+P1162,Jeans,Slim,"4,213",0,RED,38,Silk,Festive,442,4.2
+P1001,Jeans,Regular,"1,682",15,RED,38,Georgette,Summer,18,4.9
+P1178,Shirt,Formal,3204.25,5,Navy,,Cotton,Spring,416,2.2
+P1358,Saree,Designer,4185.73,15,White,38,Linen,Festive,180,3.2
+P1234,T-Shirt,V-Neck,1010.21,15,Dark Blue,M,Georgette,Winter,277,2.1
+P1145,Jeans,Slim,"3,561",,WHITE,Small,Cotton,Summer,45,3.5
+P1474,Shirt,Formal,"2,733",20,red,38,Georgette,Summer,341,2.7
+P1100,Kurti,Anarkali,2982.15,15,red,Large,Linen,Festive,464,3.8
+P1400,Jeans,Regular,â¹534.22,5,Black,L,Polyester,Spring,157,4.2
+P1016,Shirt,Formal,â¹518.71,0,Red,M,Polyester,Spring,171,3.3
+P1098,Shirt,Formal,â¹3000.83,20,White,XL,Cotton,Festive,65,2.6
+P1264,Jeans,Skinny,â¹2314.04,5,Blue,Medium,Cotton,Winter,258,3.3
+P1485,Shirt,Casual,4268.02,10,Navy,Small,Cotton,Summer,223,
+P1278,T-Shirt,Round Neck,625,0,WHITE,XL,Cotton,Winter,232,4.1
+P1152,Kurti,Straight,3436.35,5,Black,Medium,Linen,Spring,337,
+P1296,Dress,Evening,"3,323",0,red,38,Georgette,Summer,54,2
+P1467,Kurti,Straight,â¹848.22,5,Blue,Small,Linen,Summer,211,
+P1192,Jeans,Skinny,â¹1446.33,10,White,38,Silk,Winter,152,
+P1437,Kurti,A-Line,"3,052",0,red,Large,Polyester,Festive,314,1
+P1310,T-Shirt,V-Neck,4669.62,0,Black,S,Georgette,Winter,110,1.5
+P1042,Kurti,Straight,1973.93,,Maroon,M,Polyester,Spring,246,1.4
+P1381,Jeans,Slim,â¹3433.66,15,Blue,40,Linen,Winter,128,3.7
+P1298,Jeans,Regular,4828.42,20,Navy Blue,M,Silk,Festive,221,2.7
+P1055,Jeans,Regular,"4,171",20,Blue,XL,Silk,Spring,191,4.3
+P1129,Shirt,Formal,"4,502",20,Blue,L,Georgette,Spring,203,
+P1183,Kurti,Anarkali,2432.24,5,red,Medium,Polyester,Spring,74,1.5
+P1109,Saree,Designer,â¹549.05,15,WHITE,Large,Silk,Summer,197,1.8
+P1311,Kurti,Straight,"3,024",,red,,Linen,Festive,162,1.8
+P1215,Dress,Casual,â¹2743.93,0,red,38,Silk,Spring,302,3.3
+P1002,Saree,Silk,"3,396",15,Navy Blue,M,Linen,Summer,458,3.1
+P1048,Saree,Designer,â¹573.23,15,Maroon,L,Polyester,Spring,385,1.3
+P1152,Saree,Cotton,â¹3255.44,,black,38,Cotton,Spring,480,1.1
+P1441,Dress,Evening,â¹1124.3,,Maroon,XL,Silk,Winter,45,4.6
+P1444,Saree,Designer,"4,953",0,Navy Blue,S,Cotton,Summer,484,2.1
+P1138,Jeans,Slim,â¹4062.33,,RED,M,Georgette,Festive,61,4.4
+P1062,T-Shirt,V-Neck,"3,366",20,Black,Medium,Georgette,Festive,338,2.1
+P1392,Jeans,Regular,â¹1516.24,10,Maroon,Small,Polyester,Winter,337,4.4
+P1030,Jeans,Skinny,â¹838.15,5,Red,Medium,Linen,Festive,96,2.4
+P1362,T-Shirt,V-Neck,â¹3922.2,15,White,M,Georgette,Summer,468,4.7
+P1103,Shirt,Casual,"4,405",15,Navy,Small,Polyester,Festive,84,4.8
+P1381,T-Shirt,Round Neck,1162.8,0,Navy,S,Linen,Winter,136,
+P1060,Jeans,Slim,â¹2536.88,20,red,Large,Linen,Winter,77,2.7
+P1050,Saree,Silk,â¹2486.03,0,White,XL,Linen,Winter,150,1.7
+P1221,Saree,Designer,"3,233",0,White,S,Silk,Summer,112,4.6
+P1051,T-Shirt,V-Neck,"1,574",10,Navy,,Linen,Festive,201,3.9
+P1402,Jeans,Regular,2728.27,5,Dark Blue,L,Georgette,Spring,375,
+P1244,Kurti,A-Line,"4,585",,Navy Blue,Medium,Silk,Spring,348,
+P1492,Kurti,Anarkali,4549.41,0,White,38,Linen,Spring,10,2.1
+P1304,Dress,Evening,3556.41,10,black,,Cotton,Festive,447,1.4
+P1427,Dress,Party,â¹3560.21,5,Black,40,Silk,Winter,396,
+P1376,Saree,Designer,â¹2010.55,10,Black,L,Linen,Spring,186,4.3
+P1396,Saree,Designer,"2,001",,WHITE,38,Cotton,Spring,351,3.6
+P1072,Kurti,Anarkali,"4,353",10,black,S,Silk,Festive,184,1.4
+P1347,Shirt,Formal,"4,844",20,black,40,Silk,Spring,466,4.6
+P1158,Shirt,Casual,â¹4753.7,5,Red,,Georgette,Spring,427,2.7
+P1255,Shirt,Casual,1797.84,,RED,38,Silk,Spring,319,1.7
+P1007,Shirt,Casual,â¹790.77,15,Red,Medium,Polyester,Summer,27,1
+P1128,Saree,Designer,4253.5,5,Dark Blue,L,Georgette,Winter,488,
+P1221,Saree,Silk,4981.61,20,red,L,Silk,Summer,242,2
+P1495,Jeans,Slim,â¹2238.08,0,Navy Blue,L,Georgette,Spring,88,3.7
+P1128,Saree,Designer,1126.29,5,Blue,40,Silk,Spring,156,
+P1400,T-Shirt,V-Neck,â¹2956.24,15,red,M,Georgette,Festive,355,4.7
+P1238,Jeans,Regular,â¹2607.7,15,Blue,38,Cotton,Summer,490,1.4
+P1297,Kurti,A-Line,4580.82,20,Dark Blue,M,Georgette,Spring,27,2.6
+P1235,Shirt,Formal,"2,582",0,red,S,Polyester,Summer,170,4.3
+P1062,T-Shirt,V-Neck,3607.67,,WHITE,40,Cotton,Winter,264,4
+P1327,Shirt,Formal,"1,505",5,Navy Blue,L,Cotton,Festive,319,1.5
+P1266,Dress,Evening,3217.06,0,Navy,Medium,Cotton,Festive,12,2.8
+P1094,Dress,Evening,â¹1849.66,5,Black,L,Georgette,Festive,439,1.5
+P1419,Kurti,A-Line,597.46,,White,Medium,Silk,Winter,243,2.2
+P1140,Dress,Party,"2,718",15,Blue,Small,Linen,Festive,416,1.1
+P1297,Shirt,Formal,3038.94,10,Red,,Linen,Summer,464,4.9
+P1183,Shirt,Casual,1746.07,20,Black,Medium,Polyester,Festive,262,
+P1288,Jeans,Skinny,"2,083",10,black,M,Polyester,Spring,472,4.7
+P1310,Jeans,Regular,â¹2194.35,,RED,,Georgette,Spring,66,3.4
+P1034,T-Shirt,V-Neck,â¹3130.22,0,Red,M,Silk,Summer,340,4.7
+P1407,Shirt,Casual,"3,919",5,red,M,Linen,Festive,472,
+P1037,T-Shirt,V-Neck,"1,015",15,Crimson,Large,Georgette,Summer,472,1.4
+P1293,Shirt,Casual,"1,099",20,Navy,Medium,Polyester,Festive,224,1.9
+P1414,Jeans,Skinny,"2,453",5,red,,Cotton,Summer,104,
+P1290,Kurti,Straight,â¹2118.02,20,red,Large,Silk,Festive,97,3.3
+P1436,Shirt,Casual,"2,104",5,Crimson,Small,Linen,Festive,320,1.3
+P1051,Dress,Evening,â¹4020.74,0,black,Medium,Cotton,Spring,11,4.8
+P1446,Saree,Cotton,3664.73,5,Navy Blue,Small,Georgette,Winter,436,3.4
+P1357,Saree,Cotton,"3,283",0,WHITE,38,Polyester,Summer,16,2
+P1418,Saree,Silk,"1,126",,Dark Blue,S,Silk,Festive,37,3.3
+P1486,T-Shirt,Round Neck,2056.31,15,WHITE,,Cotton,Festive,484,3.9
+P1332,Dress,Evening,2734.69,10,Blue,38,Polyester,Winter,10,1.1
+P1349,Kurti,A-Line,â¹3236.63,,Maroon,S,Georgette,Festive,26,2.5
+P1070,Kurti,Anarkali,"3,656",0,black,Small,Georgette,Spring,180,2.7
+P1005,Dress,Evening,"1,544",5,Blue,40,Georgette,Summer,410,
+P1029,Jeans,Skinny,4156.8,5,black,M,Polyester,Summer,160,3.6
+P1245,Kurti,Anarkali,â¹1083.72,,red,Small,Cotton,Spring,480,3
+P1227,Jeans,Regular,4539.38,,Navy Blue,Large,Georgette,Spring,444,3.1
+P1053,Saree,Cotton,"3,639",0,Dark Blue,XL,Georgette,Festive,143,
+P1283,Kurti,A-Line,"1,537",5,red,Large,Silk,Summer,500,2.8
+P1138,Shirt,Formal,595.8,10,WHITE,XL,Polyester,Summer,30,3.4
+P1227,Shirt,Formal,â¹4382.48,0,Navy,Medium,Linen,Winter,337,1.2
+P1479,Saree,Silk,â¹2936.97,0,WHITE,Large,Polyester,Winter,387,
+P1400,Jeans,Slim,â¹2453.34,,Maroon,S,Cotton,Festive,487,3.7
+P1290,T-Shirt,V-Neck,"2,407",20,Navy Blue,M,Linen,Festive,381,2
+P1043,Dress,Casual,â¹4098.15,5,Crimson,40,Polyester,Spring,292,3.5
+P1414,Saree,Cotton,"3,466",20,Red,Small,Polyester,Spring,428,1.7
+P1018,Shirt,Formal,â¹2479.59,10,black,40,Silk,Festive,29,1.3
+P1092,T-Shirt,V-Neck,â¹4789.82,10,Crimson,L,Polyester,Festive,65,1.7
+P1019,T-Shirt,Round Neck,"1,547",5,White,40,Linen,Spring,21,1.9
+P1347,Jeans,Regular,4888.77,10,Black,S,Georgette,Winter,179,3
+P1166,Dress,Party,848.53,20,Dark Blue,XL,Cotton,Festive,448,1.1
+P1459,T-Shirt,V-Neck,â¹2007.44,,Dark Blue,38,Polyester,Summer,82,2.2
+P1108,Kurti,A-Line,614,10,Black,40,Georgette,Spring,481,4.3
+P1390,Dress,Party,â¹3768.17,,red,Small,Silk,Festive,275,4.4
+P1268,T-Shirt,Round Neck,"3,231",20,black,Large,Polyester,Winter,428,4.6
+P1118,Saree,Silk,â¹4095.53,15,Dark Blue,Small,Silk,Festive,375,2.6
+P1468,Dress,Casual,3022.06,10,White,38,Georgette,Winter,229,1.9
+P1345,Kurti,A-Line,â¹1602.25,20,White,M,Georgette,Spring,407,2.3
+P1294,Dress,Casual,2394.6,15,White,Medium,Silk,Festive,7,2.7
+P1445,T-Shirt,V-Neck,3842.84,0,Blue,S,Silk,Summer,67,3.1
+P1356,Shirt,Casual,â¹2094.65,20,Navy,L,Cotton,Spring,459,2.3
+P1037,T-Shirt,Round Neck,4973.6,,Dark Blue,38,Linen,Festive,379,2.2
+P1392,Shirt,Formal,"3,800",20,Black,Small,Silk,Summer,303,3.7
+P1260,Shirt,Casual,1941.97,,WHITE,L,Cotton,Winter,152,1.2
+P1163,T-Shirt,V-Neck,â¹1783.66,5,RED,S,Silk,Festive,265,4.5
+P1060,Saree,Silk,2063.06,10,Navy Blue,38,Linen,Winter,453,4.8
+P1341,Saree,Designer,3890.61,10,RED,Small,Silk,Winter,14,1.2
+P1189,T-Shirt,Round Neck,529.99,5,Navy Blue,,Linen,Festive,266,2.8
+P1227,Dress,Party,3678.45,15,black,L,Cotton,Winter,142,1.5
+P1372,Saree,Silk,3849.25,0,Dark Blue,M,Georgette,Spring,141,3.9
+P1456,Jeans,Skinny,â¹3680.64,0,Blue,Small,Georgette,Spring,97,3.6
+P1004,Jeans,Skinny,"4,771",5,RED,,Linen,Winter,344,2.9
+P1067,Shirt,Formal,â¹3801.02,5,White,Small,Georgette,Winter,1,3
+P1214,T-Shirt,Round Neck,3694.96,,Navy Blue,,Linen,Winter,326,3.1
+P1342,Kurti,Anarkali,â¹4283.11,15,black,XL,Georgette,Spring,278,1.4
+P1166,Dress,Casual,â¹2388.17,5,White,XL,Cotton,Winter,237,3.6
+P1396,Saree,Designer,2291.4,15,Crimson,38,Georgette,Festive,351,2.2
+P1031,T-Shirt,Round Neck,â¹4504.15,20,Crimson,Large,Polyester,Spring,210,2.8
+P1248,Shirt,Casual,â¹4605.66,,Navy,Large,Cotton,Spring,229,3.3
+P1056,Kurti,A-Line,"1,427",20,WHITE,Large,Silk,Summer,486,4.2
+P1392,Dress,Party,â¹1999.8,20,red,S,Georgette,Winter,185,4.9
+P1148,T-Shirt,V-Neck,4368.75,5,Dark Blue,Large,Linen,Winter,283,4.8
+P1052,Dress,Evening,"3,898",20,Blue,38,Cotton,Winter,144,1.9
+P1063,Jeans,Skinny,652,15,White,XL,Silk,Spring,441,
+P1212,Dress,Party,"3,749",0,Red,40,Georgette,Winter,48,4.2
+P1217,Kurti,A-Line,â¹4366.86,20,Maroon,S,Polyester,Spring,234,2.1
+P1219,Jeans,Slim,â¹2621.3,0,Navy,XL,Georgette,Spring,247,3.8
+P1372,T-Shirt,Round Neck,â¹2220.84,15,Dark Blue,40,Cotton,Festive,114,1.1
+P1055,Kurti,Anarkali,"2,164",,Navy Blue,Large,Silk,Summer,48,1.8
+P1315,Shirt,Formal,â¹877.5,15,Black,,Silk,Summer,392,2.6
+P1164,Jeans,Regular,4254.46,,WHITE,,Linen,Summer,137,4
+P1120,Shirt,Casual,"1,908",10,black,38,Georgette,Summer,471,3.8
+P1266,Shirt,Formal,3905.99,,red,M,Silk,Festive,445,1.2
+P1249,Shirt,Casual,"1,268",5,Maroon,40,Linen,Festive,4,2.7
+P1138,Saree,Designer,"4,648",20,Dark Blue,,Polyester,Winter,72,3.7
+P1241,T-Shirt,V-Neck,â¹2837.21,15,Navy,Large,Silk,Winter,268,2.9
+P1034,Saree,Cotton,â¹1306.52,0,Navy Blue,Medium,Silk,Summer,275,1.4
+P1179,T-Shirt,V-Neck,3175.05,,Black,Medium,Polyester,Summer,475,2.1
+P1478,Shirt,Casual,â¹2152.74,10,Black,40,Silk,Summer,303,3.9
+P1064,Saree,Silk,1683.22,20,WHITE,XL,Polyester,Spring,494,4.5
+P1401,Jeans,Regular,1441.88,5,Navy,Small,Georgette,Winter,73,4.5
+P1070,Saree,Silk,4531.79,20,Crimson,38,Linen,Festive,167,4
+P1361,Kurti,A-Line,â¹2269.61,15,Dark Blue,L,Georgette,Spring,271,
+P1426,T-Shirt,Round Neck,"4,799",10,Maroon,M,Linen,Festive,250,2
+P1178,Dress,Party,"4,548",5,Red,Large,Linen,Spring,372,3.5
+P1005,Kurti,Anarkali,"2,183",5,black,Large,Georgette,Winter,2,2.3
+P1310,Saree,Cotton,2762.57,10,Red,L,Linen,Festive,22,3.8
+P1421,Saree,Designer,757,0,Maroon,38,Georgette,Festive,251,4
+P1189,Jeans,Slim,4133.44,0,WHITE,M,Silk,Winter,42,4.4
+P1160,Dress,Casual,3368.65,0,Black,L,Silk,Summer,170,4.4
+P1369,Saree,Designer,"1,261",10,Black,S,Linen,Festive,428,1.2
+P1042,Kurti,A-Line,â¹1163.81,5,black,S,Polyester,Winter,352,1.7
+P1179,Jeans,Skinny,"1,900",0,Dark Blue,38,Georgette,Summer,289,1.4
+P1162,Dress,Evening,3782.98,20,White,S,Silk,Summer,111,2.8
+P1328,Jeans,Skinny,"1,885",5,Maroon,M,Polyester,Summer,194,1.7
+P1427,Kurti,A-Line,1919.93,5,Navy Blue,Medium,Silk,Spring,132,2.1
+P1395,Shirt,Casual,â¹3104.13,,Black,38,Silk,Summer,486,2.5
+P1177,T-Shirt,Round Neck,â¹4971.9,,Crimson,L,Silk,Spring,358,3.2
+P1132,Jeans,Regular,908.41,5,black,L,Cotton,Summer,264,1.7
+P1288,Kurti,Anarkali,â¹3140.69,15,White,,Cotton,Spring,359,2.4
+P1172,Dress,Evening,â¹2396.33,,red,M,Polyester,Spring,83,1.7
+P1303,Dress,Casual,â¹4141.5,20,Maroon,XL,Linen,Festive,427,3.9
+P1153,T-Shirt,V-Neck,â¹2671.51,0,Navy,40,Cotton,Festive,218,4.8
+P1472,Shirt,Formal,1238.12,10,WHITE,40,Silk,Winter,66,4.2
+P1410,Dress,Evening,1891.73,10,black,XL,Silk,Festive,0,1.8
+P1120,Kurti,Anarkali,1883.87,5,Blue,Small,Silk,Winter,350,4.1
+P1241,Dress,Casual,1216.98,20,White,XL,Silk,Festive,342,2.9
+P1390,Kurti,Straight,â¹2244.08,5,Blue,Large,Polyester,Festive,305,1.3
+P1091,Shirt,Formal,"1,497",5,Dark Blue,Large,Polyester,Summer,312,2.6
+P1096,Dress,Party,â¹1535.33,0,Navy,L,Linen,Summer,173,1.7
+P1420,Kurti,Anarkali,"1,899",15,Red,L,Linen,Winter,83,3.1
+P1351,Dress,Casual,â¹4128.03,,red,XL,Cotton,Winter,163,3
+P1491,Jeans,Regular,552,,Blue,XL,Cotton,Spring,217,3.5
+P1364,T-Shirt,V-Neck,â¹2759.28,10,Black,Large,Cotton,Winter,217,2.5
+P1485,Jeans,Skinny,â¹1176.74,,WHITE,L,Silk,Festive,222,
+P1235,Saree,Silk,â¹1046.98,10,Red,,Polyester,Spring,217,2.2
+P1182,Dress,Party,â¹1702.56,15,Red,38,Polyester,Spring,325,
+P1378,Dress,Casual,"3,793",15,Navy,M,Cotton,Summer,64,3.5
+P1352,Shirt,Casual,â¹2054.24,20,Navy,40,Georgette,Festive,20,
+P1326,Saree,Silk,"1,160",0,Blue,40,Cotton,Spring,474,2.2
+P1131,Shirt,Formal,"1,327",,White,Small,Linen,Summer,406,2
+P1355,Saree,Designer,2813.18,0,Dark Blue,,Linen,Winter,389,2.1
+P1023,Jeans,Skinny,"1,745",20,Blue,M,Polyester,Spring,2,1.1
+P1306,Shirt,Formal,â¹1736.46,,Dark Blue,Small,Silk,Winter,9,1.9
+P1423,T-Shirt,V-Neck,"3,776",15,WHITE,XL,Georgette,Spring,277,4.7
+P1421,Dress,Casual,â¹2032.68,15,RED,38,Linen,Winter,272,3.7
+P1495,Saree,Cotton,645,0,White,38,Georgette,Spring,42,4.9
+P1231,Saree,Cotton,â¹1813.2,,black,S,Silk,Winter,319,2.7
+P1120,Dress,Casual,â¹3003.98,15,Black,M,Linen,Summer,49,1.8
+P1392,Dress,Party,1802.07,,Blue,40,Linen,Spring,384,4.6
+P1054,Saree,Cotton,"3,967",,White,Large,Georgette,Festive,115,3
+P1080,Shirt,Casual,â¹4217.62,5,Blue,L,Cotton,Spring,390,1.7
+P1498,Dress,Casual,â¹3110.71,15,Blue,Medium,Cotton,Winter,70,3
+P1484,Dress,Party,â¹3067.63,0,Dark Blue,,Silk,Winter,291,3.7
+P1199,Saree,Silk,"3,843",20,Black,Medium,Silk,Festive,188,2
+P1033,Shirt,Formal,â¹1952.26,0,Navy,,Linen,Festive,125,2.8
+P1328,Kurti,Straight,"4,877",0,Crimson,,Polyester,Winter,125,4.8
+P1208,Dress,Party,645,20,black,XL,Cotton,Festive,490,3.9
+P1273,Dress,Party,"3,994",,Red,38,Linen,Summer,149,4.3
+P1474,Jeans,Skinny,"2,135",20,White,38,Linen,Summer,53,2
+P1211,T-Shirt,Round Neck,â¹3748.97,,Dark Blue,M,Silk,Festive,107,2.3
+P1251,Jeans,Skinny,"2,562",5,Crimson,L,Polyester,Spring,352,4.1
+P1018,Jeans,Regular,"3,057",5,RED,40,Polyester,Summer,113,3.3
+P1081,Jeans,Regular,"1,879",20,White,L,Linen,Festive,344,4
+P1439,Jeans,Skinny,â¹1159.37,15,Navy Blue,Medium,Cotton,Winter,298,3.3
+P1445,Saree,Cotton,"3,745",20,Blue,38,Georgette,Winter,497,1.6
+P1443,T-Shirt,V-Neck,â¹2855.02,15,White,M,Georgette,Festive,89,2.5
+P1105,Jeans,Skinny,â¹2040.65,5,RED,L,Georgette,Summer,332,3
+P1459,T-Shirt,Round Neck,"4,279",5,Maroon,Medium,Polyester,Summer,204,4.8
+P1433,T-Shirt,Round Neck,"1,721",,Black,Small,Cotton,Festive,290,2
+P1439,Jeans,Skinny,"3,603",5,Navy,38,Silk,Summer,311,2.1
+P1463,Jeans,Skinny,3800.02,5,Black,L,Cotton,Winter,116,4
+P1163,Shirt,Casual,942.22,,red,Medium,Linen,Summer,226,
+P1306,Kurti,Straight,2940.66,15,Navy Blue,,Cotton,Festive,440,3.9
+P1314,Shirt,Formal,"3,150",15,Red,L,Linen,Spring,252,2.3
+P1135,Shirt,Casual,â¹4781.46,20,Navy,Large,Polyester,Spring,320,4.9
+P1240,Kurti,Anarkali,529,15,RED,M,Cotton,Festive,344,4.7
+P1421,Shirt,Casual,"3,370",5,Navy,Small,Silk,Winter,157,2.3
+P1474,T-Shirt,V-Neck,â¹963.13,20,Navy,,Silk,Spring,80,2.6
+P1166,Kurti,Straight,3245.55,20,black,,Linen,Spring,117,2.9
+P1372,Saree,Cotton,â¹1152.44,10,Maroon,Large,Linen,Spring,217,4.1
+P1181,Dress,Casual,â¹748.88,,Crimson,M,Linen,Spring,9,1.8
+P1012,Jeans,Slim,â¹1651.68,10,Blue,XL,Polyester,Winter,408,3
+P1166,Saree,Silk,834.92,,black,,Linen,Summer,399,3.8
+P1300,Jeans,Regular,"1,624",15,Red,Small,Cotton,Spring,141,2.8
+P1037,Saree,Silk,"2,623",10,Crimson,XL,Silk,Winter,301,1.8
+P1279,Dress,Casual,"1,603",,Navy Blue,40,Georgette,Spring,353,
+P1490,Dress,Party,â¹3701.31,10,Crimson,38,Silk,Winter,164,2.8
+P1132,Saree,Silk,"3,549",10,WHITE,S,Silk,Summer,328,2.6
+P1467,Shirt,Formal,4242.54,20,Dark Blue,S,Georgette,Festive,16,4.5
+P1170,Saree,Designer,"2,714",,red,Small,Georgette,Summer,498,1.4
+P1293,Kurti,A-Line,4308.35,15,WHITE,Medium,Cotton,Festive,418,2.8
+P1093,Jeans,Skinny,3427,,WHITE,Large,Linen,Festive,455,
+P1009,T-Shirt,V-Neck,â¹528.59,0,Navy,Large,Linen,Winter,132,3.3
+P1102,Saree,Designer,"2,559",20,Dark Blue,,Silk,Winter,395,2.2
+P1399,Dress,Evening,2900.4,5,Black,Large,Cotton,Spring,445,1.9
+P1138,Kurti,Straight,â¹1863.18,5,Navy,Large,Cotton,Winter,449,2.8
+P1437,Shirt,Formal,"2,497",,Navy,XL,Cotton,Festive,224,1.8
+P1259,Shirt,Formal,917.83,20,Maroon,40,Cotton,Winter,387,4.8
+P1212,Jeans,Slim,â¹2112.76,5,Navy,Small,Georgette,Spring,244,1.4
+P1204,Shirt,Formal,â¹532.65,0,Dark Blue,Large,Polyester,Summer,222,3.6
+P1414,Kurti,A-Line,880,15,black,S,Polyester,Spring,23,2
+P1071,T-Shirt,Round Neck,1075.77,,black,S,Cotton,Winter,443,2.2
+P1088,T-Shirt,V-Neck,â¹4204.63,5,Black,M,Silk,Spring,450,4.1
+P1320,Dress,Casual,â¹1418.35,10,Navy Blue,,Polyester,Summer,401,
+P1467,Dress,Casual,654,15,Red,40,Linen,Winter,80,2.4
+P1057,Kurti,Straight,2389.47,15,black,XL,Georgette,Festive,68,4.2
+P1065,Dress,Casual,â¹2643.1,10,White,40,Polyester,Summer,244,4.3
+P1066,T-Shirt,Round Neck,"1,066",5,Navy,Small,Cotton,Festive,144,1.4
+P1154,Kurti,Anarkali,"1,330",10,Maroon,38,Georgette,Spring,389,2.3
+P1478,Saree,Designer,"1,153",0,Maroon,XL,Cotton,Winter,93,
+P1082,Jeans,Skinny,4259.21,15,Dark Blue,S,Georgette,Festive,247,1.8
+P1232,T-Shirt,V-Neck,2534.47,20,Navy Blue,40,Linen,Summer,381,4.1
+P1130,Saree,Cotton,4985.09,10,Crimson,38,Georgette,Festive,339,
+P1218,Saree,Designer,â¹1682.89,,Red,40,Silk,Summer,116,4.3
+P1447,Dress,Party,3707.13,10,Navy Blue,38,Linen,Summer,494,3
+P1113,Shirt,Formal,"1,137",0,Navy,Large,Georgette,Winter,288,3.1
+P1484,T-Shirt,V-Neck,"2,927",20,RED,Large,Silk,Summer,348,3.5
+P1077,T-Shirt,Round Neck,"4,294",20,WHITE,XL,Silk,Spring,25,4.8
+P1457,Saree,Cotton,â¹4554.3,15,black,Large,Silk,Spring,0,
+P1472,Jeans,Slim,3506.54,,WHITE,,Cotton,Summer,386,1.6
+P1330,Kurti,Straight,2260.57,15,Blue,,Silk,Winter,427,1.9
+P1371,Saree,Silk,4516.87,,WHITE,M,Silk,Festive,72,4
+P1268,Dress,Party,â¹1027.81,0,Crimson,,Linen,Winter,338,4.3
+P1174,T-Shirt,V-Neck,"1,191",10,Red,XL,Polyester,Summer,320,3.3
+P1388,Jeans,Slim,â¹4394.78,10,Navy,40,Cotton,Summer,374,3.4
+P1253,Saree,Silk,"4,412",,Blue,XL,Cotton,Summer,442,4.4
+P1260,Jeans,Regular,"4,571",10,Blue,L,Polyester,Summer,6,4.2
+P1222,Kurti,A-Line,"2,727",,Navy Blue,Small,Linen,Festive,310,4.7
+P1429,Shirt,Formal,"3,207",,red,,Cotton,Summer,494,2.4
+P1417,Jeans,Slim,â¹4567.05,15,Maroon,S,Polyester,Festive,436,4.5
+P1381,Dress,Casual,"4,159",15,White,S,Silk,Winter,12,2.3
+P1233,Saree,Cotton,"4,108",10,Dark Blue,Large,Polyester,Winter,141,1.2
+P1107,Shirt,Casual,3958.75,20,Crimson,40,Polyester,Festive,385,4.3
+P1275,Shirt,Formal,"2,001",,Crimson,Medium,Polyester,Spring,51,1.4
+P1095,Shirt,Casual,"3,298",15,Navy,L,Linen,Spring,172,4.6
+P1097,Kurti,Straight,1952.42,20,Navy Blue,40,Georgette,Spring,387,1.7
+P1364,T-Shirt,Round Neck,1393.79,20,White,XL,Polyester,Winter,366,2.4
+P1417,Kurti,Anarkali,966,10,WHITE,,Cotton,Spring,115,1.2
+P1013,T-Shirt,Round Neck,â¹3503.85,15,Navy,Medium,Silk,Winter,225,1.9
+P1439,Dress,Casual,1596.56,20,black,38,Linen,Winter,211,3.1
+P1407,Shirt,Casual,"3,860",10,Crimson,L,Linen,Spring,186,4.7
+P1068,Saree,Designer,"2,106",10,Maroon,Medium,Georgette,Winter,49,4.1
+P1413,T-Shirt,V-Neck,2909.12,20,Navy,Large,Georgette,Winter,238,4.3
+P1033,Shirt,Casual,â¹2737.1,5,Red,40,Linen,Summer,458,4.5
+P1488,Kurti,Straight,3569.03,,Navy Blue,,Polyester,Summer,365,2.7
+P1158,Kurti,Anarkali,â¹1468.42,20,Maroon,L,Polyester,Winter,291,3
+P1300,Shirt,Formal,"3,948",10,Red,,Cotton,Spring,300,4.9
+P1082,T-Shirt,Round Neck,"2,883",,Navy,Medium,Georgette,Winter,427,3.6
+P1484,Shirt,Formal,1993.06,15,WHITE,XL,Linen,Festive,356,4.4
+P1362,Kurti,Straight,1900.38,15,Navy Blue,38,Cotton,Winter,133,1.9
+P1384,Jeans,Slim,â¹867.06,0,Black,L,Cotton,Summer,285,
+P1006,Saree,Silk,"1,258",0,Dark Blue,XL,Polyester,Summer,409,3.3
+P1255,Dress,Evening,"1,348",5,Black,Medium,Polyester,Summer,446,1.6
+P1361,Saree,Designer,â¹1296.18,5,Black,M,Linen,Summer,318,
+P1478,T-Shirt,Round Neck,â¹4132.42,10,red,Large,Silk,Winter,460,
+P1471,Kurti,A-Line,"1,198",10,black,40,Linen,Festive,483,3.2
+P1491,Saree,Silk,2145.62,15,Navy,XL,Cotton,Spring,30,4.7
+P1050,Jeans,Slim,"3,895",20,red,Large,Georgette,Festive,387,1.8
+P1149,Saree,Silk,2515.57,,Blue,XL,Linen,Festive,42,3
+P1156,Saree,Designer,â¹2678.47,15,Crimson,L,Cotton,Summer,96,2.2
+P1024,T-Shirt,Round Neck,"3,384",20,Red,S,Polyester,Festive,96,3.2
+P1434,Jeans,Regular,"3,823",5,Black,Large,Cotton,Winter,50,1.7
+P1104,Kurti,A-Line,"1,941",15,Navy,,Georgette,Summer,23,1.8
+P1463,Jeans,Skinny,4659.41,5,White,Large,Silk,Festive,423,4.7
+P1126,Shirt,Formal,"1,201",20,White,L,Linen,Spring,104,3.6
+P1421,Saree,Cotton,â¹3606.27,15,Blue,L,Silk,Festive,129,3.5
+P1065,Shirt,Formal,â¹3632.01,,Maroon,Medium,Cotton,Summer,59,4.2
+P1483,Dress,Evening,2916.23,,Navy Blue,XL,Polyester,Spring,145,2
+P1486,Dress,Casual,4202.95,0,Black,38,Silk,Winter,265,2.9
+P1094,Dress,Evening,â¹1528.9,0,Crimson,Small,Silk,Festive,315,4
+P1392,Shirt,Formal,"3,482",5,Crimson,Medium,Polyester,Summer,291,
+P1471,Kurti,Anarkali,â¹4367.69,5,Dark Blue,38,Silk,Summer,200,4.8
+P1099,T-Shirt,Round Neck,"1,513",10,White,38,Cotton,Festive,35,3.4
+P1493,Saree,Designer,"1,224",10,Red,Small,Cotton,Festive,265,3.5
+P1019,Kurti,A-Line,â¹4697.6,5,red,Medium,Cotton,Festive,1,4.3
+P1018,T-Shirt,Round Neck,"4,356",20,Black,Small,Cotton,Festive,479,2.5
+P1121,Jeans,Slim,"2,240",,black,,Polyester,Spring,325,4.7
+P1114,Kurti,Anarkali,â¹2914.05,5,Navy Blue,M,Linen,Spring,451,4
+P1210,Shirt,Casual,â¹1147.93,,Black,Medium,Linen,Winter,430,1.8
+P1375,Shirt,Casual,â¹4476.3,15,black,XL,Linen,Spring,172,2.6
+P1364,Jeans,Slim,1426.62,5,WHITE,Medium,Georgette,Spring,460,4.4
+P1201,Shirt,Casual,3398,5,black,Small,Georgette,Festive,153,4.8
+P1172,T-Shirt,V-Neck,728.99,20,RED,XL,Georgette,Festive,92,1.1
+P1139,Kurti,Anarkali,3053.27,,White,,Silk,Festive,294,1.8
+P1066,Shirt,Casual,"2,608",15,Dark Blue,,Georgette,Summer,346,
+P1169,Dress,Evening,596.6,0,Dark Blue,Large,Silk,Winter,490,4.4
+P1463,Saree,Designer,"4,591",15,black,Large,Silk,Spring,155,3.2
+P1466,Kurti,Straight,"2,368",20,Blue,M,Georgette,Festive,358,3.8
+P1465,Kurti,Straight,3487.41,15,red,S,Silk,Festive,242,1.7
+P1476,Dress,Party,â¹3596.55,15,WHITE,,Silk,Festive,457,
+P1453,Shirt,Casual,4485.22,10,red,M,Silk,Spring,346,1.6
+P1149,Jeans,Skinny,â¹4827.09,,Crimson,Small,Polyester,Festive,8,3.4
+P1262,Kurti,Anarkali,4330.64,10,Black,S,Linen,Spring,463,3.6
+P1172,Jeans,Regular,â¹1684.01,0,Navy Blue,38,Cotton,Spring,282,
+P1154,T-Shirt,Round Neck,3805.89,15,Navy,38,Linen,Festive,18,2.1
+P1437,Shirt,Casual,"2,150",15,Blue,Large,Silk,Spring,368,1.8
+P1470,Saree,Cotton,â¹874.88,,red,Large,Georgette,Summer,11,4.2
+P1033,Dress,Evening,â¹834.87,5,WHITE,Medium,Cotton,Summer,4,3.9
+P1320,Saree,Designer,816,15,White,Large,Cotton,Summer,28,1.8
+P1487,Jeans,Skinny,"1,335",0,Red,XL,Silk,Winter,25,2.5
+P1362,Jeans,Slim,1366.87,15,WHITE,M,Linen,Spring,374,4.5
+P1040,Dress,Casual,1332.18,5,Navy,L,Silk,Winter,358,4
+P1083,Kurti,Straight,4318.77,15,White,,Polyester,Festive,259,1.9
+P1003,Saree,Cotton,"3,809",,White,L,Polyester,Winter,33,
+P1317,Shirt,Casual,4562.12,15,red,38,Cotton,Summer,163,4.7
+P1491,Saree,Designer,"3,564",0,WHITE,L,Polyester,Festive,183,2.9
+P1279,Shirt,Casual,â¹3935.36,,Navy,Medium,Georgette,Winter,21,2.6
+P1237,Shirt,Casual,â¹4655.51,15,black,M,Silk,Festive,214,4.5
+P1076,Saree,Cotton,"4,953",15,Dark Blue,S,Linen,Winter,77,1.7
+P1138,Dress,Evening,2260.81,10,Navy,S,Linen,Festive,81,4.8
+P1310,T-Shirt,V-Neck,â¹1524.83,,black,XL,Linen,Winter,249,1.2
+P1244,Dress,Evening,"4,788",20,Navy Blue,M,Silk,Festive,411,3
+P1159,Saree,Designer,"1,213",,WHITE,XL,Georgette,Summer,306,2.1
+P1189,Jeans,Regular,4132.06,20,black,Small,Cotton,Festive,189,1.8
+P1324,Saree,Designer,â¹1550.47,15,Crimson,L,Georgette,Spring,295,3.8
+P1497,Kurti,Anarkali,"4,017",5,Maroon,,Georgette,Winter,416,3
+P1196,Shirt,Formal,1910.57,5,WHITE,Large,Cotton,Festive,236,4.6
+P1398,Jeans,Regular,â¹801.16,5,Crimson,L,Silk,Spring,434,2.9
+P1422,Kurti,A-Line,â¹513.74,20,black,40,Silk,Spring,489,4.9
+P1096,T-Shirt,Round Neck,"4,208",20,WHITE,Small,Polyester,Summer,376,3.1
+P1216,T-Shirt,V-Neck,â¹1617.02,,Red,L,Polyester,Winter,73,1.1
+P1397,Jeans,Regular,â¹854.19,5,black,XL,Georgette,Winter,304,2.3
+P1310,Saree,Cotton,"1,741",15,Navy Blue,M,Georgette,Winter,165,1.5
+P1161,Saree,Designer,2646.96,,Blue,40,Cotton,Festive,330,1.7
+P1289,T-Shirt,Round Neck,â¹3396.29,20,Red,40,Cotton,Winter,254,
+P1083,Dress,Evening,"1,182",,Navy,Small,Polyester,Spring,173,
+P1031,Saree,Silk,"2,716",20,Blue,XL,Silk,Summer,416,1.6
+P1349,Saree,Silk,"1,576",20,Red,S,Silk,Festive,21,
+P1256,Kurti,Straight,4794.89,10,Dark Blue,XL,Linen,Summer,261,3
+P1034,Jeans,Slim,"3,637",0,Navy,,Cotton,Winter,117,1
+P1260,Jeans,Skinny,â¹3117.12,5,Blue,Medium,Silk,Summer,468,3.5
+P1081,Saree,Designer,â¹2184.35,5,Crimson,,Polyester,Spring,100,2
+P1228,Dress,Party,1784.22,20,White,40,Linen,Winter,94,2.5
+P1102,Dress,Party,4698.88,20,Maroon,L,Silk,Spring,184,3.6
+P1111,Kurti,A-Line,â¹4505.93,20,Red,L,Cotton,Winter,424,2.3
+P1200,Shirt,Casual,â¹3739.86,20,Crimson,M,Linen,Festive,287,4.2
+P1452,Jeans,Skinny,849.53,0,Red,,Cotton,Summer,484,1
+P1049,Shirt,Casual,3779.37,0,Dark Blue,Medium,Silk,Festive,379,1.3
+P1460,Shirt,Formal,1838.61,0,Navy Blue,M,Polyester,Festive,476,4.9
+P1487,Kurti,Straight,"4,637",,Crimson,S,Linen,Winter,7,3.9
+P1288,Shirt,Casual,"1,715",15,red,M,Silk,Summer,203,1.1
+P1089,Shirt,Casual,â¹4237.03,0,WHITE,S,Cotton,Spring,363,2.9
+P1120,Saree,Silk,3520.59,,black,S,Cotton,Festive,286,3
+P1146,Kurti,A-Line,4318.05,10,red,,Polyester,Festive,420,1.7
+P1074,Jeans,Regular,"3,767",10,Maroon,Large,Linen,Winter,297,2.9
+P1384,Saree,Cotton,"1,164",15,White,40,Linen,Spring,492,3.4
+P1238,Kurti,Anarkali,"4,661",15,Crimson,40,Silk,Summer,175,4.4
+P1323,Jeans,Skinny,"3,194",,RED,,Silk,Winter,422,1.3
+P1021,Shirt,Formal,"4,957",20,red,,Cotton,Spring,478,4.8
+P1250,Jeans,Skinny,â¹3578.05,0,Dark Blue,Large,Georgette,Festive,267,2.6
+P1384,T-Shirt,V-Neck,"3,874",0,Navy,38,Silk,Winter,366,
+P1355,T-Shirt,Round Neck,2728.41,10,Navy,XL,Polyester,Winter,277,4.8
+P1061,Kurti,Straight,â¹572.99,5,RED,Small,Cotton,Spring,231,2.7
+P1305,Saree,Designer,"2,313",10,Dark Blue,XL,Polyester,Winter,155,3.4
+P1255,Shirt,Formal,3556.03,10,Dark Blue,S,Polyester,Festive,440,4
+P1450,Dress,Casual,"3,598",10,White,38,Cotton,Festive,19,4
+P1042,Dress,Casual,1634.7,5,Maroon,Small,Linen,Festive,383,3.4
+P1397,Shirt,Formal,"1,952",,black,Medium,Georgette,Festive,48,
+P1478,Kurti,A-Line,4382.23,20,black,Small,Georgette,Winter,237,3.3
+P1357,T-Shirt,Round Neck,1639.42,20,black,M,Linen,Spring,437,2.2
+P1495,Saree,Cotton,993.54,0,Navy,38,Linen,Winter,2,4
+P1154,Jeans,Skinny,3976.08,5,Navy,Large,Georgette,Festive,117,4.2
+P1379,Dress,Evening,1239.95,20,WHITE,S,Linen,Festive,187,2.7
+P1325,Jeans,Slim,â¹4539.6,20,red,XL,Linen,Summer,142,3.8
+P1183,Dress,Evening,892,15,Blue,40,Silk,Winter,61,
+P1228,Dress,Party,1340.56,,Black,Large,Georgette,Spring,244,
+P1286,Jeans,Skinny,3119.54,0,Navy,Medium,Silk,Spring,68,2.6
+P1057,Saree,Silk,2795.88,20,White,L,Georgette,Summer,155,1.5
+P1339,Kurti,Anarkali,4105.51,15,black,38,Silk,Summer,88,3.5
+P1439,T-Shirt,Round Neck,1157.51,20,RED,Small,Linen,Summer,289,3.5
+P1208,Shirt,Casual,â¹4719.24,0,Crimson,XL,Cotton,Spring,399,1.8
+P1428,Jeans,Regular,"2,258",5,Maroon,M,Linen,Festive,330,3.5
+P1395,Kurti,A-Line,â¹2845.66,0,Blue,,Cotton,Festive,33,3.8
+P1201,Kurti,A-Line,â¹679.77,10,black,Large,Polyester,Spring,470,4.8
+P1301,T-Shirt,V-Neck,"2,237",,Black,,Georgette,Winter,240,3.8
+P1032,Saree,Designer,"2,826",10,White,L,Polyester,Spring,304,2.3
+P1497,Saree,Silk,â¹3047.07,10,Navy,Large,Georgette,Festive,142,2.7
+P1410,Jeans,Skinny,3957.41,,Navy Blue,Medium,Polyester,Spring,104,3.3
+P1326,Kurti,Straight,â¹3760.67,5,Navy,,Polyester,Winter,454,3
+P1477,Kurti,Anarkali,â¹2679.54,20,black,40,Polyester,Winter,130,2
+P1415,Shirt,Casual,514.7,10,black,38,Georgette,Spring,261,1.8
+P1304,Dress,Casual,â¹3326.51,0,black,XL,Linen,Spring,61,1.5
+P1055,Dress,Evening,â¹4312.29,20,Black,L,Silk,Summer,473,2.7
+P1057,Dress,Party,3049.55,10,WHITE,L,Polyester,Festive,123,3.5
+P1430,T-Shirt,V-Neck,â¹4675.33,5,RED,S,Georgette,Spring,390,4.2
+P1488,Shirt,Formal,2937.7,5,red,,Georgette,Spring,414,1.4
+P1084,Shirt,Formal,"1,589",5,Navy,L,Cotton,Summer,122,2.7
+P1051,T-Shirt,V-Neck,2507.74,0,Blue,38,Linen,Winter,378,4.4
+P1105,Shirt,Formal,â¹2935.69,,black,XL,Georgette,Spring,164,
+P1105,T-Shirt,V-Neck,"4,271",10,RED,Small,Georgette,Festive,86,1.8
+P1366,Saree,Cotton,2322.96,10,Navy,XL,Georgette,Festive,491,
+P1231,T-Shirt,Round Neck,3404.65,,Crimson,S,Linen,Spring,184,3
+P1223,Jeans,Regular,4591.35,10,Dark Blue,Medium,Polyester,Spring,466,2.9
+P1264,Kurti,Straight,"4,341",20,Black,Medium,Cotton,Festive,186,
+P1047,Kurti,Straight,3681.97,20,Maroon,40,Cotton,Spring,40,2
+P1142,Kurti,Anarkali,â¹1137.35,5,Navy,XL,Polyester,Winter,266,
+P1400,Dress,Party,734,,RED,L,Georgette,Festive,482,1.7
+P1034,Dress,Evening,3211.85,0,Navy Blue,M,Georgette,Summer,398,4
+P1125,Jeans,Skinny,1187.23,0,Dark Blue,M,Polyester,Summer,256,1.2
+P1433,Kurti,Straight,717.55,5,Navy,,Polyester,Spring,236,1.7
+P1310,Dress,Party,"1,616",0,red,XL,Silk,Summer,147,4.2
+P1206,Jeans,Regular,"2,976",20,black,40,Polyester,Festive,384,4.7
+P1412,Kurti,A-Line,4360.67,0,Navy,Small,Georgette,Spring,431,3.4
+P1012,Shirt,Casual,â¹2191.75,10,black,Medium,Cotton,Winter,222,4
+P1202,Shirt,Formal,â¹3420.82,5,RED,S,Silk,Festive,129,2.9
+P1066,Shirt,Casual,â¹4470.73,15,Red,Medium,Silk,Summer,151,2.4
+P1181,Shirt,Casual,â¹851.56,20,Black,38,Cotton,Festive,34,1.8
+P1074,T-Shirt,Round Neck,549.75,,Maroon,40,Polyester,Summer,12,3.5
+P1408,Saree,Silk,â¹2517.61,20,black,Large,Georgette,Spring,145,4.2
+P1221,T-Shirt,Round Neck,â¹4475.9,20,Red,40,Georgette,Summer,495,4.3
+P1369,Saree,Designer,"3,714",,Navy Blue,M,Silk,Winter,47,2.1
+P1488,Kurti,Straight,698.06,5,Navy,XL,Georgette,Winter,213,4.5
+P1000,Shirt,Casual,4956.92,0,RED,S,Polyester,Festive,402,
+P1058,Shirt,Formal,â¹4661.7,0,White,38,Polyester,Spring,435,4.8
+P1269,T-Shirt,V-Neck,â¹3341.86,5,White,,Georgette,Spring,412,4.6
+P1168,Kurti,Straight,â¹2452.43,20,Navy Blue,38,Linen,Summer,487,4.2
+P1114,Saree,Silk,"4,208",5,Navy,38,Silk,Summer,357,2.5
+P1153,Jeans,Regular,â¹2386.81,0,Navy,M,Georgette,Festive,485,1.3
+P1078,Saree,Silk,â¹2460.31,15,black,S,Polyester,Spring,60,2.9
+P1220,Shirt,Casual,â¹3147.9,5,Navy Blue,Medium,Georgette,Winter,172,2.3
+P1407,Shirt,Formal,952.97,,Red,M,Georgette,Festive,252,4.7
+P1001,Jeans,Slim,1183.49,15,RED,S,Silk,Spring,431,3.7
+P1020,Jeans,Regular,3497.26,5,Navy Blue,Large,Cotton,Summer,298,
+P1404,Dress,Party,500.96,5,Blue,38,Cotton,Spring,303,4.3
+P1236,Dress,Party,1780,20,Navy Blue,M,Georgette,Summer,254,3.8
+P1083,Dress,Casual,"4,334",,black,38,Polyester,Spring,150,4.3
+P1341,Shirt,Formal,â¹4074.16,10,Navy,Medium,Linen,Winter,360,1.3
+P1064,T-Shirt,Round Neck,â¹1164.56,5,Maroon,Small,Polyester,Spring,352,2
+P1342,Shirt,Casual,"2,344",,Black,,Polyester,Winter,458,1.1
+P1025,Kurti,Anarkali,1361.7,0,Crimson,L,Linen,Winter,416,3.6
+P1381,Shirt,Casual,â¹2523.26,,Blue,Large,Georgette,Winter,3,1.7
+P1075,Saree,Cotton,â¹919.47,0,RED,Medium,Georgette,Festive,490,1.8
+P1323,Kurti,Anarkali,673.02,10,Maroon,Large,Georgette,Spring,172,
+P1348,Shirt,Formal,â¹1449.78,,Maroon,40,Polyester,Festive,455,3.4
+P1409,T-Shirt,Round Neck,"2,457",0,black,,Georgette,Spring,275,2.8
+P1321,Saree,Cotton,580,0,black,XL,Linen,Winter,472,3.4
+P1436,Shirt,Casual,"1,851",0,Navy,,Polyester,Festive,135,
+P1122,Kurti,Straight,â¹1498.1,15,Red,XL,Cotton,Summer,410,3.1
+P1406,T-Shirt,V-Neck,573,,Crimson,L,Georgette,Summer,254,1.9
+P1437,Jeans,Slim,1794.01,5,Blue,40,Polyester,Winter,279,1.1
+P1484,Shirt,Formal,1979.49,15,Red,Small,Silk,Spring,86,3.7
+P1373,Shirt,Formal,4576.8,5,Dark Blue,Small,Polyester,Spring,277,3.6
+P1488,Dress,Evening,4429.5,5,red,L,Silk,Summer,391,1.5
+P1342,T-Shirt,V-Neck,â¹2798.51,20,Navy Blue,Small,Polyester,Summer,180,4.2
+P1411,T-Shirt,V-Neck,"3,763",0,red,M,Silk,Spring,82,3.8
+P1179,Kurti,Anarkali,"4,960",0,Dark Blue,XL,Linen,Summer,413,4.2
+P1247,Kurti,Straight,"1,355",20,Maroon,Small,Silk,Festive,285,2.5
+P1018,Jeans,Regular,1396.01,15,Navy,S,Georgette,Spring,8,4.7
+P1496,Jeans,Regular,2369.9,10,black,Small,Silk,Summer,304,4.1
+P1282,T-Shirt,Round Neck,"2,630",,Crimson,Large,Cotton,Summer,402,2.3
+P1019,Saree,Designer,â¹4199.74,0,Red,L,Silk,Spring,417,1.6
+P1186,Saree,Cotton,"4,915",0,black,L,Polyester,Festive,11,
+P1445,Saree,Cotton,1331.49,5,Black,,Georgette,Summer,185,4.9
+P1295,Saree,Cotton,4497.84,5,WHITE,Small,Silk,Summer,141,4
+P1478,T-Shirt,Round Neck,"4,152",20,Maroon,40,Polyester,Spring,51,4
+P1047,Dress,Casual,â¹4634.77,,Dark Blue,L,Cotton,Winter,35,
+P1021,T-Shirt,Round Neck,â¹980.73,15,Crimson,Large,Linen,Summer,135,4.8
+P1332,Kurti,Straight,2003.28,20,Maroon,Small,Cotton,Festive,111,1.5
+P1002,Jeans,Slim,â¹2793.58,,Black,L,Georgette,Winter,252,1.2
+P1422,Kurti,A-Line,3500.97,20,Navy Blue,Large,Silk,Festive,498,4.6
+P1361,Saree,Cotton,1620.64,15,Navy Blue,,Linen,Summer,500,3.4
+P1094,Jeans,Regular,"3,610",,WHITE,Small,Silk,Winter,364,
+P1350,Kurti,A-Line,709.54,15,RED,Medium,Polyester,Summer,294,
+P1007,Kurti,A-Line,998,15,red,Large,Silk,Festive,73,3.6
+P1193,Dress,Casual,â¹1963.0,,Black,L,Linen,Winter,439,1.8
+P1124,Saree,Silk,"4,414",15,black,L,Linen,Summer,129,
+P1383,Shirt,Formal,776.32,15,Black,L,Silk,Festive,56,1.6
+P1242,Saree,Silk,2417.69,20,red,,Linen,Spring,155,2.8
+P1138,Jeans,Regular,â¹4277.61,5,black,Medium,Linen,Winter,8,3.6
+P1260,Shirt,Formal,"4,939",,RED,Small,Polyester,Spring,267,1.4
+P1206,Jeans,Slim,"4,097",0,red,,Cotton,Winter,460,4.2
+P1409,Jeans,Slim,"4,351",20,RED,38,Georgette,Summer,76,2.3
+P1000,Jeans,Slim,â¹2388.77,15,Navy,M,Cotton,Spring,369,2
+P1342,Saree,Designer,â¹1397.6,20,WHITE,,Polyester,Summer,194,1.8
+P1182,Kurti,Anarkali,â¹706.12,15,Crimson,Medium,Georgette,Spring,252,4.8
+P1458,Dress,Party,843,5,Navy,XL,Cotton,Winter,239,5
+P1225,Dress,Evening,"3,564",,RED,Medium,Silk,Winter,189,
+P1061,Saree,Silk,â¹4631.92,10,White,,Linen,Winter,47,1.9
+P1274,Dress,Evening,"4,124",,White,Medium,Cotton,Festive,352,1.7
+P1418,Jeans,Slim,â¹528.6,5,Crimson,XL,Polyester,Summer,45,1.9
+P1178,T-Shirt,V-Neck,500,10,Crimson,38,Georgette,Winter,13,4.9
+P1088,T-Shirt,Round Neck,3502.84,5,Navy,S,Silk,Winter,423,1.5
+P1316,Shirt,Formal,3477.48,5,Red,Small,Silk,Spring,321,4
+P1426,Jeans,Regular,1192.68,5,black,XL,Cotton,Winter,191,
+P1055,Kurti,A-Line,â¹4293.08,0,Crimson,M,Silk,Summer,78,2.7
+P1365,Jeans,Skinny,"1,697",20,White,40,Georgette,Spring,453,4.3
+P1088,T-Shirt,Round Neck,â¹4791.28,20,Crimson,38,Polyester,Spring,133,4.7
+P1395,Dress,Evening,â¹2326.17,20,black,Small,Georgette,Summer,407,4.6
+P1286,Kurti,A-Line,3651.21,15,Blue,,Silk,Summer,265,4.5
+P1439,Kurti,Straight,"4,586",20,Black,Small,Silk,Summer,173,1.4
+P1022,Saree,Cotton,2970.08,15,black,Medium,Silk,Winter,357,3.1
+P1324,T-Shirt,V-Neck,821,20,red,Large,Linen,Winter,348,4.4
+P1396,Dress,Evening,3944.66,,Maroon,S,Cotton,Summer,165,4
+P1097,Jeans,Slim,864,15,Crimson,Small,Linen,Spring,29,4
+P1160,T-Shirt,Round Neck,â¹3736.51,15,White,Small,Georgette,Spring,385,1.6
+P1276,T-Shirt,Round Neck,"3,201",15,Navy Blue,38,Georgette,Summer,77,4.1
+P1020,T-Shirt,Round Neck,â¹1913.51,20,Blue,38,Cotton,Summer,306,
+P1176,Jeans,Regular,â¹4486.07,,Dark Blue,Small,Polyester,Spring,271,2.5
+P1261,Dress,Evening,â¹2358.38,5,Dark Blue,Large,Cotton,Spring,158,4.1
+P1320,Shirt,Formal,2986.44,15,Red,XL,Silk,Winter,210,3.5
+P1395,Shirt,Casual,4039.35,20,Crimson,40,Silk,Winter,33,
+P1427,Dress,Evening,â¹4393.63,20,red,40,Georgette,Summer,133,2
+P1255,Jeans,Skinny,â¹2963.65,5,Black,Medium,Linen,Winter,270,2.6
+P1356,Kurti,Straight,3528.5,15,WHITE,L,Silk,Spring,208,1.1
+P1432,Shirt,Formal,"2,157",20,Blue,Medium,Cotton,Spring,491,1.3
+P1199,Dress,Casual,"1,812",5,Dark Blue,Large,Polyester,Summer,95,1.9
+P1095,Jeans,Regular,"2,029",10,Navy,S,Cotton,Festive,193,4.2
+P1258,Saree,Designer,"3,090",0,Crimson,Medium,Cotton,Spring,123,3
+P1238,Kurti,Anarkali,1991.98,20,Maroon,S,Polyester,Summer,148,1.2
+P1106,Saree,Silk,1420.88,10,Navy,40,Polyester,Spring,452,2.6
+P1048,Kurti,Straight,4126.77,,WHITE,38,Georgette,Festive,369,1.5
+P1303,Dress,Party,4890.16,0,White,Medium,Linen,Winter,68,2.3
+P1370,Kurti,Straight,4470.72,0,red,,Georgette,Festive,388,5
+P1398,Dress,Casual,â¹4823.33,20,Maroon,40,Cotton,Summer,466,4.3
+P1057,Dress,Party,â¹980.36,20,RED,,Georgette,Summer,125,2.3
+P1145,Jeans,Slim,"2,738",20,red,XL,Cotton,Winter,200,4.2
+P1036,Kurti,Straight,843,0,Black,,Polyester,Summer,276,1.9
+P1300,T-Shirt,V-Neck,2043.28,5,Crimson,XL,Silk,Winter,417,4.8
+P1140,T-Shirt,Round Neck,â¹830.76,10,Dark Blue,XL,Cotton,Summer,130,3.8
+P1208,Jeans,Regular,"1,085",,Red,Large,Cotton,Spring,121,2.6
+P1059,Shirt,Formal,2837.03,,RED,XL,Cotton,Summer,483,5
+P1452,T-Shirt,Round Neck,â¹2125.95,20,red,S,Linen,Winter,350,2.3
+P1393,Jeans,Skinny,949.76,5,Navy Blue,Large,Polyester,Summer,418,3.2
+P1217,Shirt,Formal,â¹2684.24,20,White,M,Georgette,Winter,268,2.2
+P1002,Dress,Evening,"1,589",20,black,Medium,Polyester,Spring,121,3.7
+P1119,T-Shirt,Round Neck,2333.56,,Dark Blue,,Cotton,Summer,52,2.8
+P1259,Jeans,Skinny,3225.57,10,WHITE,,Cotton,Spring,146,4.7
+P1413,Jeans,Regular,"4,963",5,Blue,,Georgette,Festive,392,4.2
+P1309,Jeans,Regular,"4,236",20,Maroon,38,Cotton,Spring,74,2.5
+P1052,Shirt,Formal,"1,161",10,Red,40,Polyester,Winter,488,1.8
+P1397,Kurti,Straight,1824.94,15,Blue,,Georgette,Summer,208,1.1
+P1060,T-Shirt,V-Neck,"1,197",15,Crimson,XL,Cotton,Festive,89,2.2
+P1166,Jeans,Skinny,2839.97,,White,,Polyester,Winter,460,1.6
+P1423,T-Shirt,Round Neck,â¹4261.87,0,Dark Blue,XL,Cotton,Winter,461,3.4
+P1207,Saree,Silk,2971.63,20,Crimson,Large,Georgette,Winter,222,1.4
+P1208,T-Shirt,V-Neck,â¹3078.11,,red,Medium,Cotton,Festive,414,3.7
+P1160,Jeans,Skinny,"3,949",20,Dark Blue,Small,Polyester,Winter,397,3.2
+P1435,Kurti,A-Line,â¹4083.28,20,Navy Blue,S,Cotton,Winter,244,1
+P1464,Jeans,Slim,â¹2454.12,15,red,S,Cotton,Festive,257,1.3
+P1024,Kurti,A-Line,2006.78,0,Blue,40,Cotton,Spring,41,3.4
+P1396,Jeans,Regular,â¹744.46,5,White,40,Silk,Festive,328,1.6
+P1138,Jeans,Regular,â¹1492.3,0,black,38,Linen,Spring,200,3.9
+P1343,Shirt,Formal,â¹3767.1,5,WHITE,M,Polyester,Summer,284,4
+P1082,Shirt,Casual,4652.73,20,Maroon,,Cotton,Spring,11,3.1
+P1101,T-Shirt,V-Neck,802.21,5,black,Medium,Cotton,Winter,488,2.4
+P1055,Kurti,Straight,â¹2051.34,15,Black,Small,Linen,Summer,104,4.6
+P1083,Kurti,A-Line,957,0,Blue,Small,Silk,Festive,121,4.9
+P1293,Saree,Silk,"2,604",10,Blue,Small,Silk,Winter,229,
+P1303,Jeans,Slim,â¹1835.28,0,Maroon,M,Georgette,Spring,24,2.6
+P1220,T-Shirt,Round Neck,4878.85,10,Navy Blue,S,Silk,Festive,104,4.3
+P1463,Shirt,Casual,2903.82,15,Maroon,38,Georgette,Winter,468,1.1
+P1457,Kurti,A-Line,â¹915.21,20,Black,M,Cotton,Winter,133,4.9
+P1424,Kurti,A-Line,"2,957",15,Crimson,,Linen,Winter,388,4.3
+P1090,T-Shirt,Round Neck,"4,444",20,White,Large,Linen,Summer,173,4
+P1301,Jeans,Skinny,"2,717",20,Maroon,XL,Linen,Summer,232,1.2
+P1399,Shirt,Formal,"4,551",5,Crimson,S,Polyester,Summer,192,1.3
+P1167,Kurti,Straight,â¹1507.59,,RED,Small,Linen,Spring,7,3.2
+P1291,Shirt,Formal,â¹3590.36,5,Maroon,Small,Georgette,Winter,37,1.6
+P1488,T-Shirt,V-Neck,"4,860",0,Black,,Georgette,Spring,120,3.4
+P1064,Saree,Designer,4406.35,0,Dark Blue,S,Georgette,Winter,339,2.7
+P1259,Jeans,Slim,â¹3725.38,10,White,M,Polyester,Spring,433,3
+P1177,Jeans,Skinny,â¹3412.72,15,White,40,Georgette,Festive,492,4.7
+P1472,Jeans,Slim,â¹2486.33,5,Navy,40,Linen,Festive,199,3.2
+P1231,Jeans,Skinny,617,10,Blue,Small,Georgette,Summer,368,4.9
+P1438,Shirt,Casual,2230.13,20,WHITE,XL,Georgette,Festive,367,4.3
+P1252,Kurti,Anarkali,2822.53,,Red,40,Polyester,Summer,204,3.7
+P1452,Kurti,Anarkali,â¹733.42,0,White,Large,Linen,Festive,372,3.7
+P1085,T-Shirt,Round Neck,637.85,10,Black,M,Polyester,Spring,137,4.7
+P1071,Shirt,Casual,3171.18,10,WHITE,L,Silk,Winter,324,3.7
+P1425,Jeans,Slim,â¹4310.34,5,Navy,40,Georgette,Summer,174,2
+P1272,Jeans,Slim,4621.99,10,Maroon,38,Silk,Spring,199,3.3
+P1175,Shirt,Formal,4407.5,20,WHITE,Large,Cotton,Winter,440,3
+P1487,T-Shirt,V-Neck,2161.54,,black,40,Polyester,Festive,486,2.3
+P1147,T-Shirt,V-Neck,"3,901",10,Navy,S,Silk,Spring,321,4.5
+P1467,T-Shirt,Round Neck,4668.43,15,WHITE,38,Silk,Summer,101,3.8
+P1044,T-Shirt,Round Neck,1711.1,10,Navy,XL,Polyester,Summer,166,1.4
+P1088,Saree,Silk,982,10,WHITE,Medium,Linen,Festive,372,3.1
+P1023,Kurti,Anarkali,â¹2512.97,0,WHITE,L,Silk,Summer,145,4.2
+P1315,Dress,Casual,â¹1297.96,20,red,,Georgette,Festive,287,
+P1139,Jeans,Skinny,3909.94,10,RED,Medium,Georgette,Spring,205,1.5
+P1213,Saree,Designer,â¹4140.94,0,Dark Blue,,Georgette,Festive,405,3.2
+P1252,Saree,Cotton,4381.67,,Dark Blue,40,Polyester,Spring,277,3.9
+P1403,Shirt,Casual,â¹4084.71,,WHITE,L,Silk,Winter,155,4.6
+P1013,Dress,Party,â¹2426.48,5,Red,S,Cotton,Winter,410,3.6
+P1067,T-Shirt,Round Neck,827.37,,red,Large,Polyester,Summer,106,
+P1324,Saree,Cotton,652.05,,Blue,40,Silk,Summer,145,4.4
+P1366,T-Shirt,V-Neck,"2,236",15,RED,38,Silk,Festive,229,4.2
+P1382,Jeans,Regular,3394.16,0,RED,Large,Georgette,Winter,470,1.8
+P1362,Dress,Party,1482.97,20,Crimson,Small,Silk,Winter,428,
+P1003,Kurti,A-Line,"1,144",,Navy Blue,,Cotton,Summer,193,4.5
+P1081,T-Shirt,Round Neck,â¹2369.16,5,Maroon,40,Linen,Spring,12,4.1
+P1402,Shirt,Formal,3493.21,5,Dark Blue,38,Linen,Spring,133,2.5
+P1079,Jeans,Regular,â¹2677.25,20,Red,Large,Silk,Summer,261,4.4
+P1283,Jeans,Regular,"2,220",5,Maroon,Small,Linen,Summer,281,3.9
+P1234,Dress,Party,2609.48,,Navy,Medium,Linen,Winter,474,3.3
+P1079,Kurti,Straight,1966.2,20,WHITE,,Silk,Festive,451,1.4
+P1038,Shirt,Casual,"3,457",,Navy Blue,Medium,Georgette,Winter,121,2.3
+P1438,Saree,Designer,"4,838",20,Navy,Large,Georgette,Spring,136,3
+P1112,Jeans,Regular,â¹3817.02,5,Crimson,XL,Polyester,Winter,482,
+P1415,Saree,Cotton,"4,394",15,WHITE,Small,Silk,Festive,309,4.4
+P1225,Shirt,Formal,1340.58,0,RED,S,Polyester,Winter,341,2.9
+P1251,T-Shirt,V-Neck,3734.44,,Dark Blue,M,Georgette,Winter,66,4.2
+P1373,Dress,Evening,â¹4069.55,,Red,40,Silk,Winter,19,2.1
+P1453,T-Shirt,V-Neck,"3,229",15,Black,40,Georgette,Festive,178,3.8
+P1263,Jeans,Slim,"4,453",10,RED,Medium,Georgette,Festive,473,
+P1120,Dress,Evening,â¹578.02,15,White,Small,Georgette,Spring,56,2.4
+P1460,Kurti,Straight,"4,424",0,Red,M,Georgette,Winter,398,4.8
+P1155,Jeans,Regular,3488.04,5,black,L,Georgette,Winter,29,1.8
+P1042,Dress,Party,â¹2370.13,5,White,,Linen,Summer,311,1.6
+P1059,Dress,Party,1179.19,5,RED,Small,Linen,Festive,238,1.6
+P1045,Dress,Party,"3,971",0,red,XL,Linen,Summer,66,1.2
+P1175,T-Shirt,Round Neck,"2,509",,Maroon,40,Linen,Winter,101,4
+P1220,Kurti,Straight,1821.26,15,Dark Blue,Medium,Georgette,Summer,338,3.6
+P1076,Jeans,Regular,3994.92,10,RED,Small,Cotton,Spring,11,3.7
+P1440,Jeans,Slim,â¹1132.75,0,WHITE,Large,Silk,Winter,305,1.5
+P1495,T-Shirt,Round Neck,â¹3652.82,10,Maroon,XL,Cotton,Summer,412,3.9
+P1298,T-Shirt,V-Neck,"1,076",15,Red,Small,Silk,Festive,60,1.8
+P1198,Saree,Designer,â¹1969.88,10,Crimson,M,Silk,Summer,132,4.6
+P1476,Kurti,Straight,â¹1133.81,0,Blue,Small,Polyester,Winter,245,3
+P1226,Dress,Evening,3195.8,,Maroon,Small,Linen,Festive,441,2.6
+P1332,Kurti,Straight,"4,370",0,Dark Blue,Large,Polyester,Winter,423,3.5
+P1016,Dress,Evening,â¹3655.4,5,Red,Small,Cotton,Spring,464,4.8
+P1318,T-Shirt,V-Neck,â¹2158.55,0,Dark Blue,38,Georgette,Spring,190,4.4
+P1070,Kurti,Anarkali,2658.07,10,black,XL,Cotton,Summer,22,4.1
+P1412,T-Shirt,Round Neck,674.29,,Crimson,XL,Georgette,Winter,51,2.1
+P1021,Dress,Casual,"1,228",20,Red,40,Cotton,Spring,229,3.4
+P1031,Jeans,Skinny,"4,883",15,red,Medium,Georgette,Summer,209,2
+P1416,Shirt,Formal,1994.63,10,Dark Blue,40,Polyester,Festive,153,2.6
+P1289,Dress,Party,1384.49,15,RED,Large,Georgette,Spring,228,2.7
+P1287,Saree,Cotton,633.58,0,Dark Blue,Medium,Silk,Festive,80,4.7
+P1223,Shirt,Casual,â¹4272.49,5,red,Large,Georgette,Summer,268,1.6
+P1206,Shirt,Formal,â¹644.38,15,Blue,Small,Polyester,Spring,320,4
+P1341,Dress,Evening,â¹2511.19,15,red,L,Cotton,Summer,383,3.3
+P1387,T-Shirt,Round Neck,"4,192",,Maroon,L,Georgette,Summer,161,5
+P1130,Dress,Casual,4030.06,20,WHITE,40,Cotton,Spring,331,4.3
+P1033,Shirt,Casual,"3,374",5,black,,Linen,Summer,416,3.4
+P1489,Jeans,Regular,â¹959.25,0,RED,Medium,Linen,Spring,487,
+P1390,Shirt,Casual,1617.09,10,Blue,M,Silk,Spring,298,1.5
+P1364,T-Shirt,V-Neck,4131.56,10,RED,XL,Silk,Summer,109,3.1
+P1028,T-Shirt,Round Neck,â¹975.61,5,White,S,Polyester,Summer,435,4.7
+P1384,Dress,Evening,"2,162",20,WHITE,40,Georgette,Festive,461,1.4
+P1257,Shirt,Formal,"3,789",,WHITE,L,Georgette,Summer,417,1.3
+P1273,T-Shirt,V-Neck,â¹4523.74,5,RED,Small,Linen,Spring,267,4.7
+P1224,T-Shirt,V-Neck,â¹4876.34,0,Black,M,Cotton,Summer,132,2.7
+P1431,Saree,Cotton,3499.63,5,Blue,,Cotton,Spring,304,4.1
+P1456,Jeans,Skinny,"4,703",15,White,,Polyester,Winter,307,3.2
+P1296,T-Shirt,Round Neck,â¹2585.12,,black,S,Polyester,Summer,301,3.9
+P1057,Saree,Silk,â¹4055.52,10,Blue,S,Linen,Winter,90,3.7
+P1370,Jeans,Slim,â¹3011.84,15,Dark Blue,Small,Linen,Festive,93,1.2
+P1427,T-Shirt,V-Neck,â¹3659.05,20,Blue,XL,Georgette,Winter,368,3.4
+P1077,Dress,Casual,â¹2538.77,0,black,S,Silk,Spring,52,1.6
+P1208,Saree,Designer,"3,920",10,Black,40,Silk,Summer,257,4.8
+P1356,Kurti,Anarkali,"2,905",20,Navy,,Cotton,Festive,70,2.6
+P1034,Kurti,A-Line,"2,503",15,Red,,Cotton,Summer,153,
+P1127,Dress,Party,"4,532",10,White,,Silk,Winter,365,1.9
+P1095,Shirt,Casual,â¹4524.99,5,Red,L,Polyester,Summer,205,4.3
+P1384,Dress,Evening,â¹2121.42,10,black,M,Polyester,Summer,315,
+P1356,Saree,Designer,642.05,10,Navy Blue,S,Georgette,Festive,205,2.9
+P1033,Jeans,Regular,"4,534",20,RED,L,Georgette,Summer,279,4.6
+P1074,Dress,Casual,"2,577",0,Navy Blue,Small,Linen,Spring,211,5
+P1320,Kurti,Anarkali,â¹3301.46,15,Navy Blue,40,Linen,Winter,357,2.6
+P1195,T-Shirt,V-Neck,"1,902",20,Navy Blue,Small,Polyester,Spring,301,2.3
+P1069,Jeans,Skinny,997,,WHITE,M,Cotton,Festive,184,4.7
+P1242,Jeans,Skinny,2080.67,0,Blue,S,Silk,Festive,106,2
+P1296,Jeans,Slim,"1,065",10,Dark Blue,Large,Georgette,Summer,194,1.2
+P1271,T-Shirt,V-Neck,â¹4131.47,20,Navy Blue,M,Cotton,Spring,471,2.5
+P1222,Saree,Designer,"4,377",15,black,XL,Cotton,Spring,404,1.6
+P1250,Saree,Cotton,â¹2406.16,15,Dark Blue,40,Cotton,Festive,400,4.1
+P1014,Kurti,Straight,"4,015",15,RED,Medium,Polyester,Spring,409,2.5
+P1172,Kurti,A-Line,â¹1329.46,,Navy Blue,S,Cotton,Festive,323,3.4
+P1217,Kurti,Straight,541,5,RED,Small,Silk,Winter,150,4
+P1355,Shirt,Casual,â¹4839.5,,black,L,Linen,Winter,391,1.3
+P1363,Dress,Evening,â¹855.79,0,red,Large,Georgette,Spring,273,3.6
+P1007,Dress,Evening,"3,922",0,black,,Georgette,Festive,246,5
+P1295,Kurti,Straight,4435.78,20,Dark Blue,38,Cotton,Spring,228,3.9
+P1038,Saree,Silk,â¹3373.67,5,Maroon,Small,Silk,Summer,104,1.9
+P1356,Shirt,Casual,â¹1525.89,20,Maroon,XL,Georgette,Summer,236,4.9
+P1485,Jeans,Skinny,â¹2158.23,20,RED,L,Silk,Summer,343,4
+P1408,T-Shirt,V-Neck,â¹4453.92,10,Red,S,Linen,Spring,156,2.1
+P1432,Shirt,Casual,3828.95,0,red,M,Silk,Winter,478,2.8
+P1375,T-Shirt,V-Neck,"3,569",0,black,38,Linen,Winter,124,3.6
+P1015,Jeans,Slim,1248.61,5,Black,40,Linen,Winter,419,
+P1277,Shirt,Casual,"3,713",0,Crimson,Small,Georgette,Festive,492,1.2
+P1197,Saree,Designer,3359.04,20,Crimson,Medium,Polyester,Winter,136,1.9
+P1403,Kurti,Anarkali,553,,Maroon,Small,Georgette,Summer,366,2.8
+P1431,T-Shirt,V-Neck,2813.85,15,Dark Blue,M,Polyester,Spring,130,4.8
+P1107,Saree,Cotton,"2,423",20,Dark Blue,Small,Linen,Winter,230,3.2
+P1342,Dress,Party,"3,588",10,Navy,,Cotton,Winter,274,3
+P1197,Jeans,Regular,"4,433",20,WHITE,,Linen,Winter,453,3.8
+P1246,Dress,Casual,â¹4969.43,20,Maroon,M,Linen,Summer,140,3.7
+P1441,Saree,Cotton,1546.48,,WHITE,40,Linen,Spring,89,4.6
+P1266,T-Shirt,Round Neck,3165.77,5,Navy,,Cotton,Winter,499,3.6
+P1483,T-Shirt,V-Neck,635.38,20,Navy,M,Georgette,Summer,364,4.7
+P1007,Kurti,Straight,1045.07,5,Navy,M,Cotton,Summer,32,2.5
+P1260,Shirt,Casual,1015.76,,WHITE,40,Linen,Festive,62,
+P1407,Dress,Casual,â¹1352.08,0,Navy Blue,S,Silk,Spring,475,2
+P1402,Dress,Party,2796.51,15,Navy Blue,XL,Georgette,Winter,99,2.6
+P1017,T-Shirt,V-Neck,4244.26,0,Navy,S,Linen,Festive,468,2.5
+P1194,Saree,Cotton,"4,786",15,red,Large,Cotton,Summer,223,4.6
+P1006,Shirt,Casual,1709.03,,Blue,Large,Polyester,Summer,362,
+P1277,Kurti,Anarkali,â¹507.14,10,red,XL,Georgette,Spring,395,1.2
+P1389,T-Shirt,Round Neck,"2,152",5,Blue,XL,Georgette,Winter,150,2.5
+P1081,Jeans,Slim,â¹3040.71,15,WHITE,38,Cotton,Winter,276,3.2
+P1349,Jeans,Slim,"1,032",,White,38,Georgette,Summer,186,
+P1432,T-Shirt,V-Neck,â¹1312.75,0,WHITE,38,Linen,Summer,354,1.5
+P1391,Dress,Evening,"2,442",10,black,40,Georgette,Winter,194,
+P1188,Dress,Party,"4,346",5,red,38,Polyester,Spring,261,4.8
+P1046,Shirt,Casual,"2,556",,Maroon,M,Linen,Spring,197,4.1
+P1282,Dress,Party,"3,528",5,Navy Blue,Small,Georgette,Festive,481,2.1
+P1171,Kurti,Straight,â¹3214.21,20,WHITE,Small,Linen,Summer,415,5
+P1469,Saree,Designer,â¹3791.35,5,red,40,Polyester,Spring,190,4.3
+P1001,Saree,Cotton,4007.76,20,RED,M,Polyester,Festive,425,
+P1032,T-Shirt,Round Neck,4721.44,,Blue,Medium,Polyester,Festive,140,2.8
+P1090,Kurti,Straight,â¹1753.01,20,RED,40,Georgette,Spring,454,4.2
+P1333,Dress,Evening,900,20,RED,M,Polyester,Festive,123,
+P1473,Shirt,Formal,"2,252",10,Red,38,Cotton,Summer,402,3.2
+P1190,Jeans,Skinny,911,0,WHITE,M,Linen,Summer,417,2.3
+P1380,Shirt,Formal,3863.89,10,Navy,38,Cotton,Winter,102,
+P1160,Shirt,Formal,"4,143",,Red,S,Linen,Spring,463,5
+P1287,Dress,Party,â¹3083.01,,Dark Blue,L,Silk,Winter,408,2.9
+P1176,T-Shirt,Round Neck,â¹4393.42,5,WHITE,L,Polyester,Festive,392,4.3
+P1473,Dress,Party,"4,068",5,black,Medium,Polyester,Summer,109,3.9
+P1078,Dress,Evening,1660.18,10,Crimson,40,Georgette,Festive,113,1.3
+P1184,Saree,Silk,"4,868",15,Navy Blue,40,Silk,Spring,446,2.7
+P1222,Dress,Casual,"4,379",0,Maroon,XL,Linen,Winter,301,5
+P1099,Saree,Cotton,"4,689",20,Navy Blue,M,Polyester,Winter,195,4.2
+P1276,Jeans,Regular,2326.51,0,Dark Blue,Large,Cotton,Festive,417,2.1
+P1171,Dress,Casual,"2,120",10,red,Large,Linen,Winter,105,3.9
+P1461,Dress,Party,â¹653.06,10,red,S,Linen,Spring,374,
+P1486,T-Shirt,Round Neck,4502.67,0,red,38,Georgette,Festive,48,3.7
+P1482,Kurti,Anarkali,"4,124",15,White,XL,Cotton,Winter,86,2.6
+P1418,T-Shirt,V-Neck,â¹4637.2,10,Maroon,Small,Silk,Summer,457,
+P1401,Kurti,Straight,â¹2469.82,20,Dark Blue,S,Cotton,Winter,440,4.2
+P1109,Dress,Evening,â¹1937.78,,RED,Large,Georgette,Spring,225,3.5
+P1051,Dress,Casual,â¹1771.34,15,Maroon,Medium,Silk,Festive,304,4.7
+P1329,Jeans,Slim,â¹3154.49,0,Navy,Small,Cotton,Summer,201,3.7
+P1104,Kurti,Anarkali,3977.88,,WHITE,Small,Cotton,Spring,178,1.1
+P1357,Kurti,Anarkali,705,10,red,Small,Georgette,Spring,320,1.4
+P1315,Kurti,A-Line,"2,015",5,Black,Large,Polyester,Winter,465,3.3
+P1017,Kurti,Straight,2126.06,0,Blue,38,Georgette,Summer,329,
+P1030,T-Shirt,V-Neck,"4,743",0,Black,XL,Linen,Festive,134,
+P1136,Jeans,Skinny,"4,982",,White,M,Silk,Winter,291,2.2
+P1001,Jeans,Regular,4378.5,15,black,38,Linen,Winter,171,1.9
+P1252,Jeans,Regular,4227.99,5,Blue,Large,Polyester,Winter,460,2.1
+P1321,Shirt,Casual,1326.97,5,White,,Silk,Winter,404,2.3
+P1292,Dress,Evening,568.55,0,White,XL,Cotton,Spring,125,
+P1007,T-Shirt,V-Neck,2796.97,5,red,Small,Linen,Festive,227,1.5
+P1490,Dress,Casual,â¹4533.73,15,Dark Blue,,Georgette,Festive,165,4.4
+P1394,Dress,Evening,"3,170",15,Navy Blue,M,Linen,Summer,118,2
+P1072,Jeans,Skinny,"4,088",15,Dark Blue,Large,Georgette,Winter,39,4.9
+P1464,Dress,Party,3181.27,15,red,Small,Polyester,Winter,115,3.2
+P1050,Kurti,Straight,2441.52,,Crimson,,Silk,Summer,180,3.1
+P1370,Dress,Party,â¹3077.83,0,White,Large,Georgette,Summer,222,1.4
+P1281,Shirt,Formal,â¹2909.89,20,red,,Polyester,Festive,353,1.7
+P1022,Jeans,Skinny,"2,217",,Red,Large,Silk,Festive,273,3.8
+P1311,Kurti,Straight,â¹2963.7,5,Black,,Linen,Winter,411,2.3
+P1070,Saree,Silk,"3,458",5,Maroon,38,Silk,Summer,27,1.9
+P1069,Saree,Designer,1073.57,,RED,S,Polyester,Summer,142,4.9
+P1440,Jeans,Skinny,"3,790",20,Maroon,Small,Cotton,Festive,498,2.4
+P1064,T-Shirt,Round Neck,"3,654",,White,S,Silk,Summer,324,1.2
+P1066,Jeans,Slim,1171.7,,black,38,Polyester,Winter,356,2
+P1257,Jeans,Skinny,686.43,0,Blue,Large,Cotton,Festive,129,1
+P1118,Dress,Casual,"3,718",15,black,38,Polyester,Festive,462,3.4
+P1011,Kurti,Straight,"3,955",,RED,,Cotton,Festive,349,3.7
+P1442,Jeans,Skinny,â¹2613.54,20,Red,M,Georgette,Winter,61,1.1
+P1034,Kurti,A-Line,â¹2935.46,20,Blue,XL,Silk,Winter,290,
+P1256,Kurti,Straight,2389.1,0,Dark Blue,XL,Georgette,Spring,496,4.4
+P1196,Shirt,Casual,4793.21,5,Maroon,XL,Silk,Summer,292,2.6
+P1398,Saree,Silk,â¹1864.39,10,Navy Blue,S,Linen,Festive,200,3.7
+P1213,T-Shirt,Round Neck,"3,727",10,Red,L,Georgette,Festive,85,1.5
+P1045,Kurti,Anarkali,1106.1,10,RED,L,Silk,Festive,340,4.3
+P1136,Saree,Designer,â¹2996.62,,RED,Small,Georgette,Summer,273,4.8
+P1075,T-Shirt,Round Neck,â¹3829.57,,Navy,L,Cotton,Festive,134,3.2
+P1484,Kurti,Straight,â¹3740.74,15,RED,Large,Cotton,Spring,272,2
+P1039,Kurti,Straight,4140.13,0,Maroon,Large,Georgette,Festive,207,
+P1398,Jeans,Regular,â¹2164.08,,Blue,,Polyester,Festive,169,2.6
+P1369,Jeans,Slim,â¹4088.69,,Dark Blue,Medium,Polyester,Winter,223,2.9
+P1304,Saree,Cotton,"2,239",20,Blue,Small,Linen,Winter,463,1.3
+P1357,Saree,Cotton,"2,164",0,WHITE,Large,Georgette,Spring,260,
+P1073,Saree,Silk,"3,921",10,Crimson,Large,Georgette,Festive,203,2.8
+P1069,Dress,Evening,â¹560.96,5,Dark Blue,,Cotton,Spring,92,4.7
+P1333,Saree,Silk,â¹4989.63,20,WHITE,Medium,Silk,Winter,481,1.5
+P1231,Saree,Cotton,1460.71,20,Blue,Medium,Linen,Winter,53,3.7
+P1374,Dress,Evening,"2,903",0,black,40,Polyester,Winter,72,1.3
+P1143,Jeans,Slim,"2,509",10,RED,Medium,Polyester,Spring,378,2.7
+P1333,T-Shirt,V-Neck,"1,668",,black,S,Cotton,Festive,99,1.7
+P1210,Jeans,Slim,613,10,Maroon,M,Silk,Festive,236,3.3
+P1239,Shirt,Casual,2330.32,0,red,L,Cotton,Summer,473,3.8
+P1012,Kurti,Anarkali,4695.93,10,Dark Blue,40,Cotton,Summer,12,2.9
+P1158,Jeans,Skinny,3782.7,5,Dark Blue,38,Silk,Summer,217,
+P1405,Saree,Silk,"4,854",0,Crimson,Medium,Linen,Summer,253,4.6
+P1177,Kurti,Straight,"1,391",10,Maroon,M,Georgette,Festive,90,1.1
+P1438,Jeans,Skinny,"3,090",15,Crimson,Medium,Polyester,Winter,368,3.5
+P1075,Jeans,Slim,1459.44,5,RED,38,Silk,Winter,457,3.4
+P1353,Dress,Casual,â¹2136.16,,Crimson,Medium,Polyester,Winter,66,2.7
+P1203,T-Shirt,V-Neck,â¹4873.97,0,Red,40,Linen,Summer,261,3.4
+P1195,Dress,Party,4131.17,0,red,S,Linen,Summer,79,2.4
+P1347,T-Shirt,Round Neck,"4,518",20,White,M,Cotton,Festive,341,3.5
+P1399,Jeans,Regular,â¹2903.6,15,black,Medium,Polyester,Festive,385,1.6
+P1487,Kurti,A-Line,4921.12,5,Maroon,40,Cotton,Summer,386,2
+P1439,Kurti,Anarkali,"3,020",,WHITE,M,Silk,Winter,375,2.6
+P1172,Shirt,Formal,"4,194",5,Dark Blue,S,Linen,Winter,426,4.2
+P1058,Shirt,Formal,800,20,Red,L,Linen,Festive,141,1.9
+P1486,Shirt,Casual,"1,531",10,Crimson,Small,Georgette,Spring,76,
+P1089,Jeans,Skinny,â¹1488.88,15,White,S,Georgette,Spring,339,3.3
+P1032,Jeans,Regular,â¹3455.83,10,Maroon,L,Linen,Summer,185,3.3
+P1044,Kurti,A-Line,â¹3468.6,15,Maroon,L,Cotton,Summer,289,3.7
+P1477,Saree,Cotton,"1,722",,red,,Linen,Winter,302,3.2
+P1415,Saree,Silk,770.89,5,Red,L,Silk,Festive,499,1.1
+P1338,T-Shirt,V-Neck,932,0,RED,L,Cotton,Winter,292,3.9
+P1331,T-Shirt,V-Neck,"2,582",15,Blue,S,Georgette,Festive,110,
+P1040,Shirt,Casual,4519.38,20,Crimson,M,Silk,Festive,333,4.1
+P1273,Shirt,Casual,"3,629",20,black,40,Linen,Spring,121,4.7
+P1354,Jeans,Slim,"3,072",10,Navy,Small,Georgette,Summer,322,2.3
+P1371,Kurti,Straight,"4,792",20,White,Large,Silk,Winter,63,1.6
+P1396,T-Shirt,Round Neck,2083.88,10,black,XL,Polyester,Spring,288,4.2
+P1000,Saree,Cotton,530.99,5,Blue,40,Linen,Festive,156,3.7
+P1229,Shirt,Casual,"2,304",20,black,L,Cotton,Festive,417,4.6
+P1016,Shirt,Formal,â¹1656.19,0,Blue,Medium,Polyester,Spring,357,1.8
+P1218,T-Shirt,V-Neck,"4,887",20,RED,38,Linen,Summer,56,3.3
+P1114,Saree,Silk,â¹3061.89,10,Navy,S,Polyester,Festive,368,
+P1082,Saree,Cotton,995,15,Blue,Medium,Linen,Spring,120,4.4
+P1435,T-Shirt,V-Neck,"4,622",20,WHITE,Large,Georgette,Festive,178,2.7
+P1385,Shirt,Formal,â¹1843.42,10,Navy Blue,Medium,Polyester,Spring,402,
+P1475,Saree,Designer,"1,045",20,WHITE,Medium,Georgette,Winter,426,4.4
+P1294,Saree,Designer,2529.01,10,Blue,L,Cotton,Winter,74,3.4
+P1244,T-Shirt,V-Neck,"1,077",,Navy,,Georgette,Spring,51,1.4
+P1353,Dress,Party,2504.94,5,red,38,Cotton,Festive,167,4.4
+P1401,Saree,Silk,"1,791",15,Dark Blue,Large,Linen,Winter,439,1.1
+P1221,Dress,Evening,"1,857",10,Blue,Small,Silk,Winter,290,
+P1054,Dress,Evening,â¹4537.57,5,Crimson,Small,Silk,Festive,170,4.5
+P1172,T-Shirt,V-Neck,"1,356",,White,38,Cotton,Festive,497,4.7
+P1361,T-Shirt,Round Neck,â¹4749.72,10,Black,L,Silk,Spring,356,2.6
+P1281,Dress,Evening,"1,502",10,Red,Medium,Polyester,Winter,97,1.6
+P1099,Jeans,Slim,1110.79,10,black,L,Silk,Spring,208,1.4
+P1296,Saree,Silk,"3,484",15,Black,XL,Georgette,Summer,16,4.6
+P1291,Jeans,Regular,3698.4,10,Blue,,Cotton,Winter,453,1.4
+P1032,Jeans,Regular,â¹2471.69,15,Navy Blue,Medium,Cotton,Spring,106,1.2
+P1484,Kurti,A-Line,â¹4072.73,0,RED,M,Georgette,Spring,216,1.7
+P1101,Saree,Designer,4424.63,5,RED,40,Silk,Winter,4,1.5
+P1117,Shirt,Formal,1469.87,0,Navy,Medium,Polyester,Festive,239,3.9
+P1186,Dress,Party,â¹4554.07,0,black,XL,Silk,Festive,312,4
+P1088,Saree,Silk,4543.9,10,White,Large,Silk,Summer,40,1.7
+P1417,Kurti,A-Line,â¹3117.75,15,RED,Medium,Cotton,Winter,138,4.8
+P1234,Kurti,Straight,â¹1071.75,0,Crimson,,Cotton,Summer,232,4.8
+P1029,Jeans,Skinny,â¹1817.03,15,Maroon,XL,Polyester,Festive,373,1.4
+P1211,Shirt,Casual,â¹1945.02,0,WHITE,,Silk,Spring,25,3.6
+P1078,Kurti,A-Line,â¹4425.79,,black,M,Polyester,Summer,92,3.4
+P1144,T-Shirt,V-Neck,"2,233",,Navy Blue,40,Silk,Winter,248,1.8
+P1066,T-Shirt,Round Neck,4074.93,0,red,S,Cotton,Festive,494,1.9
+P1314,Saree,Designer,"2,987",0,White,Small,Linen,Summer,441,2.2
+P1077,Dress,Party,"4,696",10,red,,Georgette,Spring,355,3.4
+P1089,Jeans,Skinny,2722.96,5,black,XL,Polyester,Winter,112,1.7
+P1073,Dress,Casual,4357.2,0,Blue,M,Linen,Spring,350,3.4
+P1465,Jeans,Regular,4324.99,5,Maroon,S,Georgette,Winter,103,2.2
+P1255,Shirt,Formal,"1,871",20,WHITE,,Polyester,Summer,138,4.2
+P1392,Dress,Casual,â¹3262.32,20,White,Large,Cotton,Spring,97,2.8
+P1203,Saree,Designer,3658.96,15,White,Medium,Silk,Spring,212,1.7
+P1081,Shirt,Casual,1935.08,10,WHITE,M,Cotton,Festive,41,2.4
+P1014,Dress,Evening,4142.85,,Dark Blue,,Silk,Winter,303,1.3
+P1162,Shirt,Formal,689,10,Crimson,,Linen,Winter,223,3.7
+P1370,Kurti,A-Line,"2,338",10,White,M,Cotton,Festive,193,
+P1330,Jeans,Regular,3305.76,,Black,Large,Cotton,Winter,104,1.9
+P1273,T-Shirt,Round Neck,696,5,Maroon,M,Cotton,Summer,90,1.4
+P1261,Kurti,Straight,â¹2174.51,,red,Large,Georgette,Winter,445,2.7
+P1053,Shirt,Casual,1840.79,20,red,40,Polyester,Spring,284,2.6
+P1000,Saree,Silk,"4,267",0,Crimson,XL,Silk,Festive,226,2.9
+P1491,Saree,Designer,"1,972",15,White,XL,Polyester,Festive,383,4
+P1151,T-Shirt,V-Neck,3758.99,,RED,Small,Georgette,Winter,366,4.2
+P1156,Kurti,Straight,1369.89,,red,S,Polyester,Winter,313,1.9
+P1469,Dress,Casual,"3,797",20,Crimson,Small,Cotton,Festive,441,1.6
+P1049,Shirt,Casual,"3,089",,RED,40,Silk,Summer,376,1.2
+P1352,Shirt,Casual,"2,344",,RED,S,Cotton,Summer,178,4
+P1096,T-Shirt,V-Neck,â¹1370.26,0,Red,Large,Cotton,Spring,414,2
+P1478,T-Shirt,Round Neck,2974.25,10,Black,M,Linen,Winter,337,4.1
+P1357,Dress,Evening,"2,529",15,RED,38,Linen,Winter,439,4.4
+P1344,Kurti,A-Line,â¹3242.36,5,Navy,38,Linen,Summer,258,1.5
+P1090,Jeans,Slim,â¹4608.73,15,black,Small,Silk,Festive,282,4.1
+P1258,Dress,Evening,"1,354",5,Navy,Medium,Georgette,Winter,50,4.4
+P1236,Jeans,Skinny,2071.97,,WHITE,Small,Georgette,Festive,166,4.1
+P1252,Jeans,Skinny,â¹2327.27,15,red,S,Linen,Spring,422,1
+P1126,T-Shirt,Round Neck,â¹4353.35,0,WHITE,M,Linen,Festive,489,2.8
+P1214,T-Shirt,Round Neck,"2,085",20,Black,Medium,Georgette,Spring,179,1.7
+P1077,Jeans,Skinny,"4,958",,Blue,XL,Polyester,Festive,273,1.7
+P1165,Saree,Designer,4232.45,15,Navy,L,Georgette,Winter,175,3.4
+P1391,Jeans,Regular,3327.24,15,Maroon,L,Silk,Summer,227,2.9
+P1032,T-Shirt,V-Neck,â¹2403.73,15,WHITE,,Linen,Festive,11,3.2
+P1254,T-Shirt,V-Neck,"1,881",10,Black,Large,Georgette,Spring,207,4.8
+P1057,Kurti,A-Line,â¹4108.92,15,black,Medium,Polyester,Festive,265,2.4
+P1397,Shirt,Formal,â¹4987.59,20,Black,S,Polyester,Spring,161,
+P1412,T-Shirt,Round Neck,"3,482",15,Red,Large,Silk,Summer,427,1.1
+P1203,Shirt,Formal,4825.31,15,Navy Blue,40,Georgette,Summer,9,1.7
+P1394,T-Shirt,V-Neck,2113.56,5,Red,40,Georgette,Winter,447,1.2
+P1282,Shirt,Casual,"3,500",5,WHITE,,Linen,Spring,426,5
+P1007,T-Shirt,V-Neck,2371.97,5,black,Large,Cotton,Summer,0,3.7
+P1052,Jeans,Regular,â¹3918.98,20,Crimson,,Polyester,Winter,8,4.8
+P1392,Shirt,Casual,â¹936.91,20,Navy,38,Georgette,Spring,221,1.2
+P1241,Shirt,Formal,"3,441",5,Blue,S,Cotton,Summer,323,2.7
+P1470,Jeans,Skinny,â¹714.22,10,Navy Blue,L,Silk,Summer,201,3.7
+P1084,Shirt,Casual,â¹4183.25,10,Red,XL,Silk,Winter,59,2.4
+P1161,T-Shirt,V-Neck,4425.09,15,Crimson,M,Silk,Winter,63,2.3
+P1225,Kurti,A-Line,â¹3413.82,0,Navy Blue,38,Polyester,Festive,461,3.2
+P1307,Jeans,Regular,2175.64,15,Dark Blue,M,Cotton,Winter,273,1
+P1178,Dress,Evening,"1,793",5,red,M,Georgette,Summer,1,2.6
+P1475,Jeans,Skinny,4759.27,,Crimson,38,Silk,Winter,324,3
+P1374,Shirt,Casual,"2,912",5,WHITE,Large,Georgette,Spring,364,3.2
+P1087,Kurti,Straight,â¹3130.05,,Dark Blue,M,Polyester,Summer,207,3
+P1034,Shirt,Casual,â¹3267.27,0,Dark Blue,S,Georgette,Summer,185,1.4
+P1117,Shirt,Casual,â¹1882.65,10,White,Medium,Polyester,Winter,152,3.1
+P1060,Jeans,Slim,â¹1831.08,10,WHITE,L,Georgette,Festive,102,4.4
+P1250,T-Shirt,Round Neck,664.91,20,Black,S,Silk,Winter,63,2.7
+P1266,Dress,Party,"1,404",20,RED,XL,Cotton,Festive,259,1.7
+P1245,T-Shirt,Round Neck,2086.82,20,black,Medium,Cotton,Spring,423,1.7
+P1227,Jeans,Skinny,1910.57,,Navy Blue,XL,Polyester,Winter,474,1.9
+P1442,T-Shirt,Round Neck,956,0,Dark Blue,XL,Linen,Winter,149,2.5
+P1193,Dress,Party,"2,656",5,WHITE,XL,Georgette,Summer,158,4.3
+P1454,Kurti,A-Line,â¹3220.71,15,White,XL,Polyester,Spring,26,3.3
+P1272,Dress,Party,666.19,20,Black,Large,Linen,Winter,295,
+P1048,Kurti,A-Line,3689.92,,red,40,Georgette,Festive,339,4.6
+P1376,Kurti,A-Line,â¹1826.64,20,Crimson,40,Polyester,Festive,298,1.7
+P1292,Saree,Cotton,"1,978",10,Crimson,40,Silk,Summer,431,1.7
+P1374,Dress,Casual,â¹3853.37,20,WHITE,Small,Silk,Spring,270,3.6
+P1384,Shirt,Formal,â¹2579.55,20,Black,L,Polyester,Spring,415,
+P1267,Saree,Silk,2414.54,15,Black,Small,Cotton,Winter,371,1.1
+P1058,T-Shirt,V-Neck,"3,883",0,WHITE,Medium,Georgette,Festive,427,2.1
+P1377,Saree,Designer,551.1,20,White,,Silk,Summer,227,1.2
+P1473,Saree,Silk,â¹3021.23,15,WHITE,Medium,Silk,Spring,45,3.6
+P1386,Jeans,Slim,2923.07,,black,S,Polyester,Winter,64,1.1
+P1403,Jeans,Skinny,1048.37,20,red,S,Silk,Winter,436,2.9
+P1062,Kurti,A-Line,â¹4397.63,5,Maroon,XL,Cotton,Summer,353,4.3
+P1145,Dress,Party,3727.3,10,Red,M,Polyester,Winter,365,2.6
+P1254,Saree,Designer,"4,077",5,Blue,XL,Silk,Festive,40,2.4
+P1107,Jeans,Slim,2304.24,10,Navy,,Cotton,Summer,320,2.3
+P1230,Shirt,Formal,â¹2150.23,,Navy,Small,Polyester,Festive,420,3.3
+P1051,T-Shirt,Round Neck,2106.81,15,Navy Blue,Medium,Linen,Summer,337,3
+P1014,Kurti,Anarkali,â¹2687.72,5,Black,,Linen,Festive,209,
+P1193,Kurti,Anarkali,1296.9,10,Navy Blue,Small,Linen,Summer,17,3.5
+P1324,Jeans,Regular,â¹4815.05,5,Dark Blue,40,Polyester,Festive,424,4.9
+P1279,Dress,Evening,"1,350",0,RED,38,Silk,Summer,135,2.7
+P1446,Shirt,Formal,"4,701",0,Navy Blue,L,Polyester,Festive,59,3.3
+P1294,T-Shirt,V-Neck,4074.11,15,WHITE,S,Linen,Festive,205,4
+P1470,Jeans,Slim,"3,320",0,WHITE,M,Silk,Spring,480,2.8
+P1057,Saree,Cotton,â¹3894.79,,Navy,Large,Georgette,Festive,69,1.5
+P1412,Saree,Silk,â¹595.73,20,Black,Small,Cotton,Festive,429,2.1
+P1302,Jeans,Skinny,1413.93,20,Crimson,40,Cotton,Festive,105,2.8
+P1374,Jeans,Regular,4828.1,5,Navy,XL,Polyester,Festive,230,
+P1309,Saree,Silk,1546.47,0,WHITE,Small,Polyester,Winter,262,4.5
+P1068,Dress,Evening,â¹2952.28,10,Navy Blue,M,Cotton,Spring,34,1.7
+P1334,Kurti,Straight,"3,250",10,black,38,Silk,Summer,137,1.3
+P1302,Dress,Party,"3,605",,Navy Blue,Small,Georgette,Winter,81,5
+P1318,Kurti,A-Line,3394.61,15,Maroon,,Polyester,Summer,488,1.6
+P1300,Saree,Designer,4784.53,,Maroon,40,Linen,Winter,381,2
+P1191,T-Shirt,V-Neck,1421.09,0,black,L,Silk,Winter,148,
+P1214,Jeans,Slim,3530.52,0,red,40,Georgette,Summer,18,2.5
+P1025,Shirt,Formal,3593.94,15,Red,M,Georgette,Festive,229,1.7
+P1399,Kurti,Straight,â¹643.09,5,Blue,XL,Silk,Summer,292,2.6
+P1243,T-Shirt,Round Neck,â¹544.89,20,Dark Blue,S,Cotton,Summer,253,2.3
+P1110,T-Shirt,Round Neck,â¹616.99,20,black,Small,Silk,Summer,335,1.6
+P1289,Dress,Evening,â¹2932.41,0,Maroon,40,Linen,Summer,335,1.6
+P1161,Dress,Evening,â¹4119.19,,Crimson,L,Linen,Summer,253,1.7
+P1131,Dress,Casual,â¹4254.06,10,Navy,XL,Cotton,Winter,422,2.2
+P1331,Kurti,Straight,2122.46,15,Red,M,Polyester,Winter,109,2.1
+P1373,Dress,Evening,"4,794",0,WHITE,L,Polyester,Festive,408,4.5
+P1215,Shirt,Formal,1437.1,,White,Large,Polyester,Summer,115,2.9
+P1368,Dress,Party,â¹2595.28,20,Red,M,Polyester,Spring,423,3.3
+P1054,Saree,Silk,2220.19,0,WHITE,Small,Polyester,Summer,87,3.2
+P1453,Shirt,Casual,"3,796",15,Navy Blue,38,Georgette,Festive,405,4.9
+P1194,Jeans,Regular,â¹1071.06,0,Red,40,Georgette,Spring,159,1.1
+P1285,Jeans,Skinny,"2,472",0,WHITE,Small,Georgette,Summer,251,4.4
+P1025,Kurti,Straight,2467.32,15,WHITE,40,Silk,Festive,311,3.5
+P1276,Kurti,Anarkali,â¹4908.41,10,Black,XL,Polyester,Festive,483,3
+P1210,Dress,Evening,"3,083",10,Navy Blue,XL,Silk,Winter,365,1.7
+P1351,Kurti,Straight,â¹3845.66,,RED,S,Polyester,Spring,0,4
+P1265,Dress,Evening,592,15,Navy,L,Linen,Festive,122,3.4
+P1046,Dress,Party,"2,844",0,Navy Blue,Small,Linen,Summer,11,4.4
+P1321,Dress,Casual,"3,054",5,Navy,M,Linen,Winter,478,4.3
+P1372,Jeans,Slim,"4,752",15,Maroon,,Cotton,Festive,4,3.9
+P1482,Saree,Designer,4950.46,20,Blue,38,Polyester,Festive,125,
+P1263,Dress,Party,"4,171",10,White,Medium,Silk,Festive,60,3.9
+P1267,Kurti,Anarkali,871.17,0,Dark Blue,Small,Georgette,Spring,355,3
+P1096,T-Shirt,V-Neck,1175.37,,Navy Blue,S,Cotton,Spring,104,2
+P1192,Shirt,Casual,â¹634.87,20,WHITE,,Polyester,Spring,297,2.1
+P1027,Shirt,Casual,"2,487",0,Red,40,Silk,Spring,451,1.1
+P1352,Kurti,A-Line,3964.96,20,RED,M,Silk,Festive,305,2.2
+P1072,Dress,Evening,â¹4824.38,0,Black,Large,Georgette,Summer,254,2.3
+P1326,Kurti,Anarkali,â¹1523.31,5,Blue,L,Silk,Winter,176,1.1
+P1395,Saree,Silk,1217.62,20,RED,40,Polyester,Summer,281,2.7
+P1498,Dress,Party,"1,295",10,Dark Blue,,Cotton,Spring,340,2.6
+P1112,Dress,Evening,2590.92,0,Navy Blue,XL,Linen,Summer,27,
+P1044,T-Shirt,Round Neck,â¹2850.67,0,red,M,Silk,Winter,290,4.7
+P1015,Shirt,Formal,2078.81,,Navy Blue,40,Polyester,Summer,254,2.7
+P1467,Saree,Silk,"4,800",10,Navy Blue,XL,Cotton,Spring,335,1.6
+P1153,Shirt,Casual,"4,944",15,Red,Small,Georgette,Summer,170,2.5
+P1493,Jeans,Slim,4093.47,,Navy Blue,38,Silk,Spring,120,4.8
+P1086,Dress,Casual,"4,996",5,Dark Blue,Small,Silk,Festive,342,2.6
+P1360,Dress,Party,â¹2263.93,15,Dark Blue,XL,Silk,Winter,141,4.8
+P1436,T-Shirt,V-Neck,â¹4477.43,20,black,40,Polyester,Spring,242,1.3
+P1185,Kurti,A-Line,770.4,0,Red,XL,Cotton,Spring,256,5
+P1415,Kurti,Straight,â¹1558.82,5,Navy Blue,S,Polyester,Festive,449,2.5
+P1404,Kurti,Straight,â¹1178.67,,Blue,L,Georgette,Spring,83,3.3
+P1353,Kurti,Straight,"4,864",10,Crimson,L,Cotton,Summer,51,3.4
+P1075,Kurti,A-Line,"2,976",15,Navy,S,Linen,Winter,157,3.7
+P1412,Saree,Designer,"4,434",5,Maroon,Small,Georgette,Spring,300,3.1
+P1177,Shirt,Casual,1668.52,0,red,S,Silk,Summer,82,2.5
+P1410,Kurti,A-Line,3873.88,,RED,Medium,Cotton,Summer,362,2.2
+P1254,Jeans,Slim,2407.48,5,red,40,Linen,Summer,29,1.2
+P1281,Jeans,Skinny,â¹972.66,20,WHITE,,Cotton,Summer,45,1.1
+P1416,Dress,Evening,â¹1840.16,0,Navy,Small,Linen,Summer,301,4
+P1053,T-Shirt,V-Neck,705,,Crimson,XL,Silk,Spring,350,4.9
+P1297,Dress,Party,2782.97,,Navy Blue,38,Georgette,Spring,444,1
+P1174,Dress,Evening,â¹1427.15,5,Dark Blue,40,Silk,Summer,11,1.7
+P1241,T-Shirt,V-Neck,2851.64,5,Crimson,38,Georgette,Summer,366,1.4
+P1353,Shirt,Formal,"2,420",20,red,,Linen,Winter,66,3.7
+P1396,T-Shirt,V-Neck,â¹1630.91,0,Black,Medium,Linen,Spring,428,2.8
+P1093,Shirt,Formal,4548.52,10,Black,S,Georgette,Spring,401,4.5
+P1131,T-Shirt,Round Neck,566,,Navy Blue,Medium,Silk,Winter,448,1.7
