@@ -137,5 +137,7 @@ jupyter notebook
 product_sales_classification.ipynb
 ```
 
+---
+
 ## Author
 Narjeena Thanveen P K
