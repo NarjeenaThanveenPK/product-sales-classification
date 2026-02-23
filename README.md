@@ -48,7 +48,7 @@ Selected because:
 
 Two models were evaluated:
 - Baseline Random Forest  
-- Regularized Random Forest (controlled tree depth and split criteria)
+- Regularized Random Forest (controlled tree depth and split criteria in order to reduce model complexity and improve generalization)
 
 ---
 
